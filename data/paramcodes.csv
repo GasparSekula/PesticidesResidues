@@ -1,0 +1,122 @@
+0,SKRÓT [EN],PEŁNA NAZWA [EN],PARAMCODE : WARTOŚĆ
+1,Abamectin (sum),"Abamectin (sum of avermectin B1a, avermectinB1b and delta-8,9 isomer of avermectin B1a, expressed as avermectin B1a)",“RF-00004655-PAR” : 0.01
+2,Mepiquat (sum),"Mepiquat (sum of mepiquat and its salts, expressed as mepiquat chloride)",“RF-00005721-PAR” : 0.07
+3,Chlormequat (sum),"Chlormequat (sum of chlormequat and its salts, expressed as chlormequat-chloride)",“RF-00005727-PAR” : 0.5
+4,Abamectin (sum),"Abamectin (sum of Avermectin B1a, Avermectin B1b and delta-8,9 isomer of Avermectin B1a)",“RF-0011-001-PPP” : 0.01
+5,Dieldrin (sum),Aldrin and Dieldrin (Aldrin and dieldrin combined expressed as dieldrin),“RF-0021-001-PPP” : 0.006
+6,Aldrin,Aldrin,“RF-0021-002-PPP” : 0.006
+7,Dieldrin,Dieldrin,“RF-0021-003-PPP” : 0.006
+8,Azinphos-ethyl,Azinphos-ethyl,“RF-0032-001-PPP” : 0.01
+9,Azinphos-methyl,Azinphos-methyl,“RF-0033-001-PPP” : 0.01
+10,Carbendazim,Carbendazim,“RF-0041-002-PPP” : 0.05
+11,Bifenthrin (sum),Bifenthrin (sum of isomers),“RF-0046-001-PPP” : 0.2
+12,Boscalid,Boscalid,“RF-0049-001-PPP” : 0.02
+13,Boscalid (sum),Boscalid (sum of boscalid and M510F01 including its conjugates),“RF-0049-002-PPP” : 0.02
+14,Bromide ion,Bromide ion,“RF-0050-001-PPP” : 0.05
+15,Bromuconazole (sum),Bromuconazole (sum of diasteroisomers),"""RF-0054-001-PPP"" :  brak"
+16,Toxaphene,Camphechlor (Toxaphene),“RF-0059-001-PPP” : 0.01
+17,Camphechlor,Camphechlor (chlorinated camphen with 67-69% chlorine),“RF-0059-002-PPP” : 0.01
+18,Chlordane,Chlordane,"""RF-0075-002-PPP"" : 0.002"
+19,Chlordane (sum),Chlordane (sum of cis- and trans-isomers and oxychlordane expressed as chlordane),“RF-0075-005-PPP” : 0.002
+20,Chlormequat,Chlormequat,“RF-0081-001-PPP” : 0.5
+21,Chlorobenzilate,Chlorobenzilate,“RF-0082-001-PPP” : 0.1
+22,Chlorpropham,"Chlorpropham (Chlorpropham and 3-chloroaniline, expressed as Chlorpropham)",“RF-0086-001-PPP” : 0.05
+23,Chlorpropham,Chlorpropham,“RF-0086-003-PPP” : 0.05
+24,Chlorpyrifos,Chlorpyrifos,“RF-0087-001-PPP” : 0.01
+25,Chlorpyrifos-methyl,Chlorpyrifos-methyl,“RF-0088-001-PPP” : 0.01
+26,Cyfluthrin (sum),Cyfluthrin (Cyfluthrin including other mixtures of constituent isomers (sum of isomers)),“RF-0108-001-PPP” : 0.02
+27,"Cyfluthrin, beta-","Cyfluthrin, beta-",“RF-0108-002-PPP” : 0.02
+28,Cyfluthrin,Cyfluthrin,“RF-0108-003-PPP” : 0.02
+29,Cypermethrin (sum),Cypermethrin (Cypermethrin including other mixtures of constituent isomers (sum of isomers)),“RF-0112-001-PPP” : 0.05
+30,DDT (sum),"DDT (sum of p,p'-DDT, o,p'-DDT, p-p'-DDE and p,p'-TDE (DDD) expressed as DDT)",“RF-0119-001-PPP” : 0.04
+31,"DDE, p,p-","DDE, p,p-",“RF-0119-002-PPP” : 0.04
+32,"DDT, o,p-","DDT, o,p-",“RF-0119-003-PPP” : 0.04
+33,"DDD, p,p-","DDD, p,p-",“RF-0119-004-PPP” : 0.04
+34,"DDT, p,p-","DDT, p,p-",“RF-0119-006-PPP” : 0.04
+35,"DDE, o,p-","DDE, o,p-",“RF-0119-007-PPP” : 0.04
+36,Deltamethrin,Deltamethrin (cis-deltamethrin),“RF-0120-001-PPP” : 0.05
+37,Diazinon,Diazinon,“RF-0123-001-PPP” : 0.02
+38,Diphenylamine,Diphenylamine,“RF-0147-001-PPP” : 0.05
+39,Endosulfan (sum),Endosulfan (sum of alpha- and beta-isomers and endosulfan-sulphate expresses as endosulfan),“RF-0155-001-PPP” : 0.05
+40,Endosulfansulfate,Endosulfansulfate,“RF-0155-002-PPP” : 0.05
+41,"Endosulfan, beta-","Endosulfan, beta-",“RF-0155-003-PPP” : 0.05
+42,"Endosulfan, alpha-","Endosulfan, alpha-",“RF-0155-004-PPP” : 0.05
+43,Endrin,Endrin,“RF-0156-001-PPP” : 0.0008
+44,Etofenprox,Etofenprox,“RF-0168-001-PPP” : 0.07
+45,Famoxadone,Famoxadone,“RF-0171-001-PPP” : 0.03
+46,Fenpropimorph (sum),Fenpropimorph (sum of isomers),“RF-0185-001-PPP” : 0.01
+47,Fenpropimorph ,Fenpropimorph carboxylic acid (BF 421-2) expressed as fenpropimorph,“RF-0185-002-PPP” : 0.01
+48,Fenthion (sum),"Fenthion (fenthion and its oxigen analogue, their sulfoxides and sulfone expressed as parent)",“RF-0187-001-PPP” : 0.01
+49,Fenthion-Sulfoxide,Fenthion-Sulfoxide,“RF-0187-002-PPP” : 0.01
+50,Fenthion-Sulfon,Fenthion-Sulfon,“RF-0187-003-PPP” : 0.01
+51,Fenthion-Oxon,Fenthion-Oxon,“RF-0187-004-PPP” : 0.01
+52,Fenthion-Oxonsulfoxide,Fenthion-Oxonsulfoxide,“RF-0187-005-PPP” : 0.01
+53,Fenthion,Fenthion,“RF-0187-006-PPP” : 0.01
+54,Fipronil (sum),Fipronil (sum Fipronil and sulfone metabolite (MB46136) expressed as Fipronil),“RF-0192-001-PPP” : 0.005
+55,Fipronil-Sulfone,Fipronil-Sulfone,“RF-0192-002-PPP” : 0.005
+56,Fipronil,Fipronil,“RF-0192-003-PPP” : 0.005
+57,Fluazifop-P,Fluazifop-P-butyl (fluazifop acid (free and conjugate)),“RF-0197-001-PPP” : 0.08
+58,Fluazifop-P,Fluazifop-P-butyl,“RF-0197-002-PPP” : 0.08 
+59,Fluquinconazole,Fluquinconazole,“RF-0213-001-PPP” : 0.01
+60,Flusilazole,Flusilazole,“RF-0218-001-PPP” : 0.02
+61,Glufosinate-ammonium (sum),"Glufosinate-ammonium (sum of glufosinate, its salts, MPP and NAG expressed as glufosinate equivalents)",“RF-0232-001-PPP” : 0.03
+62,,"Haloxyfop including haloxyfop-R (Haloxyfop-R methyl ester, haloxyfop-R and conjugates of haloxyfop-R expressed as haloxyfop-R)",“RF-0235-001-PPP” : 0.01
+63,Haloxyfop-Methyl,Haloxyfop-Methyl,“RF-0235-002-PPP” : 0.01
+64,,Haloxyfop-Ethoxyethylester,“RF-0235-003-PPP” : 0.01
+65,Heptachlor (sum),Heptachlor (sum of heptachlor and heptachlor epoxide expressed as heptachlor),“RF-0236-001-PPP” : 0.004
+66,"Heptachlorepoxide, cis-","Heptachlorepoxide, cis-","""RF-0236-002-PPP"" : 0.004"
+67,Heptachlor,Heptachlor,“RF-0236-004-PPP” : 0.004
+68,Heptachlor epoxide,Heptachlor epoxide,“RF-0236-005-PPP” : 0.004
+69,Heptachlor (sum of isomers),Heptachlor (sum of heptachlor and the cis and trans isomers of heptachlor epoxide),“RF-0236-006-PPP” : 0.004
+70,Hexachlorobenzene,Hexachlorobenzene,“RF-0237-001-PPP” : 0.005
+71,HCH-alpha,"Hexachlorocyclohexane (HCH), alpha-isomer",“RF-0238-001-PPP” : 0.01
+72,HCH-beta,"Hexachlorocyclohexane (HCH), beta-isomer",“RF-0239-002-PPP” : 0.01
+73,Indoxacarb,Indoxacarb (sum of indoxacarb and its R enantiomer),”RF-0251-001-PPP” : 0.01
+74,Lindane,Lindane (Gamma-isomer of hexachlorocyclohexane (HCH)),“RF-0263-001-PPP” : 0.01
+75,Maleic hydrazide,Maleic hydrazide,“RF-0267-001-PPP” : 0.07
+76,MCPA,"MCPA and MCPB (MCPA, MCPB including their salts, esters and conjugates expressed as MCPA)",“RF-0271-005-PPP” : 0.05
+77,Mecoprop,Mecoprop (sum of mecoprop-p and mecoprop expressed as mecoprop),“RF-0273-003-PPP” : brak
+78,Mercury compounds,Mercury compounds (sum of mercury compounds expressed as mercury),“RF-0277-001-PPP” : 0.01
+79,Metaflumizone (sum),Metaflumizone (sum of E- and Z- isomers),“RF-0280-001-PPP” : 0.02
+80,Methidathion,Methidathion,“RF-0290-001-PPP” : 0.02
+81,Methoxychlor,Methoxychlor,“RF-0295-001-PPP” : 0.01
+82,Metribuzin,Metribuzin,"""RF-0300-001-PPP"" : 0.1"
+83,Parathion,Parathion,“RF-0327-001-PPP” : 0.05
+84,Parathion-methyl (sum),Parathion-methyl (sum of Parathion-methyl and paraoxon-methyl expressed as Parathion-methyl),“RF-0328-001-PPP” : 0.01
+85,Parathion-methyl,Parathion-methyl,"""RF-0328-003-PPP"" : 0.01"
+86,Pendimethalin,Pendimethalin,“RF-0331-001-PPP” : 0.02
+87,Pirimiphos-methyl,Pirimiphos-methyl,“RF-0348-001-PPP” : 0.01
+88,Prochloraz (sum),"Prochloraz (sum of prochloraz, BTS 44595 (M201-04) and BTS 44596 (M201-03), expressed as prochloraz) ",“RF-0349-001-PPP” : 0.03
+89,Prochloraz,Prochloraz,“RF-0349-002-PPP” : 0.03
+90,Profenofos,Profenofos,“RF-0351-001-PPP” : 0.01
+91,Pyrazophos,Pyrazophos,“RF-0373-001-PPP” : 0.01
+92,Quintozene (sum),Quintozene (sum of quintozene and pentachloro-aniline expressed as quintozene),"""RF-0383-001-PPP” : 0.01"
+93,Quintozene,Quintozene,“RF-0383-002-PPP” : 0.01
+94,Resmethrin (sum),Resmethrin (resmethrin including other mixtures of consituent isomers (sum of isomers)),“RF-0385-001-PPP” : 0.02
+95,Spiroxamine (sum),Spiroxamine (sum of isomers),“RF-0397-001-PPP” : 0.015
+96,Fluvalinate (sum),Fluvalinate (sum of isomers) resulting from the use of tau-fluvalinate,“RF-0402-001-PPP” : 0.03
+97,Tecnazene,Tecnazene,“RF-0406-001-PPP” : 0.01
+98,Tetraconazole (sum),Tetraconazole (sum of constituent isomers),“RF-0414-001-PPP” : 0.02
+99,Triazophos,Triazophos,“RF-0432-001-PPP” : 0.01
+100,Esfenvalerate,Esfenvalerate,“RF-0690-003-PPP” : 0.04
+101,Fenvalerate,Fenvalerate,“RF-0690-006-PPP” : 0.04
+102,2-phenylphenol (sum),"2-phenylphenol (sum of 2-phenylphenol and its conjugates, expressed as 2-phenylphenol)",“RF-0823-001-PPP” : 0.01
+103,Oxychlordane,Oxychlordane,“RF-0827-001-PPP” : brak
+104,Permethrin (sum),Permethrin (sum of isomers),“RF-0842-001-PPP” : 0.05
+105,Piperonyl Butoxide,Piperonyl Butoxide,"""RF-0848-001-PPP"" : brak"
+106,Lambda-cyhalothrin (sum),"Lambda-cyhalothrin, including other mixed isomeric consituents (sum of isomers)",“RF-1004-001-PPP” : 0.02
+107,Glyphosate,Glyphosate,“RF-1020-001-PPP” : 0.05
+108,Fluopyram,Fluopyram,“RF-1071-001-PPP” : 0.07
+109,Glufosinate,Glufosinate,“RF-00003355-PAR” : 0.03
+110,Chlorate,Chlorate,“RF-00000015-CHE” : 0.1
+111,Benzalkonium chloride,Benzalkonium chloride (BAC),“RF-00002582-PAR” : 0.1
+112,Copper compounds,Copper compounds (copper),“RF-0102-001-PPP” : 2.0
+113,Bixafen,Bixafen,“RF-1056-001-PPP” : 0.2
+114,DDAC (mixture),"Didecyldimethylammonium chloride (mixture of alkyl-quaternary ammonium salts with alkyl chain lengths of C8, C10 and C12)",“RF-1078-002-PPP” : 0.1
+115,BAC 12,Benzalkonium chloride (BAC) n=12,“RF-1078-004-PPP” : 0.1
+116,BAC 14,Benzalkonium chloride (BAC) n=14,“RF-1078-005-PPP” : 0.1
+117,BAC 16,Benzalkonium chloride (BAC) n=16,“RF-1078-006-PPP” : 0.1
+118,BAC 18,Benzalkonium chloride (BAC) n=18,“RF-1078-007-PPP” : 0.1
+119,"2,4-D","2,4-D",“RF-0010-003-PPP” : 0.01
+120,DDAC-C10,Didecyldimethylammonium chloride (DDAC) n=10,“RF-00007627-PAR” : 0.1
+121,Not in list,Not in list,"RF-XXXX-XXX-XXX" : brak"
