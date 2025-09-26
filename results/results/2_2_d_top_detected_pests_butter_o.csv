@@ -1,0 +1,54 @@
+,sampCountry,year,name,Number of samples with pesticide
+0,AT,2012,Hexachlorobenzene,2
+1,BG,2012,DDT (sum),11
+2,CY,2015,DDT (sum),3
+3,CY,2015,"DDE, p,p-",2
+4,CZ,2012,"DDE, p,p-",18
+5,CZ,2012,Hexachlorobenzene,18
+6,CZ,2012,DDT (sum),17
+7,CZ,2012,Chlorpropham,1
+8,CZ,2012,Famoxadone,1
+9,CZ,2012,Indoxacarb,1
+10,CZ,2015,"DDE, p,p-",18
+11,CZ,2015,Hexachlorobenzene,18
+12,CZ,2015,DDT (sum),16
+13,DE,2012,Hexachlorobenzene,49
+14,DE,2012,DDT (sum),44
+15,DE,2012,Dieldrin (sum),3
+16,DE,2012,Endosulfan (sum),2
+17,DE,2012,HCH-beta,2
+18,DE,2012,Heptachlor (sum),2
+19,DE,2012,HCH-alpha,1
+20,DE,2012,Quintozene (sum),1
+21,DE,2012,Tecnazene,1
+22,DE,2015,Hexachlorobenzene,28
+23,DE,2015,DDT (sum),25
+24,DE,2015,Dieldrin (sum),4
+25,DE,2015,Heptachlor (sum of isomers),2
+26,EE,2012,Hexachlorobenzene,8
+27,EE,2012,DDT (sum),6
+28,ES,2012,"DDE, p,p-",3
+29,ES,2012,DDT (sum),3
+30,ES,2015,DDT (sum),5
+31,ES,2015,"DDE, p,p-",3
+32,ES,2015,Cypermethrin (sum),1
+33,GB,2012,"DDE, p,p-",8
+34,GB,2012,DDT (sum),8
+35,GB,2015,Benzalkonium chloride,38
+36,GB,2015,BAC 12,37
+37,GB,2015,BAC 14,32
+38,GB,2015,DDAC (mixture),3
+39,GB,2015,BAC 16,1
+40,GB,2015,Dieldrin,1
+41,GB,2015,Dieldrin (sum),1
+42,IE,2012,"DDE, p,p-",1
+43,IE,2012,DDT (sum),1
+44,IE,2015,2-phenylphenol (sum),2
+45,LT,2015,"DDE, p,p-",2
+46,LT,2015,DDT (sum),2
+47,SK,2012,DDT (sum),12
+48,SK,2012,"DDE, p,p-",11
+49,SK,2012,"DDT, p,p-",2
+50,SK,2012,"DDD, p,p-",1
+51,SK,2015,"DDE, p,p-",12
+52,SK,2015,DDT (sum),12

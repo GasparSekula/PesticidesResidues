@@ -1,0 +1,297 @@
+,origCountry,year,name,Number of samples with pesticide
+0,AT,2011,DDT (sum),1
+1,AT,2012,Hexachlorobenzene,1
+2,AT,2014,Hexachlorobenzene,2
+3,AT,2015,Hexachlorobenzene,10
+4,BE,2011,HCH-beta,13
+5,BE,2011,DDT (sum),2
+6,BE,2011,"DDD, p,p-",1
+7,BE,2011,"DDE, o,p-",1
+8,BE,2011,Heptachlor (sum),1
+9,BE,2011,Heptachlor epoxide,1
+10,BE,2012,DDT (sum),1
+11,BE,2012,HCH-beta,1
+12,BE,2012,Hexachlorobenzene,1
+13,BE,2013,HCH-beta,6
+14,BE,2013,Endosulfan (sum),3
+15,BE,2013,"Endosulfan, alpha-",2
+16,BE,2013,DDT (sum),1
+17,BE,2013,"DDT, o,p-",1
+18,BE,2013,Endosulfansulfate,1
+19,BE,2013,HCH-alpha,1
+20,BE,2015,DDT (sum),2
+21,BE,2015,"DDE, p,p-",1
+22,BG,2012,DDT (sum),12
+23,BG,2012,HCH-beta,1
+24,BG,2012,Hexachlorobenzene,1
+25,BG,2022,"DDE, p,p-",1
+26,BG,2022,DDT (sum),1
+27,CY,2015,DDT (sum),2
+28,CY,2015,"DDE, p,p-",1
+29,CZ,2011,Abamectin (sum),15
+30,CZ,2011,Azinphos-ethyl,15
+31,CZ,2011,Bifenthrin (sum),15
+32,CZ,2011,Chlorobenzilate,15
+33,CZ,2011,Chlorpyrifos,15
+34,CZ,2011,Chlorpyrifos-methyl,15
+35,CZ,2011,Cyfluthrin,15
+36,CZ,2011,Cypermethrin (sum),15
+37,CZ,2011,DDT (sum),15
+38,CZ,2011,Deltamethrin,15
+39,CZ,2011,Diazinon,15
+40,CZ,2011,Dieldrin,15
+41,CZ,2011,Endosulfan (sum),15
+42,CZ,2011,Endrin,15
+43,CZ,2011,Fenthion,15
+44,CZ,2011,HCH-alpha,15
+45,CZ,2011,HCH-beta,15
+46,CZ,2011,Heptachlor,15
+47,CZ,2011,Hexachlorobenzene,15
+48,CZ,2011,Lindane,15
+49,CZ,2011,Methidathion,15
+50,CZ,2011,Methoxychlor,15
+51,CZ,2011,Parathion,15
+52,CZ,2011,Permethrin (sum),15
+53,CZ,2011,Pirimiphos-methyl,15
+54,CZ,2011,Profenofos,15
+55,CZ,2011,Pyrazophos,15
+56,CZ,2011,Quintozene,15
+57,CZ,2011,Resmethrin (sum),15
+58,CZ,2011,Tecnazene,15
+59,CZ,2011,Toxaphene,15
+60,CZ,2011,Triazophos,15
+61,CZ,2012,"DDE, p,p-",21
+62,CZ,2012,DDT (sum),20
+63,CZ,2012,Hexachlorobenzene,18
+64,CZ,2012,Chlorpropham,1
+65,CZ,2012,"DDT, p,p-",1
+66,CZ,2012,Famoxadone,1
+67,CZ,2012,Indoxacarb,1
+68,CZ,2013,"DDE, p,p-",6
+69,CZ,2013,DDT (sum),6
+70,CZ,2013,Hexachlorobenzene,6
+71,CZ,2013,Etofenprox,3
+72,CZ,2013,DDAC (mixture),1
+73,CZ,2013,Indoxacarb,1
+74,CZ,2014,Hexachlorobenzene,7
+75,CZ,2014,"DDE, p,p-",6
+76,CZ,2014,DDT (sum),6
+77,CZ,2014,Fenpropimorph ,1
+78,CZ,2015,Hexachlorobenzene,19
+79,CZ,2015,"DDE, p,p-",18
+80,CZ,2015,DDT (sum),17
+81,CZ,2016,"DDE, p,p-",17
+82,CZ,2016,DDT (sum),16
+83,CZ,2016,Hexachlorobenzene,16
+84,CZ,2016,Indoxacarb,2
+85,CZ,2017,"DDE, p,p-",14
+86,CZ,2017,DDT (sum),14
+87,CZ,2017,Hexachlorobenzene,12
+88,CZ,2018,"DDE, p,p-",10
+89,CZ,2018,DDT (sum),10
+90,CZ,2018,Hexachlorobenzene,5
+91,CZ,2019,"DDE, p,p-",12
+92,CZ,2019,DDT (sum),12
+93,CZ,2019,Hexachlorobenzene,12
+94,CZ,2020,"DDE, p,p-",11
+95,CZ,2020,DDT (sum),8
+96,CZ,2020,Hexachlorobenzene,8
+97,CZ,2021,"DDE, p,p-",8
+98,CZ,2021,DDT (sum),3
+99,CZ,2021,"DDD, p,p-",1
+100,CZ,2021,Hexachlorobenzene,1
+101,CZ,2022,"DDE, p,p-",11
+102,CZ,2022,Hexachlorobenzene,9
+103,CZ,2022,DDT (sum),3
+104,CZ,2022,Indoxacarb,1
+105,DE,2011,DDT (sum),21
+106,DE,2011,Hexachlorobenzene,10
+107,DE,2011,HCH-beta,1
+108,DE,2012,DDT (sum),48
+109,DE,2012,Hexachlorobenzene,43
+110,DE,2012,Mercury compounds,8
+111,DE,2012,Copper compounds,4
+112,DE,2012,DDAC (mixture),4
+113,DE,2012,"DDE, p,p-",2
+114,DE,2012,Endosulfan (sum),2
+115,DE,2012,"DDD, p,p-",1
+116,DE,2012,Dieldrin (sum),1
+117,DE,2012,HCH-beta,1
+118,DE,2012,Heptachlor (sum),1
+119,DE,2012,Quintozene (sum),1
+120,DE,2012,Tecnazene,1
+121,DE,2013,Hexachlorobenzene,22
+122,DE,2013,DDT (sum),20
+123,DE,2013,Benzalkonium chloride,9
+124,DE,2013,DDAC (mixture),7
+125,DE,2013,Lindane,3
+126,DE,2013,Endosulfan (sum),1
+127,DE,2013,Mercury compounds,1
+128,DE,2014,Copper compounds,57
+129,DE,2014,DDT (sum),20
+130,DE,2014,Hexachlorobenzene,18
+131,DE,2014,Benzalkonium chloride,2
+132,DE,2014,DDAC (mixture),1
+133,DE,2014,Dieldrin (sum),1
+134,DE,2014,HCH-alpha,1
+135,DE,2014,Lindane,1
+136,DE,2015,Hexachlorobenzene,65
+137,DE,2015,DDT (sum),55
+138,DE,2015,Mercury compounds,4
+139,DE,2015,"DDE, p,p-",3
+140,DE,2015,Dieldrin (sum),2
+141,DE,2015,Heptachlor (sum of isomers),1
+142,DE,2016,Mercury compounds,4
+143,DE,2016,DDT (sum),3
+144,DE,2017,Hexachlorobenzene,5
+145,DE,2017,DDT (sum),4
+146,DE,2017,"DDE, p,p-",3
+147,DE,2017,Endosulfan (sum),2
+148,DE,2017,DDAC (mixture),1
+149,DE,2017,"Endosulfan, alpha-",1
+150,DE,2017,Endosulfansulfate,1
+151,DE,2018,"DDE, p,p-",22
+152,DE,2018,DDT (sum),20
+153,DE,2018,Hexachlorobenzene,16
+154,DE,2018,Chlorpyrifos,1
+155,DE,2018,Copper compounds,1
+156,DE,2018,DDAC (mixture),1
+157,DE,2018,DDAC-C10,1
+158,DE,2019,"DDE, p,p-",6
+159,DE,2019,DDT (sum),6
+160,DE,2019,Hexachlorobenzene,1
+161,DE,2019,Lambda-cyhalothrin (sum),1
+162,DE,2021,Mercury compounds,22
+163,DE,2021,Hexachlorobenzene,12
+164,DE,2021,Copper compounds,8
+165,DE,2021,"DDE, p,p-",6
+166,DE,2021,DDT (sum),6
+167,DE,2021,BAC 16,1
+168,DE,2021,Benzalkonium chloride,1
+169,DE,2021,DDAC (mixture),1
+170,DE,2021,DDAC-C10,1
+171,DE,2021,"DDT, p,p-",1
+172,DE,2022,Hexachlorobenzene,7
+173,DE,2022,"DDE, p,p-",5
+174,DE,2022,DDT (sum),5
+175,DE,2022,HCH-beta,2
+176,DE,2023,BAC 12,1
+177,DE,2023,Benzalkonium chloride,1
+178,DE,2023,DDAC (mixture),1
+179,DE,2023,DDAC-C10,1
+180,DK,2014,Copper compounds,2
+181,DK,2014,Hexachlorobenzene,2
+182,EE,2012,Hexachlorobenzene,3
+183,EE,2012,DDT (sum),2
+184,ES,2012,"DDE, p,p-",3
+185,ES,2012,DDT (sum),3
+186,ES,2015,DDT (sum),5
+187,ES,2015,"DDE, p,p-",3
+188,ES,2015,Cypermethrin (sum),1
+189,FI,2012,Hexachlorobenzene,1
+190,FR,2012,Hexachlorobenzene,3
+191,FR,2012,DDT (sum),2
+192,FR,2012,Dieldrin (sum),2
+193,FR,2015,BAC 12,4
+194,FR,2015,Benzalkonium chloride,4
+195,FR,2015,DDAC (mixture),4
+196,FR,2015,Dieldrin (sum),1
+197,FR,2015,Hexachlorobenzene,1
+198,FR,2021,Mercury compounds,1
+199,GB,2012,"DDE, p,p-",1
+200,GB,2012,DDT (sum),1
+201,GB,2014,BAC 12,9
+202,GB,2014,Benzalkonium chloride,9
+203,GB,2014,DDAC (mixture),7
+204,GB,2014,BAC 14,2
+205,GB,2015,Benzalkonium chloride,47
+206,GB,2015,BAC 12,45
+207,GB,2015,BAC 14,37
+208,GB,2015,DDAC (mixture),3
+209,GB,2015,BAC 16,1
+210,GB,2015,Dieldrin,1
+211,GB,2015,Dieldrin (sum),1
+212,GB,2018,Chlorate,16
+213,GB,2018,Permethrin (sum),1
+214,GR,2015,"DDE, p,p-",1
+215,GR,2015,DDT (sum),1
+216,IE,2012,Hexachlorobenzene,12
+217,IE,2012,DDT (sum),8
+218,IE,2012,Heptachlor (sum),1
+219,IE,2013,DDT (sum),1
+220,IE,2013,Hexachlorobenzene,1
+221,IE,2015,BAC 12,2
+222,IE,2015,BAC 14,2
+223,IE,2015,Benzalkonium chloride,2
+224,IE,2015,2-phenylphenol (sum),1
+225,IE,2015,Hexachlorobenzene,1
+226,IE,2018,Diphenylamine,1
+227,IE,2018,Hexachlorobenzene,1
+228,IE,2021,Mercury compounds,5
+229,IE,2021,Copper compounds,2
+230,IE,2022,Hexachlorobenzene,1
+231,IT,2011,DDT (sum),15
+232,IT,2011,Hexachlorobenzene,15
+233,IT,2011,Lindane,3
+234,IT,2011,HCH-alpha,2
+235,IT,2011,HCH-beta,2
+236,IT,2011,Endosulfan (sum),1
+237,IT,2012,Hexachlorobenzene,16
+238,IT,2012,DDT (sum),13
+239,IT,2012,HCH-beta,1
+240,IT,2013,Hexachlorobenzene,2
+241,IT,2013,Chlordane (sum),1
+242,IT,2013,DDT (sum),1
+243,IT,2014,"DDE, p,p-",1
+244,IT,2015,BAC 12,1
+245,IT,2015,Benzalkonium chloride,1
+246,IT,2015,Hexachlorobenzene,1
+247,IT,2016,BAC 12,4
+248,IT,2016,BAC 14,3
+249,IT,2017,BAC 12,6
+250,IT,2017,BAC 14,6
+251,IT,2018,BAC 12,3
+252,IT,2018,BAC 14,1
+253,IT,2019,BAC 12,3
+254,IT,2019,Benzalkonium chloride,3
+255,IT,2019,BAC 14,2
+256,IT,2019,"DDE, p,p-",1
+257,IT,2019,DDT (sum),1
+258,IT,2020,BAC 12,1
+259,IT,2020,Benzalkonium chloride,1
+260,IT,2022,2-phenylphenol (sum),1
+261,IT,2023,Copper compounds,1
+262,IT,2023,Cypermethrin (sum),1
+263,IT,2023,Fenthion (sum),1
+264,LT,2012,DDT (sum),4
+265,LT,2012,Hexachlorobenzene,4
+266,LT,2012,HCH-alpha,1
+267,LT,2015,"DDE, p,p-",1
+268,LT,2015,DDT (sum),1
+269,LV,2012,DDT (sum),1
+270,LV,2012,Hexachlorobenzene,1
+271,NL,2011,HCH-beta,1
+272,NL,2012,DDT (sum),1
+273,NL,2012,Hexachlorobenzene,1
+274,NL,2013,Benzalkonium chloride,1
+275,NL,2013,HCH-beta,1
+276,NL,2014,Copper compounds,14
+277,NL,2014,DDAC (mixture),1
+278,NL,2015,Hexachlorobenzene,3
+279,NL,2015,DDT (sum),2
+280,NL,2015,Dieldrin (sum),1
+281,NL,2015,Heptachlor (sum of isomers),1
+282,NL,2021,Mercury compounds,1
+283,PL,2012,DDT (sum),3
+284,PL,2012,Hexachlorobenzene,2
+285,PL,2012,"DDE, p,p-",1
+286,PL,2015,DDT (sum),4
+287,PL,2015,"DDE, p,p-",3
+288,PL,2021,"DDE, p,p-",1
+289,PL,2021,DDT (sum),1
+290,PL,2021,Mercury compounds,1
+291,SK,2012,"DDE, p,p-",5
+292,SK,2012,DDT (sum),5
+293,SK,2012,"DDT, p,p-",1
+294,SK,2015,"DDE, p,p-",5
+295,SK,2015,DDT (sum),5

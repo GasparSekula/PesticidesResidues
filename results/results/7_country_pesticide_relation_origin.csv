@@ -1,0 +1,98 @@
+,origCountry,pesticideCode,sample_count,name,full_name,code,limit,percentage
+0,AT,RF-0237-001-PPP,39,Hexachlorobenzene,Hexachlorobenzene,RF-0237-001-PPP,0.005,2.02
+1,AT,RF-0102-001-PPP,10,Copper compounds,Copper compounds (copper),RF-0102-001-PPP,2.0,0.52
+2,AT,RF-0119-001-PPP,5,DDT (sum),"DDT (sum of p,p'-DDT, o,p'-DDT, p-p'-DDE and p,p'-TDE (DDD) expressed as DDT)",RF-0119-001-PPP,0.04,0.26
+3,AT,RF-0032-001-PPP,1,Azinphos-ethyl,Azinphos-ethyl,RF-0032-001-PPP,0.01,0.05
+4,AT,RF-0263-001-PPP,1,Lindane,Lindane (Gamma-isomer of hexachlorocyclohexane (HCH)),RF-0263-001-PPP,0.01,0.05
+5,BE,RF-0239-002-PPP,35,HCH-beta,"Hexachlorocyclohexane (HCH), beta-isomer",RF-0239-002-PPP,0.01,5.99
+6,BE,RF-0119-001-PPP,19,DDT (sum),"DDT (sum of p,p'-DDT, o,p'-DDT, p-p'-DDE and p,p'-TDE (DDD) expressed as DDT)",RF-0119-001-PPP,0.04,3.25
+7,BE,RF-0102-001-PPP,9,Copper compounds,Copper compounds (copper),RF-0102-001-PPP,2.0,1.54
+8,BE,RF-0237-001-PPP,8,Hexachlorobenzene,Hexachlorobenzene,RF-0237-001-PPP,0.005,1.37
+9,BE,RF-0155-001-PPP,7,Endosulfan (sum),Endosulfan (sum of alpha- and beta-isomers and endosulfan-sulphate expresses as endosulfan),RF-0155-001-PPP,0.05,1.2
+10,BG,RF-0119-001-PPP,13,DDT (sum),"DDT (sum of p,p'-DDT, o,p'-DDT, p-p'-DDE and p,p'-TDE (DDD) expressed as DDT)",RF-0119-001-PPP,0.04,27.66
+11,BG,RF-0119-002-PPP,1,"DDE, p,p-","DDE, p,p-",RF-0119-002-PPP,0.04,2.13
+12,BG,RF-0237-001-PPP,1,Hexachlorobenzene,Hexachlorobenzene,RF-0237-001-PPP,0.005,2.13
+13,BG,RF-0239-002-PPP,1,HCH-beta,"Hexachlorocyclohexane (HCH), beta-isomer",RF-0239-002-PPP,0.01,2.13
+14,CY,RF-0119-001-PPP,10,DDT (sum),"DDT (sum of p,p'-DDT, o,p'-DDT, p-p'-DDE and p,p'-TDE (DDD) expressed as DDT)",RF-0119-001-PPP,0.04,4.57
+15,CY,RF-0119-002-PPP,9,"DDE, p,p-","DDE, p,p-",RF-0119-002-PPP,0.04,4.11
+16,CY,RF-0102-001-PPP,5,Copper compounds,Copper compounds (copper),RF-0102-001-PPP,2.0,2.28
+17,CZ,RF-0119-002-PPP,138,"DDE, p,p-","DDE, p,p-",RF-0119-002-PPP,0.04,34.24
+18,CZ,RF-0119-001-PPP,133,DDT (sum),"DDT (sum of p,p'-DDT, o,p'-DDT, p-p'-DDE and p,p'-TDE (DDD) expressed as DDT)",RF-0119-001-PPP,0.04,33.0
+19,CZ,RF-0237-001-PPP,129,Hexachlorobenzene,Hexachlorobenzene,RF-0237-001-PPP,0.005,32.01
+20,CZ,RF-0021-003-PPP,16,Dieldrin,Dieldrin,RF-0021-003-PPP,0.006,3.97
+21,CZ,RF-0032-001-PPP,16,Azinphos-ethyl,Azinphos-ethyl,RF-0032-001-PPP,0.01,3.97
+22,DE,RF-0237-001-PPP,1065,Hexachlorobenzene,Hexachlorobenzene,RF-0237-001-PPP,0.005,20.02
+23,DE,RF-0119-001-PPP,709,DDT (sum),"DDT (sum of p,p'-DDT, o,p'-DDT, p-p'-DDE and p,p'-TDE (DDD) expressed as DDT)",RF-0119-001-PPP,0.04,13.33
+24,DE,RF-0102-001-PPP,393,Copper compounds,Copper compounds (copper),RF-0102-001-PPP,2.0,7.39
+25,DE,RF-0119-002-PPP,75,"DDE, p,p-","DDE, p,p-",RF-0119-002-PPP,0.04,1.41
+26,DE,RF-00002582-PAR,65,Benzalkonium chloride,Benzalkonium chloride (BAC),RF-00002582-PAR,0.1,1.22
+27,DK,RF-0102-001-PPP,26,Copper compounds,Copper compounds (copper),RF-0102-001-PPP,2.0,7.1
+28,DK,RF-0277-001-PPP,5,Mercury compounds,Mercury compounds (sum of mercury compounds expressed as mercury),RF-0277-001-PPP,0.01,1.37
+29,DK,RF-0237-001-PPP,2,Hexachlorobenzene,Hexachlorobenzene,RF-0237-001-PPP,0.005,0.55
+30,EE,RF-0237-001-PPP,3,Hexachlorobenzene,Hexachlorobenzene,RF-0237-001-PPP,0.005,4.69
+31,EE,RF-0119-001-PPP,2,DDT (sum),"DDT (sum of p,p'-DDT, o,p'-DDT, p-p'-DDE and p,p'-TDE (DDD) expressed as DDT)",RF-0119-001-PPP,0.04,3.12
+32,ES,RF-0119-001-PPP,9,DDT (sum),"DDT (sum of p,p'-DDT, o,p'-DDT, p-p'-DDE and p,p'-TDE (DDD) expressed as DDT)",RF-0119-001-PPP,0.04,2.22
+33,ES,RF-0119-002-PPP,7,"DDE, p,p-","DDE, p,p-",RF-0119-002-PPP,0.04,1.72
+34,ES,RF-0112-001-PPP,1,Cypermethrin (sum),Cypermethrin (Cypermethrin including other mixtures of constituent isomers (sum of isomers)),RF-0112-001-PPP,0.05,0.25
+35,FI,RF-0237-001-PPP,1,Hexachlorobenzene,Hexachlorobenzene,RF-0237-001-PPP,0.005,1.11
+36,FR,RF-00002582-PAR,4,Benzalkonium chloride,Benzalkonium chloride (BAC),RF-00002582-PAR,0.1,0.45
+37,FR,RF-0021-001-PPP,4,Dieldrin (sum),Aldrin and Dieldrin (Aldrin and dieldrin combined expressed as dieldrin),RF-0021-001-PPP,0.006,0.45
+38,FR,RF-0237-001-PPP,4,Hexachlorobenzene,Hexachlorobenzene,RF-0237-001-PPP,0.005,0.45
+39,FR,RF-1078-002-PPP,4,DDAC (mixture),"Didecyldimethylammonium chloride (mixture of alkyl-quaternary ammonium salts with alkyl chain lengths of C8, C10 and C12)",RF-1078-002-PPP,0.1,0.45
+40,FR,RF-1078-004-PPP,4,BAC 12,Benzalkonium chloride (BAC) n=12,RF-1078-004-PPP,0.1,0.45
+41,GB,RF-00002582-PAR,67,Benzalkonium chloride,Benzalkonium chloride (BAC),RF-00002582-PAR,0.1,2.34
+42,GB,RF-1078-004-PPP,67,BAC 12,Benzalkonium chloride (BAC) n=12,RF-1078-004-PPP,0.1,2.34
+43,GB,RF-1078-005-PPP,40,BAC 14,Benzalkonium chloride (BAC) n=14,RF-1078-005-PPP,0.1,1.4
+44,GB,RF-00000015-CHE,16,Chlorate,Chlorate,RF-00000015-CHE,0.1,0.56
+45,GB,RF-1078-002-PPP,10,DDAC (mixture),"Didecyldimethylammonium chloride (mixture of alkyl-quaternary ammonium salts with alkyl chain lengths of C8, C10 and C12)",RF-1078-002-PPP,0.1,0.35
+46,GR,RF-0119-001-PPP,1,DDT (sum),"DDT (sum of p,p'-DDT, o,p'-DDT, p-p'-DDE and p,p'-TDE (DDD) expressed as DDT)",RF-0119-001-PPP,0.04,0.97
+47,GR,RF-0119-002-PPP,1,"DDE, p,p-","DDE, p,p-",RF-0119-002-PPP,0.04,0.97
+48,HR,RF-0237-001-PPP,7,Hexachlorobenzene,Hexachlorobenzene,RF-0237-001-PPP,0.005,7.61
+49,HR,RF-0295-001-PPP,3,Methoxychlor,Methoxychlor,RF-0295-001-PPP,0.01,3.26
+50,HR,RF-0082-001-PPP,1,Chlorobenzilate,Chlorobenzilate,RF-0082-001-PPP,0.1,1.09
+51,HR,RF-0119-002-PPP,1,"DDE, p,p-","DDE, p,p-",RF-0119-002-PPP,0.04,1.09
+52,HR,RF-0119-003-PPP,1,"DDT, o,p-","DDT, o,p-",RF-0119-003-PPP,0.04,1.09
+53,HU,RF-0021-002-PPP,36,Aldrin,Aldrin,RF-0021-002-PPP,0.006,13.28
+54,HU,RF-0021-003-PPP,36,Dieldrin,Dieldrin,RF-0021-003-PPP,0.006,13.28
+55,HU,RF-0119-001-PPP,36,DDT (sum),"DDT (sum of p,p'-DDT, o,p'-DDT, p-p'-DDE and p,p'-TDE (DDD) expressed as DDT)",RF-0119-001-PPP,0.04,13.28
+56,HU,RF-0119-002-PPP,36,"DDE, p,p-","DDE, p,p-",RF-0119-002-PPP,0.04,13.28
+57,HU,RF-0119-003-PPP,36,"DDT, o,p-","DDT, o,p-",RF-0119-003-PPP,0.04,13.28
+58,IE,RF-00000015-CHE,30,Chlorate,Chlorate,RF-00000015-CHE,0.1,2.96
+59,IE,RF-0237-001-PPP,16,Hexachlorobenzene,Hexachlorobenzene,RF-0237-001-PPP,0.005,1.58
+60,IE,RF-0119-001-PPP,9,DDT (sum),"DDT (sum of p,p'-DDT, o,p'-DDT, p-p'-DDE and p,p'-TDE (DDD) expressed as DDT)",RF-0119-001-PPP,0.04,0.89
+61,IE,RF-0277-001-PPP,5,Mercury compounds,Mercury compounds (sum of mercury compounds expressed as mercury),RF-0277-001-PPP,0.01,0.49
+62,IE,RF-00002582-PAR,4,Benzalkonium chloride,Benzalkonium chloride (BAC),RF-00002582-PAR,0.1,0.39
+63,IT,RF-0237-001-PPP,34,Hexachlorobenzene,Hexachlorobenzene,RF-0237-001-PPP,0.005,1.47
+64,IT,RF-0119-001-PPP,30,DDT (sum),"DDT (sum of p,p'-DDT, o,p'-DDT, p-p'-DDE and p,p'-TDE (DDD) expressed as DDT)",RF-0119-001-PPP,0.04,1.3
+65,IT,RF-1078-004-PPP,26,BAC 12,Benzalkonium chloride (BAC) n=12,RF-1078-004-PPP,0.1,1.12
+66,IT,RF-1078-005-PPP,15,BAC 14,Benzalkonium chloride (BAC) n=14,RF-1078-005-PPP,0.1,0.65
+67,IT,RF-00002582-PAR,6,Benzalkonium chloride,Benzalkonium chloride (BAC),RF-00002582-PAR,0.1,0.26
+68,LT,RF-0119-001-PPP,5,DDT (sum),"DDT (sum of p,p'-DDT, o,p'-DDT, p-p'-DDE and p,p'-TDE (DDD) expressed as DDT)",RF-0119-001-PPP,0.04,4.1
+69,LT,RF-0237-001-PPP,4,Hexachlorobenzene,Hexachlorobenzene,RF-0237-001-PPP,0.005,3.28
+70,LT,RF-0119-002-PPP,1,"DDE, p,p-","DDE, p,p-",RF-0119-002-PPP,0.04,0.82
+71,LT,RF-0238-001-PPP,1,HCH-alpha,"Hexachlorocyclohexane (HCH), alpha-isomer",RF-0238-001-PPP,0.01,0.82
+72,LU,RF-0102-001-PPP,8,Copper compounds,Copper compounds (copper),RF-0102-001-PPP,2.0,7.62
+73,LV,RF-0119-001-PPP,1,DDT (sum),"DDT (sum of p,p'-DDT, o,p'-DDT, p-p'-DDE and p,p'-TDE (DDD) expressed as DDT)",RF-0119-001-PPP,0.04,2.08
+74,LV,RF-0237-001-PPP,1,Hexachlorobenzene,Hexachlorobenzene,RF-0237-001-PPP,0.005,2.08
+75,NL,RF-0102-001-PPP,15,Copper compounds,Copper compounds (copper),RF-0102-001-PPP,2.0,1.42
+76,NL,RF-0050-001-PPP,13,Bromide ion,Bromide ion,RF-0050-001-PPP,0.05,1.23
+77,NL,RF-00000015-CHE,4,Chlorate,Chlorate,RF-00000015-CHE,0.1,0.38
+78,NL,RF-0237-001-PPP,4,Hexachlorobenzene,Hexachlorobenzene,RF-0237-001-PPP,0.005,0.38
+79,NL,RF-0119-001-PPP,3,DDT (sum),"DDT (sum of p,p'-DDT, o,p'-DDT, p-p'-DDE and p,p'-TDE (DDD) expressed as DDT)",RF-0119-001-PPP,0.04,0.28
+80,NO,RF-0102-001-PPP,2,Copper compounds,Copper compounds (copper),RF-0102-001-PPP,2.0,0.53
+81,PL,RF-0119-001-PPP,8,DDT (sum),"DDT (sum of p,p'-DDT, o,p'-DDT, p-p'-DDE and p,p'-TDE (DDD) expressed as DDT)",RF-0119-001-PPP,0.04,1.1
+82,PL,RF-0119-002-PPP,5,"DDE, p,p-","DDE, p,p-",RF-0119-002-PPP,0.04,0.69
+83,PL,RF-0237-001-PPP,2,Hexachlorobenzene,Hexachlorobenzene,RF-0237-001-PPP,0.005,0.27
+84,PL,RF-0277-001-PPP,1,Mercury compounds,Mercury compounds (sum of mercury compounds expressed as mercury),RF-0277-001-PPP,0.01,0.14
+85,PL,RF-1078-002-PPP,1,DDAC (mixture),"Didecyldimethylammonium chloride (mixture of alkyl-quaternary ammonium salts with alkyl chain lengths of C8, C10 and C12)",RF-1078-002-PPP,0.1,0.14
+86,PT,RF-00000015-CHE,1,Chlorate,Chlorate,RF-00000015-CHE,0.1,3.12
+87,RO,RF-0119-001-PPP,32,DDT (sum),"DDT (sum of p,p'-DDT, o,p'-DDT, p-p'-DDE and p,p'-TDE (DDD) expressed as DDT)",RF-0119-001-PPP,0.04,17.58
+88,RO,RF-0238-001-PPP,18,HCH-alpha,"Hexachlorocyclohexane (HCH), alpha-isomer",RF-0238-001-PPP,0.01,9.89
+89,RO,RF-0075-005-PPP,13,Chlordane (sum),Chlordane (sum of cis- and trans-isomers and oxychlordane expressed as chlordane),RF-0075-005-PPP,0.002,7.14
+90,RO,RF-0237-001-PPP,10,Hexachlorobenzene,Hexachlorobenzene,RF-0237-001-PPP,0.005,5.49
+91,RO,RF-0236-006-PPP,8,Heptachlor (sum of isomers),Heptachlor (sum of heptachlor and the cis and trans isomers of heptachlor epoxide),RF-0236-006-PPP,0.004,4.4
+92,SK,RF-0119-001-PPP,34,DDT (sum),"DDT (sum of p,p'-DDT, o,p'-DDT, p-p'-DDE and p,p'-TDE (DDD) expressed as DDT)",RF-0119-001-PPP,0.04,41.98
+93,SK,RF-0119-002-PPP,34,"DDE, p,p-","DDE, p,p-",RF-0119-002-PPP,0.04,41.98
+94,SK,RF-0237-001-PPP,2,Hexachlorobenzene,Hexachlorobenzene,RF-0237-001-PPP,0.005,2.47
+95,SK,RF-1078-002-PPP,2,DDAC (mixture),"Didecyldimethylammonium chloride (mixture of alkyl-quaternary ammonium salts with alkyl chain lengths of C8, C10 and C12)",RF-1078-002-PPP,0.1,2.47
+96,SK,RF-0119-006-PPP,1,"DDT, p,p-","DDT, p,p-",RF-0119-006-PPP,0.04,1.23

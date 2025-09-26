@@ -1,0 +1,69 @@
+,origCountry,pesticideCode,sample_count,name,full_name,code,limit,percentage
+0,AT,RF-0237-001-PPP,1,Hexachlorobenzene,Hexachlorobenzene,RF-0237-001-PPP,0.005,3.45
+1,BE,RF-0119-001-PPP,3,DDT (sum),"DDT (sum of p,p'-DDT, o,p'-DDT, p-p'-DDE and p,p'-TDE (DDD) expressed as DDT)",RF-0119-001-PPP,0.04,8.11
+2,BE,RF-0119-002-PPP,1,"DDE, p,p-","DDE, p,p-",RF-0119-002-PPP,0.04,2.7
+3,BE,RF-0237-001-PPP,1,Hexachlorobenzene,Hexachlorobenzene,RF-0237-001-PPP,0.005,2.7
+4,BG,RF-0119-001-PPP,12,DDT (sum),"DDT (sum of p,p'-DDT, o,p'-DDT, p-p'-DDE and p,p'-TDE (DDD) expressed as DDT)",RF-0119-001-PPP,0.04,85.71
+5,BG,RF-0237-001-PPP,1,Hexachlorobenzene,Hexachlorobenzene,RF-0237-001-PPP,0.005,7.14
+6,BG,RF-0239-002-PPP,1,HCH-beta,"Hexachlorocyclohexane (HCH), beta-isomer",RF-0239-002-PPP,0.01,7.14
+7,CY,RF-0119-001-PPP,2,DDT (sum),"DDT (sum of p,p'-DDT, o,p'-DDT, p-p'-DDE and p,p'-TDE (DDD) expressed as DDT)",RF-0119-001-PPP,0.04,100.0
+8,CY,RF-0119-002-PPP,1,"DDE, p,p-","DDE, p,p-",RF-0119-002-PPP,0.04,50.0
+9,CZ,RF-0119-002-PPP,39,"DDE, p,p-","DDE, p,p-",RF-0119-002-PPP,0.04,92.86
+10,CZ,RF-0119-001-PPP,36,DDT (sum),"DDT (sum of p,p'-DDT, o,p'-DDT, p-p'-DDE and p,p'-TDE (DDD) expressed as DDT)",RF-0119-001-PPP,0.04,85.71
+11,CZ,RF-0237-001-PPP,36,Hexachlorobenzene,Hexachlorobenzene,RF-0237-001-PPP,0.005,85.71
+12,CZ,RF-0086-003-PPP,1,Chlorpropham,Chlorpropham,RF-0086-003-PPP,0.05,2.38
+13,CZ,RF-0119-006-PPP,1,"DDT, p,p-","DDT, p,p-",RF-0119-006-PPP,0.04,2.38
+14,CZ,RF-0171-001-PPP,1,Famoxadone,Famoxadone,RF-0171-001-PPP,0.03,2.38
+15,CZ,RF-0251-001-PPP,1,Indoxacarb,Indoxacarb (sum of indoxacarb and its R enantiomer),RF-0251-001-PPP,0.01,2.38
+16,DE,RF-0119-001-PPP,59,DDT (sum),"DDT (sum of p,p'-DDT, o,p'-DDT, p-p'-DDE and p,p'-TDE (DDD) expressed as DDT)",RF-0119-001-PPP,0.04,25.99
+17,DE,RF-0237-001-PPP,55,Hexachlorobenzene,Hexachlorobenzene,RF-0237-001-PPP,0.005,24.23
+18,DE,RF-0119-002-PPP,5,"DDE, p,p-","DDE, p,p-",RF-0119-002-PPP,0.04,2.2
+19,DE,RF-0021-001-PPP,3,Dieldrin (sum),Aldrin and Dieldrin (Aldrin and dieldrin combined expressed as dieldrin),RF-0021-001-PPP,0.006,1.32
+20,DE,RF-0155-001-PPP,2,Endosulfan (sum),Endosulfan (sum of alpha- and beta-isomers and endosulfan-sulphate expresses as endosulfan),RF-0155-001-PPP,0.05,0.88
+21,DE,RF-0119-004-PPP,1,"DDD, p,p-","DDD, p,p-",RF-0119-004-PPP,0.04,0.44
+22,DE,RF-0236-001-PPP,1,Heptachlor (sum),Heptachlor (sum of heptachlor and heptachlor epoxide expressed as heptachlor),RF-0236-001-PPP,0.004,0.44
+23,DE,RF-0236-006-PPP,1,Heptachlor (sum of isomers),Heptachlor (sum of heptachlor and the cis and trans isomers of heptachlor epoxide),RF-0236-006-PPP,0.004,0.44
+24,DE,RF-0239-002-PPP,1,HCH-beta,"Hexachlorocyclohexane (HCH), beta-isomer",RF-0239-002-PPP,0.01,0.44
+25,DE,RF-0383-001-PPP,1,Quintozene (sum),Quintozene (sum of quintozene and pentachloro-aniline expressed as quintozene),RF-0383-001-PPP,0.01,0.44
+26,EE,RF-0237-001-PPP,3,Hexachlorobenzene,Hexachlorobenzene,RF-0237-001-PPP,0.005,20.0
+27,EE,RF-0119-001-PPP,2,DDT (sum),"DDT (sum of p,p'-DDT, o,p'-DDT, p-p'-DDE and p,p'-TDE (DDD) expressed as DDT)",RF-0119-001-PPP,0.04,13.33
+28,ES,RF-0119-001-PPP,8,DDT (sum),"DDT (sum of p,p'-DDT, o,p'-DDT, p-p'-DDE and p,p'-TDE (DDD) expressed as DDT)",RF-0119-001-PPP,0.04,9.88
+29,ES,RF-0119-002-PPP,6,"DDE, p,p-","DDE, p,p-",RF-0119-002-PPP,0.04,7.41
+30,ES,RF-0112-001-PPP,1,Cypermethrin (sum),Cypermethrin (Cypermethrin including other mixtures of constituent isomers (sum of isomers)),RF-0112-001-PPP,0.05,1.23
+31,FI,RF-0237-001-PPP,1,Hexachlorobenzene,Hexachlorobenzene,RF-0237-001-PPP,0.005,3.23
+32,FR,RF-0021-001-PPP,3,Dieldrin (sum),Aldrin and Dieldrin (Aldrin and dieldrin combined expressed as dieldrin),RF-0021-001-PPP,0.006,3.3
+33,FR,RF-0237-001-PPP,3,Hexachlorobenzene,Hexachlorobenzene,RF-0237-001-PPP,0.005,3.3
+34,GB,RF-00002582-PAR,36,Benzalkonium chloride,Benzalkonium chloride (BAC),RF-00002582-PAR,0.1,23.84
+35,GB,RF-1078-004-PPP,35,BAC 12,Benzalkonium chloride (BAC) n=12,RF-1078-004-PPP,0.1,23.18
+36,GB,RF-1078-005-PPP,30,BAC 14,Benzalkonium chloride (BAC) n=14,RF-1078-005-PPP,0.1,19.87
+37,GB,RF-1078-002-PPP,3,DDAC (mixture),"Didecyldimethylammonium chloride (mixture of alkyl-quaternary ammonium salts with alkyl chain lengths of C8, C10 and C12)",RF-1078-002-PPP,0.1,1.99
+38,GB,RF-0021-001-PPP,1,Dieldrin (sum),Aldrin and Dieldrin (Aldrin and dieldrin combined expressed as dieldrin),RF-0021-001-PPP,0.006,0.66
+39,GB,RF-0021-003-PPP,1,Dieldrin,Dieldrin,RF-0021-003-PPP,0.006,0.66
+40,GB,RF-0119-001-PPP,1,DDT (sum),"DDT (sum of p,p'-DDT, o,p'-DDT, p-p'-DDE and p,p'-TDE (DDD) expressed as DDT)",RF-0119-001-PPP,0.04,0.66
+41,GB,RF-0119-002-PPP,1,"DDE, p,p-","DDE, p,p-",RF-0119-002-PPP,0.04,0.66
+42,GB,RF-1078-006-PPP,1,BAC 16,Benzalkonium chloride (BAC) n=16,RF-1078-006-PPP,0.1,0.66
+43,GR,RF-0119-001-PPP,1,DDT (sum),"DDT (sum of p,p'-DDT, o,p'-DDT, p-p'-DDE and p,p'-TDE (DDD) expressed as DDT)",RF-0119-001-PPP,0.04,3.7
+44,GR,RF-0119-002-PPP,1,"DDE, p,p-","DDE, p,p-",RF-0119-002-PPP,0.04,3.7
+45,IE,RF-0237-001-PPP,12,Hexachlorobenzene,Hexachlorobenzene,RF-0237-001-PPP,0.005,17.65
+46,IE,RF-0119-001-PPP,8,DDT (sum),"DDT (sum of p,p'-DDT, o,p'-DDT, p-p'-DDE and p,p'-TDE (DDD) expressed as DDT)",RF-0119-001-PPP,0.04,11.76
+47,IE,RF-00002582-PAR,2,Benzalkonium chloride,Benzalkonium chloride (BAC),RF-00002582-PAR,0.1,2.94
+48,IE,RF-1078-004-PPP,2,BAC 12,Benzalkonium chloride (BAC) n=12,RF-1078-004-PPP,0.1,2.94
+49,IE,RF-1078-005-PPP,2,BAC 14,Benzalkonium chloride (BAC) n=14,RF-1078-005-PPP,0.1,2.94
+50,IE,RF-0236-001-PPP,1,Heptachlor (sum),Heptachlor (sum of heptachlor and heptachlor epoxide expressed as heptachlor),RF-0236-001-PPP,0.004,1.47
+51,IE,RF-0823-001-PPP,1,2-phenylphenol (sum),"2-phenylphenol (sum of 2-phenylphenol and its conjugates, expressed as 2-phenylphenol)",RF-0823-001-PPP,0.01,1.47
+52,LT,RF-0119-001-PPP,4,DDT (sum),"DDT (sum of p,p'-DDT, o,p'-DDT, p-p'-DDE and p,p'-TDE (DDD) expressed as DDT)",RF-0119-001-PPP,0.04,10.26
+53,LT,RF-0237-001-PPP,3,Hexachlorobenzene,Hexachlorobenzene,RF-0237-001-PPP,0.005,7.69
+54,LT,RF-0119-002-PPP,1,"DDE, p,p-","DDE, p,p-",RF-0119-002-PPP,0.04,2.56
+55,LT,RF-0238-001-PPP,1,HCH-alpha,"Hexachlorocyclohexane (HCH), alpha-isomer",RF-0238-001-PPP,0.01,2.56
+56,LV,RF-0119-001-PPP,1,DDT (sum),"DDT (sum of p,p'-DDT, o,p'-DDT, p-p'-DDE and p,p'-TDE (DDD) expressed as DDT)",RF-0119-001-PPP,0.04,5.88
+57,LV,RF-0237-001-PPP,1,Hexachlorobenzene,Hexachlorobenzene,RF-0237-001-PPP,0.005,5.88
+58,NL,RF-0237-001-PPP,4,Hexachlorobenzene,Hexachlorobenzene,RF-0237-001-PPP,0.005,8.89
+59,NL,RF-0119-001-PPP,3,DDT (sum),"DDT (sum of p,p'-DDT, o,p'-DDT, p-p'-DDE and p,p'-TDE (DDD) expressed as DDT)",RF-0119-001-PPP,0.04,6.67
+60,NL,RF-0021-001-PPP,1,Dieldrin (sum),Aldrin and Dieldrin (Aldrin and dieldrin combined expressed as dieldrin),RF-0021-001-PPP,0.006,2.22
+61,NL,RF-0236-006-PPP,1,Heptachlor (sum of isomers),Heptachlor (sum of heptachlor and the cis and trans isomers of heptachlor epoxide),RF-0236-006-PPP,0.004,2.22
+62,PL,RF-0119-001-PPP,6,DDT (sum),"DDT (sum of p,p'-DDT, o,p'-DDT, p-p'-DDE and p,p'-TDE (DDD) expressed as DDT)",RF-0119-001-PPP,0.04,4.23
+63,PL,RF-0119-002-PPP,4,"DDE, p,p-","DDE, p,p-",RF-0119-002-PPP,0.04,2.82
+64,PL,RF-0237-001-PPP,2,Hexachlorobenzene,Hexachlorobenzene,RF-0237-001-PPP,0.005,1.41
+65,SK,RF-0119-001-PPP,10,DDT (sum),"DDT (sum of p,p'-DDT, o,p'-DDT, p-p'-DDE and p,p'-TDE (DDD) expressed as DDT)",RF-0119-001-PPP,0.04,71.43
+66,SK,RF-0119-002-PPP,10,"DDE, p,p-","DDE, p,p-",RF-0119-002-PPP,0.04,71.43
+67,SK,RF-0119-006-PPP,1,"DDT, p,p-","DDT, p,p-",RF-0119-006-PPP,0.04,7.14

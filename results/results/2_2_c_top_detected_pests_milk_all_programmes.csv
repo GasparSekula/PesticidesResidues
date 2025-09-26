@@ -1,0 +1,451 @@
+,sampCountry,year,name,Number of samples with pesticide
+0,AT,2011,Hexachlorobenzene,2
+1,AT,2012,Hexachlorobenzene,1
+2,AT,2015,Hexachlorobenzene,7
+3,AT,2022,Copper compounds,10
+4,BE,2011,HCH-beta,6
+5,BE,2011,DDT (sum),4
+6,BE,2011,"DDE, p,p-",3
+7,BE,2011,Dieldrin,3
+8,BE,2011,Dieldrin (sum),3
+9,BE,2011,Hexachlorobenzene,3
+10,BE,2011,"DDE, o,p-",2
+11,BE,2011,Chlordane (sum),1
+12,BE,2011,Heptachlor (sum),1
+13,BE,2011,Heptachlor epoxide,1
+14,BE,2012,HCH-beta,1
+15,BE,2012,Hexachlorobenzene,1
+16,BE,2013,Heptachlor (sum),4
+17,BE,2013,Endosulfan (sum),3
+18,BE,2013,"Endosulfan, alpha-",3
+19,BE,2013,HCH-beta,2
+20,BE,2013,Hexachlorobenzene,2
+21,BE,2013,Methoxychlor,1
+22,BE,2014,HCH-beta,5
+23,BE,2014,"DDE, p,p-",2
+24,BE,2014,DDT (sum),2
+25,BE,2014,Dieldrin,2
+26,BE,2014,Dieldrin (sum),2
+27,BE,2014,Hexachlorobenzene,2
+28,BE,2014,"DDT, o,p-",1
+29,BE,2014,Endosulfan (sum),1
+30,BE,2014,"Endosulfan, alpha-",1
+31,BE,2014,"Endosulfan, beta-",1
+32,BE,2015,DDT (sum),2
+33,BE,2015,"DDE, o,p-",1
+34,BE,2015,"DDE, p,p-",1
+35,BE,2015,HCH-beta,1
+36,BE,2016,DDT (sum),5
+37,BE,2016,"DDT, o,p-",3
+38,BE,2016,"DDE, o,p-",2
+39,BE,2016,"DDT, p,p-",2
+40,BE,2016,Dieldrin,1
+41,BE,2016,Dieldrin (sum),1
+42,BE,2016,HCH-beta,1
+43,BE,2016,Hexachlorobenzene,1
+44,BE,2023,Chlorate,1
+45,BE,2023,"DDE, p,p-",1
+46,BE,2023,DDT (sum),1
+47,CY,2011,"DDE, p,p-",1
+48,CY,2011,DDT (sum),1
+49,CY,2013,"DDE, p,p-",1
+50,CY,2013,DDT (sum),1
+51,CY,2014,"DDE, p,p-",3
+52,CY,2014,DDT (sum),3
+53,CY,2015,"DDE, p,p-",1
+54,CY,2015,DDT (sum),1
+55,CY,2016,"DDE, p,p-",2
+56,CY,2016,DDT (sum),2
+57,CY,2023,Copper compounds,5
+58,CZ,2017,"DDE, p,p-",2
+59,CZ,2017,"DDT, p,p-",2
+60,CZ,2017,Hexachlorobenzene,2
+61,CZ,2017,Lindane,2
+62,CZ,2018,"DDE, p,p-",1
+63,CZ,2018,DDT (sum),1
+64,CZ,2019,"DDE, p,p-",1
+65,CZ,2019,DDT (sum),1
+66,CZ,2021,"DDE, p,p-",1
+67,DE,2011,Hexachlorobenzene,170
+68,DE,2011,DDT (sum),126
+69,DE,2011,Lindane,2
+70,DE,2011,HCH-alpha,1
+71,DE,2011,HCH-beta,1
+72,DE,2012,Hexachlorobenzene,152
+73,DE,2012,DDT (sum),101
+74,DE,2012,Copper compounds,67
+75,DE,2012,Mercury compounds,12
+76,DE,2012,DDAC (mixture),5
+77,DE,2012,Endrin,3
+78,DE,2012,HCH-beta,1
+79,DE,2012,Permethrin (sum),1
+80,DE,2013,Hexachlorobenzene,191
+81,DE,2013,DDT (sum),92
+82,DE,2013,Copper compounds,88
+83,DE,2013,Mercury compounds,5
+84,DE,2013,Benzalkonium chloride,3
+85,DE,2013,Heptachlor (sum),3
+86,DE,2013,Lindane,2
+87,DE,2013,DDAC (mixture),1
+88,DE,2014,Hexachlorobenzene,186
+89,DE,2014,DDT (sum),84
+90,DE,2014,Benzalkonium chloride,24
+91,DE,2014,DDAC (mixture),11
+92,DE,2014,Copper compounds,5
+93,DE,2014,Lindane,5
+94,DE,2014,Permethrin (sum),3
+95,DE,2014,BAC 18,2
+96,DE,2014,Mercury compounds,1
+97,DE,2015,Hexachlorobenzene,78
+98,DE,2015,DDT (sum),51
+99,DE,2015,Copper compounds,23
+100,DE,2015,Benzalkonium chloride,16
+101,DE,2015,DDAC (mixture),10
+102,DE,2015,Lindane,5
+103,DE,2015,Mercury compounds,2
+104,DE,2015,HCH-beta,1
+105,DE,2015,Permethrin (sum),1
+106,DE,2016,Hexachlorobenzene,66
+107,DE,2016,DDT (sum),26
+108,DE,2016,Copper compounds,9
+109,DE,2016,Benzalkonium chloride,1
+110,DE,2016,Chlorate,1
+111,DE,2016,Cypermethrin (sum),1
+112,DE,2016,Deltamethrin,1
+113,DE,2016,Lindane,1
+114,DE,2017,Copper compounds,40
+115,DE,2017,Hexachlorobenzene,16
+116,DE,2017,"DDE, p,p-",15
+117,DE,2017,DDT (sum),12
+118,DE,2017,"DDD, p,p-",3
+119,DE,2017,"DDT, p,p-",2
+120,DE,2017,BAC 12,1
+121,DE,2017,Benzalkonium chloride,1
+122,DE,2017,"DDE, o,p-",1
+123,DE,2017,"DDT, o,p-",1
+124,DE,2017,Lindane,1
+125,DE,2017,Tetraconazole (sum),1
+126,DE,2018,Copper compounds,19
+127,DE,2018,"DDE, p,p-",8
+128,DE,2018,DDT (sum),8
+129,DE,2018,Hexachlorobenzene,2
+130,DE,2018,BAC 14,1
+131,DE,2018,Benzalkonium chloride,1
+132,DE,2019,Copper compounds,60
+133,DE,2019,Hexachlorobenzene,22
+134,DE,2019,DDT (sum),5
+135,DE,2019,"DDE, p,p-",4
+136,DE,2019,Bromide ion,3
+137,DE,2019,Azinphos-ethyl,2
+138,DE,2019,"DDT, p,p-",2
+139,DE,2019,Fenthion,1
+140,DE,2021,Copper compounds,28
+141,DE,2021,"DDE, p,p-",3
+142,DE,2021,DDT (sum),3
+143,DE,2021,Lindane,3
+144,DE,2021,DDAC (mixture),2
+145,DE,2021,DDAC-C10,2
+146,DE,2021,BAC 12,1
+147,DE,2021,BAC 14,1
+148,DE,2021,Benzalkonium chloride,1
+149,DE,2021,Chlorate,1
+150,DE,2021,Hexachlorobenzene,1
+151,DE,2022,Hexachlorobenzene,15
+152,DE,2022,Copper compounds,14
+153,DE,2022,Benzalkonium chloride,3
+154,DE,2022,BAC 12,2
+155,DE,2022,BAC 14,2
+156,DE,2022,DDAC (mixture),2
+157,DE,2022,DDAC-C10,2
+158,DE,2023,Copper compounds,11
+159,DE,2023,BAC 12,2
+160,DE,2023,Benzalkonium chloride,2
+161,DE,2023,BAC 14,1
+162,DK,2020,Copper compounds,7
+163,DK,2021,Copper compounds,7
+164,DK,2021,Mercury compounds,4
+165,DK,2022,Copper compounds,1
+166,DK,2023,Copper compounds,9
+167,DK,2023,Mercury compounds,1
+168,ES,2013,"DDE, p,p-",1
+169,ES,2013,DDT (sum),1
+170,FR,2013,Heptachlor (sum),2
+171,FR,2013,Heptachlor epoxide,2
+172,FR,2018,Deltamethrin,1
+173,FR,2019,2-phenylphenol (sum),1
+174,FR,2019,Dieldrin,1
+175,FR,2019,Dieldrin (sum),1
+176,FR,2021,Chlorpyrifos-methyl,1
+177,FR,2022,Dieldrin,1
+178,FR,2022,Dieldrin (sum),1
+179,GB,2016,BAC 12,3
+180,GB,2016,Benzalkonium chloride,3
+181,GB,2017,BAC 12,2
+182,GB,2017,Benzalkonium chloride,2
+183,GB,2018,BAC 12,6
+184,GB,2018,Benzalkonium chloride,6
+185,GB,2019,BAC 12,2
+186,GB,2019,BAC 14,1
+187,HR,2015,Hexachlorobenzene,7
+188,HR,2015,Methoxychlor,3
+189,HR,2015,Chlorobenzilate,1
+190,HR,2015,"DDD, p,p-",1
+191,HR,2015,"DDE, p,p-",1
+192,HR,2015,"DDT, o,p-",1
+193,HR,2015,"DDT, p,p-",1
+194,HR,2015,"Endosulfan, beta-",1
+195,HR,2015,HCH-alpha,1
+196,HU,2014,Famoxadone,1
+197,HU,2020,2-phenylphenol (sum),13
+198,HU,2020,Aldrin,13
+199,HU,2020,Azinphos-ethyl,13
+200,HU,2020,Azinphos-methyl,13
+201,HU,2020,Bifenthrin (sum),13
+202,HU,2020,Boscalid,13
+203,HU,2020,Chlorobenzilate,13
+204,HU,2020,Chlorpyrifos,13
+205,HU,2020,Chlorpyrifos-methyl,13
+206,HU,2020,Cyfluthrin (sum),13
+207,HU,2020,Cypermethrin (sum),13
+208,HU,2020,"DDD, p,p-",13
+209,HU,2020,"DDE, p,p-",13
+210,HU,2020,DDT (sum),13
+211,HU,2020,"DDT, o,p-",13
+212,HU,2020,"DDT, p,p-",13
+213,HU,2020,Deltamethrin,13
+214,HU,2020,Diazinon,13
+215,HU,2020,Dieldrin,13
+216,HU,2020,Dieldrin (sum),13
+217,HU,2020,Diphenylamine,13
+218,HU,2020,Endosulfan (sum),13
+219,HU,2020,"Endosulfan, alpha-",13
+220,HU,2020,"Endosulfan, beta-",13
+221,HU,2020,Endosulfansulfate,13
+222,HU,2020,Endrin,13
+223,HU,2020,Etofenprox,13
+224,HU,2020,Famoxadone,13
+225,HU,2020,Fenpropimorph ,13
+226,HU,2020,Fenthion,13
+227,HU,2020,Fenthion (sum),13
+228,HU,2020,Fenthion-Oxon,13
+229,HU,2020,Fenthion-Oxonsulfoxide,13
+230,HU,2020,Fenthion-Sulfon,13
+231,HU,2020,Fenthion-Sulfoxide,13
+232,HU,2020,Fenvalerate,13
+233,HU,2020,Fipronil,13
+234,HU,2020,Fipronil (sum),13
+235,HU,2020,Fipronil-Sulfone,13
+236,HU,2020,Fluquinconazole,13
+237,HU,2020,Fluvalinate (sum),13
+238,HU,2020,HCH-alpha,13
+239,HU,2020,HCH-beta,13
+240,HU,2020,Heptachlor,13
+241,HU,2020,Heptachlor (sum),13
+242,HU,2020,Hexachlorobenzene,13
+243,HU,2020,Indoxacarb,13
+244,HU,2020,Lambda-cyhalothrin (sum),13
+245,HU,2020,Lindane,13
+246,HU,2020,Metaflumizone (sum),13
+247,HU,2020,Methidathion,13
+248,HU,2020,Methoxychlor,13
+249,HU,2020,Parathion,13
+250,HU,2020,Parathion-methyl (sum),13
+251,HU,2020,Pendimethalin,13
+252,HU,2020,Permethrin (sum),13
+253,HU,2020,Pirimiphos-methyl,13
+254,HU,2020,Prochloraz,13
+255,HU,2020,Profenofos,13
+256,HU,2020,Pyrazophos,13
+257,HU,2020,Quintozene,13
+258,HU,2020,Quintozene (sum),13
+259,HU,2020,Tetraconazole (sum),13
+260,HU,2020,Triazophos,13
+261,HU,2021,Aldrin,7
+262,HU,2021,Azinphos-ethyl,7
+263,HU,2021,Azinphos-methyl,7
+264,HU,2021,Boscalid,7
+265,HU,2021,Chlorobenzilate,7
+266,HU,2021,Chlorpyrifos,7
+267,HU,2021,Chlorpyrifos-methyl,7
+268,HU,2021,Cypermethrin (sum),7
+269,HU,2021,"DDD, p,p-",7
+270,HU,2021,"DDE, p,p-",7
+271,HU,2021,DDT (sum),7
+272,HU,2021,"DDT, o,p-",7
+273,HU,2021,"DDT, p,p-",7
+274,HU,2021,Deltamethrin,7
+275,HU,2021,Diazinon,7
+276,HU,2021,Dieldrin,7
+277,HU,2021,Dieldrin (sum),7
+278,HU,2021,Diphenylamine,7
+279,HU,2021,Endosulfan (sum),7
+280,HU,2021,"Endosulfan, alpha-",7
+281,HU,2021,"Endosulfan, beta-",7
+282,HU,2021,Endosulfansulfate,7
+283,HU,2021,Endrin,7
+284,HU,2021,Etofenprox,7
+285,HU,2021,Famoxadone,7
+286,HU,2021,Fenpropimorph ,7
+287,HU,2021,Fenthion,7
+288,HU,2021,Fenthion (sum),7
+289,HU,2021,Fenthion-Oxon,7
+290,HU,2021,Fenthion-Oxonsulfoxide,7
+291,HU,2021,Fenthion-Sulfon,7
+292,HU,2021,Fenthion-Sulfoxide,7
+293,HU,2021,Fenvalerate,7
+294,HU,2021,Fipronil,7
+295,HU,2021,Fipronil (sum),7
+296,HU,2021,Fipronil-Sulfone,7
+297,HU,2021,Fluquinconazole,7
+298,HU,2021,HCH-alpha,7
+299,HU,2021,HCH-beta,7
+300,HU,2021,Heptachlor,7
+301,HU,2021,Heptachlor (sum),7
+302,HU,2021,Hexachlorobenzene,7
+303,HU,2021,Indoxacarb,7
+304,HU,2021,Lambda-cyhalothrin (sum),7
+305,HU,2021,Lindane,7
+306,HU,2021,Metaflumizone (sum),7
+307,HU,2021,Methidathion,7
+308,HU,2021,Methoxychlor,7
+309,HU,2021,Parathion,7
+310,HU,2021,Parathion-methyl (sum),7
+311,HU,2021,Pendimethalin,7
+312,HU,2021,Permethrin (sum),7
+313,HU,2021,Pirimiphos-methyl,7
+314,HU,2021,Profenofos,7
+315,HU,2021,Pyrazophos,7
+316,HU,2021,Quintozene,7
+317,HU,2021,Quintozene (sum),7
+318,HU,2021,Tetraconazole (sum),7
+319,HU,2021,Triazophos,7
+320,HU,2021,Cyfluthrin (sum),6
+321,HU,2021,Carbendazim,5
+322,HU,2023,Aldrin,20
+323,HU,2023,"DDD, p,p-",20
+324,HU,2023,"DDE, o,p-",20
+325,HU,2023,"DDE, p,p-",20
+326,HU,2023,DDT (sum),20
+327,HU,2023,"DDT, o,p-",20
+328,HU,2023,"DDT, p,p-",20
+329,HU,2023,Dieldrin,20
+330,HU,2023,Endosulfan (sum),20
+331,HU,2023,"Endosulfan, alpha-",20
+332,HU,2023,"Endosulfan, beta-",20
+333,HU,2023,Endosulfansulfate,20
+334,HU,2023,HCH-alpha,20
+335,HU,2023,HCH-beta,20
+336,HU,2023,Heptachlor,20
+337,HU,2023,Hexachlorobenzene,20
+338,HU,2023,Lindane,20
+339,HU,2023,Methoxychlor,20
+340,HU,2023,Oxychlordane,20
+341,HU,2023,2-phenylphenol (sum),19
+342,HU,2023,Bifenthrin (sum),19
+343,HU,2023,Boscalid,19
+344,HU,2023,Chlorobenzilate,19
+345,HU,2023,Chlorpropham,19
+346,HU,2023,Chlorpyrifos,19
+347,HU,2023,Chlorpyrifos-methyl,19
+348,HU,2023,Cyfluthrin (sum),19
+349,HU,2023,Deltamethrin,19
+350,HU,2023,Diazinon,19
+351,HU,2023,Diphenylamine,19
+352,HU,2023,Etofenprox,19
+353,HU,2023,Fipronil,19
+354,HU,2023,Fipronil-Sulfone,19
+355,HU,2023,Fluquinconazole,19
+356,HU,2023,Indoxacarb,19
+357,HU,2023,Lambda-cyhalothrin (sum),19
+358,HU,2023,Parathion,19
+359,HU,2023,Permethrin (sum),19
+360,HU,2023,Quintozene,19
+361,HU,2023,Quintozene (sum),19
+362,HU,2023,Resmethrin (sum),19
+363,HU,2023,Triazophos,19
+364,HU,2023,Azinphos-ethyl,18
+365,HU,2023,Azinphos-methyl,18
+366,HU,2023,Carbendazim,18
+367,HU,2023,Famoxadone,18
+368,HU,2023,Fenthion,18
+369,HU,2023,Fenthion (sum),18
+370,HU,2023,Fenthion-Oxon,18
+371,HU,2023,Fenthion-Oxonsulfoxide,18
+372,HU,2023,Fenthion-Sulfon,18
+373,HU,2023,Fenthion-Sulfoxide,18
+374,HU,2023,Fipronil (sum),18
+375,HU,2023,Fluopyram,18
+376,HU,2023,Methidathion,18
+377,HU,2023,Parathion-methyl (sum),18
+378,HU,2023,Pendimethalin,18
+379,HU,2023,Pirimiphos-methyl,18
+380,HU,2023,Prochloraz,18
+381,HU,2023,Profenofos,18
+382,HU,2023,Pyrazophos,18
+383,HU,2023,Bixafen,17
+384,HU,2023,Flusilazole,17
+385,HU,2023,Heptachlor (sum),5
+386,IE,2011,Bifenthrin (sum),1
+387,IE,2016,"2,4-D",1
+388,IE,2016,MCPA,1
+389,IE,2016,Mecoprop,1
+390,IE,2017,Benzalkonium chloride,2
+391,IE,2021,Chlorate,25
+392,IE,2022,Chlorate,3
+393,IE,2023,Chlorate,2
+394,IT,2016,BAC 12,4
+395,IT,2016,BAC 14,3
+396,IT,2016,Benzalkonium chloride,1
+397,IT,2017,BAC 12,4
+398,IT,2022,2-phenylphenol (sum),2
+399,IT,2022,Copper compounds,2
+400,IT,2023,Copper compounds,2
+401,IT,2023,Fenthion (sum),1
+402,NL,2021,Chlorate,1
+403,NL,2022,Bromide ion,19
+404,NL,2022,Chlorate,4
+405,NO,2023,Copper compounds,2
+406,PT,2023,Chlorate,1
+407,RO,2011,"DDE, p,p-",7
+408,RO,2011,HCH-alpha,2
+409,RO,2011,Chlordane (sum),1
+410,RO,2011,DDT (sum),1
+411,RO,2011,HCH-beta,1
+412,RO,2011,Heptachlor,1
+413,RO,2011,Hexachlorobenzene,1
+414,RO,2012,DDT (sum),10
+415,RO,2012,HCH-alpha,5
+416,RO,2012,Heptachlor (sum of isomers),4
+417,RO,2012,HCH-beta,1
+418,RO,2013,DDT (sum),5
+419,RO,2013,HCH-beta,1
+420,RO,2014,DDT (sum),3
+421,RO,2014,HCH-alpha,3
+422,RO,2014,Dieldrin (sum),1
+423,RO,2014,Heptachlor (sum of isomers),1
+424,RO,2014,Hexachlorobenzene,1
+425,RO,2015,DDT (sum),7
+426,RO,2015,Chlordane (sum),6
+427,RO,2015,HCH-alpha,4
+428,RO,2015,Hexachlorobenzene,3
+429,RO,2015,Dieldrin (sum),2
+430,RO,2015,"DDT, p,p-",1
+431,RO,2015,Diazinon,1
+432,RO,2015,Heptachlor (sum of isomers),1
+433,RO,2015,Lindane,1
+434,RO,2016,Chlordane (sum),6
+435,RO,2016,DDT (sum),5
+436,RO,2016,Hexachlorobenzene,4
+437,RO,2016,HCH-alpha,3
+438,RO,2016,Heptachlor (sum of isomers),2
+439,RO,2017,HCH-alpha,1
+440,RO,2017,Hexachlorobenzene,1
+441,RO,2019,DDT (sum),1
+442,SK,2013,"DDE, p,p-",13
+443,SK,2013,DDT (sum),13
+444,SK,2013,DDAC (mixture),3
+445,SK,2016,"DDE, p,p-",10
+446,SK,2016,DDT (sum),10
+447,SK,2016,Hexachlorobenzene,2
+448,SK,2019,"DDE, p,p-",1
+449,SK,2019,DDT (sum),1
