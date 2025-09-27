@@ -1,0 +1,27 @@
+,sampCountry,year,name,Number of samples with pesticide
+0,DE,2013,Hexachlorobenzene,57
+1,DE,2013,Copper compounds,55
+2,DE,2013,DDT (sum),34
+3,DE,2013,Mercury compounds,4
+4,DE,2013,Lindane,2
+5,DE,2016,Hexachlorobenzene,17
+6,DE,2016,DDT (sum),6
+7,DE,2019,Copper compounds,31
+8,DE,2019,Hexachlorobenzene,22
+9,DE,2019,Bromide ion,3
+10,DE,2019,Azinphos-ethyl,2
+11,DE,2019,"DDE, p,p-",1
+12,DE,2022,Hexachlorobenzene,15
+13,DE,2022,BAC 12,1
+14,DE,2022,BAC 14,1
+15,DE,2022,Benzalkonium chloride,1
+16,DE,2022,DDAC (mixture),1
+17,FR,2013,Heptachlor (sum),2
+18,FR,2013,Heptachlor epoxide,2
+19,FR,2019,2-phenylphenol (sum),1
+20,FR,2019,Dieldrin,1
+21,FR,2019,Dieldrin (sum),1
+22,FR,2022,Dieldrin,1
+23,FR,2022,Dieldrin (sum),1
+24,NL,2022,Bromide ion,19
+25,NL,2022,Chlorate,4

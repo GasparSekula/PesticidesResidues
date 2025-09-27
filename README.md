@@ -108,7 +108,22 @@ The project investigates the following research questions:
 10. **Non-mandatory milk sampling in 2023**
     - What were the characteristics and outcomes of non-mandatory milk sampling in 2023?
 
+---
 
+## 🥛 **POSTER:** Pesticide Monitoring in Milk – Top 5 EU Producers
+This project investigates pesticide monitoring results in milk across the five largest milk-producing countries in Europe: Germany (DE), France (FR), Poland (PL), Netherlands (NL), and Italy (IT). Data covers both mandatory monitoring programs (2010, 2013, 2016, 2019, 2022) and non-mandatory programs (2011–2023). The focus is on visual exploration of sample sizes, detection patterns, and pesticide–country associations.
+
+### Tasks
+1. **European Map – Sampling Intensity**
+    - Create a map of Europe highlighting the 5 countries (DE, FR, PL, NL, IT).
+    - Show the total number of milk samples collected across both mandatory and non-mandatory programs.
+
+2. **Chord Diagram – Pesticides in Mandatory Monitoring**
+    - Build a chord diagram showing top pesticides (VAL > 0) detected in milk under mandatory programs for the 5 countries.
+
+3. **Heatmap – Pesticides in Non-Mandatory Monitoring**
+    - Generate a heatmap of pesticide detections (VAL > 0) in milk for the 5 countries under non-mandatory programs.
+    - Include up to 10 most frequent pesticides.
 ---
 
 ## 🔎 Key Challenges & Problems Addressed

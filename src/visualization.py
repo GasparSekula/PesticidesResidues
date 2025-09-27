@@ -106,7 +106,7 @@ def plot_map(country_codes_list, values_list, title, legend_label, custom_color_
     )
     
     if save_path is not None:
-        fig.write_image(save_path, width=1000, height=700)
+        fig.write_html(save_path)
 
     try:
         fig.show()
