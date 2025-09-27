@@ -1,4 +1,4 @@
-# 🥛🐄 Pesticide Residues in Dairy Products (Milk & Butter)
+# 🥛🐄 Pesticide Residues in Dairy Products
 
 This repository contains **data transformation, statistical analysis, and visualization** of pesticide residues in dairy products.  
 The project is part of **Justyna Para's PhD research** at Institute of Animal Breeding, Wroclaw University of Environmental and Life Sciences.
