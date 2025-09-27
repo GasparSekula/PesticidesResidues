@@ -202,7 +202,7 @@ def plot_chord(df: pd.DataFrame, product: str, country_type: str, title: str, to
     plt.title(title)
 
 def plot_stats_heatmap(df, country, product, title):
-    plt.figure(figsize=(10, 14))
+    plt.figure(figsize=(10, 18))
 
     df_labels = df.copy()
     df_labels['label'] = df_labels.apply(
@@ -238,8 +238,8 @@ def plot_stats_heatmap(df, country, product, title):
     plt.yticks(rotation=360, fontsize=12)
     plt.xlabel('Year', fontsize=12)
     plt.ylabel('Country', fontsize=12)
-    plt.suptitle(f"{title}", fontsize=14)
-    plt.title("L - number of samples exceeding pesticides' limits, V - number of samples with pesticide detected, ∑ - total number of samples ", fontsize=10)
+    plt.suptitle(f"{title}", fontsize=14, y=0.97, x=0.55, ha='center')
+    plt.title("L - number of samples exceeding pesticides' limits, V - number of samples with pesticide detected, ∑ - total number of samples ")
     plt.tight_layout()
     plt.subplots_adjust(right=0.98, bottom=0.08, top=0.92, left=0.15)
     plt.show()
