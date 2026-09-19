@@ -1,58 +1,49 @@
-,sampCountry,year,name,Number of samples with pesticide
-0,AT,2022,Copper compounds,10
-1,CY,2013,"DDE, p,p-",1
-2,CY,2013,DDT (sum),1
-3,CY,2016,"DDE, p,p-",1
-4,CY,2016,DDT (sum),1
-5,CZ,2019,"DDE, p,p-",1
-6,CZ,2019,DDT (sum),1
-7,DE,2013,Hexachlorobenzene,57
-8,DE,2013,Copper compounds,55
-9,DE,2013,DDT (sum),34
-10,DE,2013,Mercury compounds,4
-11,DE,2013,Lindane,2
-12,DE,2013,Benzalkonium chloride,1
-13,DE,2016,Hexachlorobenzene,17
-14,DE,2016,DDT (sum),6
-15,DE,2019,Copper compounds,31
-16,DE,2019,Hexachlorobenzene,22
-17,DE,2019,Bromide ion,3
-18,DE,2019,Azinphos-ethyl,2
-19,DE,2019,"DDE, p,p-",1
-20,DE,2019,DDT (sum),1
-21,DE,2019,Fenthion,1
-22,DE,2022,Hexachlorobenzene,15
-23,DE,2022,BAC 12,1
-24,DE,2022,BAC 14,1
-25,DE,2022,Benzalkonium chloride,1
-26,DE,2022,DDAC (mixture),1
-27,DE,2022,DDAC-C10,1
-28,DK,2022,Copper compounds,1
-29,ES,2013,"DDE, p,p-",1
-30,ES,2013,DDT (sum),1
-31,FR,2013,Heptachlor (sum),2
-32,FR,2013,Heptachlor epoxide,2
-33,FR,2019,2-phenylphenol (sum),1
-34,FR,2019,Dieldrin,1
-35,FR,2019,Dieldrin (sum),1
-36,FR,2022,Dieldrin,1
-37,FR,2022,Dieldrin (sum),1
-38,GB,2019,BAC 12,2
-39,GB,2019,BAC 14,1
-40,NL,2022,Bromide ion,19
-41,NL,2022,Chlorate,4
-42,RO,2013,DDT (sum),5
-43,RO,2013,HCH-beta,1
-44,RO,2016,Chlordane (sum),6
-45,RO,2016,DDT (sum),5
-46,RO,2016,Hexachlorobenzene,4
-47,RO,2016,HCH-alpha,3
-48,RO,2016,Heptachlor (sum of isomers),2
-49,RO,2019,DDT (sum),1
-50,SK,2013,"DDE, p,p-",13
-51,SK,2013,DDT (sum),13
-52,SK,2016,"DDE, p,p-",10
-53,SK,2016,DDT (sum),10
-54,SK,2016,Hexachlorobenzene,2
-55,SK,2019,"DDE, p,p-",1
-56,SK,2019,DDT (sum),1
+,sampCountry,year,tag,num_samples,above_mrl_samples,above_mrl_mean,above_mrl_std,between_loq_and_mrl_samples,between_loq_and_mrl_mean,between_loq_and_mrl_std
+292,AT,2022,Copper compounds,10,0.0,0.0,0.0,10.0,0.0457,0.0148
+568,CY,2013,DDT (sum),15,0.0,0.0,0.0,1.0,0.0021,0.0002
+780,CY,2016,DDT (sum),15,0.0,0.0,0.0,1.0,0.0065,0.0007
+1149,CZ,2019,DDT (sum),14,0.0,0.0,0.0,1.0,0.002,0.0
+1215,DE,2013,Copper compounds,189,0.0,0.0,0.0,55.0,0.0805,0.0599
+1260,DE,2013,Mercury compounds,189,0.0,0.0,0.0,4.0,0.006,0.0023
+1223,DE,2013,DDT (sum),136,0.0,0.0,0.0,34.0,0.0013,0.0016
+1253,DE,2013,Hexachlorobenzene,136,0.0,0.0,0.0,57.0,0.001,0.001
+1258,DE,2013,Lindane,136,0.0,0.0,0.0,2.0,0.0004,0.0004
+1203,DE,2013,Benzalkonium chloride,3,1.0,0.23,0.0,0.0,0.0,0.0
+1384,DE,2016,DDT (sum),103,0.0,0.0,0.0,6.0,0.0002,0.0002
+1485,DE,2016,Hexachlorobenzene,92,0.0,0.0,0.0,17.0,0.0001,0.0
+1754,DE,2019,Copper compounds,133,0.0,0.0,0.0,31.0,0.0738,0.0338
+1769,DE,2019,DDT (sum),110,0.0,0.0,0.0,1.0,0.0001,0.0
+1896,DE,2019,Hexachlorobenzene,110,0.0,0.0,0.0,22.0,0.0001,0.0
+1680,DE,2019,Azinphos-ethyl,92,0.0,0.0,0.0,2.0,0.0001,0.0001
+1841,DE,2019,Fenthion (sum),92,0.0,0.0,0.0,1.0,0.0001,0.0
+1709,DE,2019,Bromide ion,5,3.0,0.97,0.2869,0.0,0.0,0.0
+2325,DE,2022,Hexachlorobenzene,119,0.0,0.0,0.0,15.0,0.0001,0.0
+2132,DE,2022,BAC 12,95,0.0,0.0,0.0,1.0,0.038,0.0
+2133,DE,2022,BAC 14,95,0.0,0.0,0.0,1.0,0.074,0.0
+2199,DE,2022,DDAC (mix),95,0.0,0.0,0.0,1.0,0.087,0.0
+2143,DE,2022,Benzalkonium chloride,73,1.0,0.11,0.0,0.0,0.0,0.0
+2703,DK,2022,Copper compounds,10,0.0,0.0,0.0,1.0,0.052,0.0
+3124,ES,2013,DDT (sum),44,1.0,1.05,0.0707,0.0,0.0,0.0
+4233,FR,2013,Heptachlor (sum),66,0.0,0.0,0.0,2.0,0.0004,0.0001
+4421,FR,2019,Dieldrin (sum),95,0.0,0.0,0.0,1.0,0.0008,0.0
+4275,FR,2019,2-phenylphenol (sum),26,1.0,0.19,0.0,0.0,0.0,0.0
+4933,FR,2022,Dieldrin (sum),87,0.0,0.0,0.0,1.0,0.005,0.0
+5344,GB,2019,BAC 12,297,1.0,0.2,0.0,1.0,0.1,0.0
+5345,GB,2019,BAC 14,297,0.0,0.0,0.0,1.0,0.08,0.0
+6103,HU,2013,Benfuracarb,50,1.0,0.0249,0.0,0.0,0.0,0.0
+7755,IE,2022,Fosetyl-Al (sum),12,1.0,0.043,0.0,0.0,0.0,0.0
+8441,IT,2022,Piperonyl Butoxide,5,1.0,0.002,0.0,0.0,0.0,0.0
+10517,NL,2022,Bromide ion,20,19.0,2.5989,1.8585,0.0,0.0,0.0
+10537,NL,2022,Chlorate,20,0.0,0.0,0.0,4.0,0.0162,0.0053
+11787,RO,2013,DDT (sum),27,0.0,0.0,0.0,5.0,0.0009,0.0002
+11797,RO,2013,HCH-beta,27,0.0,0.0,0.0,1.0,0.0005,0.0
+11819,RO,2016,Chlordane (sum),25,0.0,0.0,0.0,6.0,0.001,0.0004
+11826,RO,2016,DDT (sum),25,0.0,0.0,0.0,5.0,0.0011,0.0005
+11837,RO,2016,HCH-alpha,25,0.0,0.0,0.0,3.0,0.0027,0.0005
+11841,RO,2016,Hexachlorobenzene,25,0.0,0.0,0.0,4.0,0.0017,0.0007
+11839,RO,2016,Heptachlor (sum of isomers),24,0.0,0.0,0.0,2.0,0.0017,0.0016
+11862,RO,2019,DDT (sum),7,0.0,0.0,0.0,1.0,0.002,0.0
+12454,SK,2013,DDT (sum),15,0.0,0.0,0.0,13.0,0.0006,0.0004
+12501,SK,2016,DDT (sum),15,0.0,0.0,0.0,10.0,0.0005,0.0003
+12515,SK,2016,Hexachlorobenzene,15,0.0,0.0,0.0,2.0,0.0002,0.0001
+12545,SK,2019,DDT (sum),15,0.0,0.0,0.0,1.0,0.0005,0.0

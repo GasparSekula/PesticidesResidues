@@ -1,0 +1,816 @@
+,paramcode,tag,long_name,obligatory,voluntary,total_samples
+169,RF-0079-001-PPP,Chlorfenvinphos,Chlorfenvinphos,611.0,1266.0,1877.0
+312,RF-0236-003-PPP,Heptachlor (sum),"Heptachlorepoxide, trans-",628.0,826.0,1454.0
+381,RF-0311-001-PPP,Nitrofen,Nitrofen,389.0,935.0,1324.0
+354,RF-0288-001-PPP,Methacrifos,Methacrifos,463.0,727.0,1190.0
+509,RF-0442-001-PPP,Trifluralin,Trifluralin,398.0,787.0,1185.0
+621,RF-0653-001-PPP,Endrin (sum),Endrin ketone (expressed as endrin),116.0,885.0,1001.0
+547,RF-0515-001-PPP,Bromocyclen,Bromocyclen,147.0,833.0,980.0
+411,RF-0338-002-PPP,Phosmet (sum),Phosmet,252.0,690.0,942.0
+516,RF-0450-003-PPP,Vinclozolin,Vinclozolin,269.0,584.0,853.0
+340,RF-0266-003-PPP,Malathion (sum),Malathion,312.0,497.0,809.0
+242,RF-0157-001-PPP,Epoxiconazole,Epoxiconazole,212.0,574.0,786.0
+267,RF-0180-001-PPP,Fenitrothion,Fenitrothion,284.0,436.0,720.0
+662,RF-0736-001-PPP,HCH (sum),"HCH, delta-",236.0,478.0,714.0
+246,RF-0161-001-PPP,Ethion,Ethion,251.0,433.0,684.0
+573,RF-0571-001-PPP,Coumaphos,Coumaphos,167.0,516.0,683.0
+194,RF-0113-001-PPP,Cyproconazole (sum),Cyproconazole,226.0,432.0,658.0
+338,RF-0266-001-PPP,Malathion (sum),Malathion (sum of malathion and malaoxon expressed as malathion),285.0,367.0,652.0
+455,RF-0383-003-PPP,Quintozene (sum),Pentachloroaniline,240.0,411.0,651.0
+695,RF-0797-001-PPP,Mirex,Mirex,136.0,429.0,565.0
+414,RF-0342-001-PPP,Phoxim,Phoxim,117.0,443.0,560.0
+726,RF-0866-001-PPP,Propetamphos,Propetamphos,108.0,442.0,550.0
+270,RF-0183-001-PPP,Fenpropathrin,Fenpropathrin,196.0,351.0,547.0
+315,RF-0240-003-PPP,HCH (sum),"Hexachlorocyclohexane (HCH), sum of isomers, except the gamma isomer",282.0,238.0,520.0
+484,RF-0417-001-PPP,Thiacloprid,Thiacloprid,127.0,385.0,512.0
+469,RF-0403-001-PPP,Tebuconazole (sum),Tebuconazole,223.0,283.0,506.0
+428,RF-0357-001-PPP,Propargite,Propargite,113.0,372.0,485.0
+409,RF-0337-001-PPP,Phosalone,Phosalone,209.0,259.0,468.0
+269,RF-0182-001-PPP,Fenoxycarb,Fenoxycarb,109.0,355.0,464.0
+224,RF-0139-003-PPP,Dimethoate (sum),Dimethoate,230.0,218.0,448.0
+429,RF-0358-001-PPP,Propiconazole (sum),Propiconazole (sum of isomers),158.0,288.0,446.0
+296,RF-0218-002-PPP,Flusilazole (sum),Flusilazole (sum of flusilazole and its metabolite IN-F7321 ([bis-(4-fluorophenyl)methyl]silanol) expressed as flusilazole),170.0,275.0,445.0
+148,RF-0051-001-PPP,Bromophos-ethyl,Bromophos-ethyl,141.0,301.0,442.0
+793,RF-1003-001-PPP,"3,5-dichloroaniline (sum)","Vinclozolin, iprodione, procymidone, sum of compounds and all metabolites containing the 3,5-dichloroaniline moiety expressed as 3,5 dichloroaniline",148.0,268.0,416.0
+205,RF-0127-001-PPP,Dichlorvos,Dichlorvos,197.0,214.0,411.0
+339,RF-0266-002-PPP,Malathion (sum),Malaoxon,181.0,229.0,410.0
+351,RF-0285-001-PPP,Metazachlor,Metazachlor,167.0,222.0,389.0
+790,RF-0999-001-PPP,Nonachlor-Trans,Nonachlor-Trans,105.0,276.0,381.0
+430,RF-0361-001-PPP,Propoxur,Propoxur,75.0,299.0,374.0
+149,RF-0052-001-PPP,Bromopropylate,Bromopropylate,184.0,180.0,364.0
+355,RF-0289-001-PPP,Methamidophos,Methamidophos,145.0,217.0,362.0
+548,RF-0517-001-PPP,Bromophos,Bromophos,202.0,159.0,361.0
+464,RF-0393-001-PPP,Spinosad (sum),"Spinosad (spinosad, sum of spinosyn A and spinosyn D)",82.0,278.0,360.0
+622,RF-0654-001-PPP,EPN,EPN,98.0,262.0,360.0
+222,RF-0139-001-PPP,Dimethoate (sum),Dimethoate (sum of dimethoate and omethoate expressed as dimethoate),223.0,136.0,359.0
+155,RF-0062-001-PPP,Carbaryl,Carbaryl,137.0,221.0,358.0
+209,RF-0129-001-PPP,Dicloran,Dicloran,81.0,271.0,352.0
+223,RF-0139-002-PPP,Dimethoate (sum),Omethoate,170.0,176.0,346.0
+0,RF-00000010-PAR,Bixafen (sum),"Bixafen (sum of bixafen and desmethyl-bixafen, expressed as bixafen)",117.0,226.0,343.0
+111,RF-0012-001-PPP,Acephate,Acephate,171.0,160.0,331.0
+250,RF-0164-001-PPP,Ethoprophos,Ethoprophos,124.0,205.0,329.0
+136,RF-0035-001-PPP,Azoxystrobin,Azoxystrobin,126.0,191.0,317.0
+458,RF-0385-002-PPP,Resmethrin (sum),cis-Resmethrin,109.0,207.0,316.0
+490,RF-0424-001-PPP,Tolclofos-methyl,Tolclofos-methyl,158.0,155.0,313.0
+419,RF-0347-001-PPP,Pirimicarb (sum),Pirimicarb (sum of Pirimicarb and Desmethyl pirimicarb expressed as Pirimicarb),141.0,168.0,309.0
+557,RF-0528-001-PPP,Cadusafos,Cadusafos,125.0,181.0,306.0
+719,RF-0851-001-PPP,Pirimiphos-Ethyl,Pirimiphos-Ethyl,137.0,165.0,302.0
+314,RF-0236-008-PPP,Heptachlor (sum),Heptachlor exo-epoxide,144.0,153.0,297.0
+631,RF-0668-001-PPP,Etrimfos,Etrimfos,117.0,179.0,296.0
+404,RF-0336-003-PPP,Phorate (sum),Phorate,167.0,128.0,295.0
+370,RF-0302-001-PPP,Mevinphos (sum),Mevinphos (sum of E- and Z-isomers),161.0,124.0,285.0
+792,RF-1002-001-PPP,Carbendazim and thiophanate-methyl (sum),"Carbendazim and thiophanate-methyl, expressed as carbendazim",76.0,205.0,281.0
+272,RF-0184-002-PPP,Fenpropidin (sum),"Fenpropidin (sum of fenpropidin, 2-methyl-2-[4-(2-methyl-3- piperidin-1-yl-propyl)-phenyl]propionic acid, and their salts, expressed as fenpropidin)",87.0,193.0,280.0
+159,RF-0065-003-PPP,Carbofuran (sum),Carbofuran,92.0,184.0,276.0
+323,RF-0250-001-PPP,Imidacloprid,Imidacloprid,75.0,198.0,273.0
+118,RF-0017-001-PPP,Aclonifen,Aclonifen,53.0,218.0,271.0
+600,RF-0612-001-PPP,Dicrotophos,Dicrotophos,46.0,217.0,263.0
+657,RF-0724-001-PPP,Fonofos,Fonofos,96.0,165.0,261.0
+453,RF-0380-001-PPP,Quinalphos,Quinalphos,139.0,121.0,260.0
+171,RF-0084-001-PPP,Chlorothalonil,Chlorothalonil,174.0,85.0,259.0
+496,RF-0428-003-PPP,Triadimefon and triadimenol (sum),Triadimefon,160.0,99.0,259.0
+481,RF-0415-001-PPP,Tetradifon,Tetradifon,134.0,123.0,257.0
+451,RF-0378-001-PPP,Pyriproxyfen,Pyriproxyfen,94.0,160.0,254.0
+420,RF-0347-002-PPP,Pirimicarb (sum),Pirimicarb,117.0,135.0,252.0
+364,RF-0293-003-PPP,Methomyl and Thiodicarb (sum),Methomyl,58.0,194.0,252.0
+259,RF-0174-001-PPP,Fenarimol,Fenarimol,142.0,108.0,250.0
+395,RF-0329-001-PPP,Penconazole (sum),Penconazole (sum of constituent isomers),124.0,119.0,243.0
+356,RF-0291-001-PPP,Methiocarb (sum),"Methiocarb (sum of methiocarb and methiocarb sulfoxide and sulfone, expressed as methiocarb)",107.0,135.0,242.0
+283,RF-0202-001-PPP,Fludioxonil,Fludioxonil,95.0,147.0,242.0
+485,RF-0418-001-PPP,Thiamethoxam (sum),Thiamethoxam,58.0,183.0,241.0
+528,RF-0475-001-PPP,Anthraquinone,Anthraquinone,38.0,201.0,239.0
+261,RF-0176-001-PPP,Fenbuconazole (sum),Fenbuconazole,100.0,139.0,239.0
+9,RF-00000032-PAR,Trifloxystrobin (sum),"Trifloxystrobin (sum of trifloxystrobin and its metabolite (E, E)-methoxyimino- {2-[1-(3-trifluoromethyl-phenyl)-ethylideneamino-oxymethyl]-phenyl}-acetic acid (CGA 321113))",69.0,169.0,238.0
+138,RF-0038-001-PPP,Benalaxyl (sum),Benalaxyl including other mixtures of constituent isomers including benalaxyl-M (sum of isomers),37.0,199.0,236.0
+24,RF-00003037-PAR,Tebuconazole (sum),"Tebuconazole (sum of tebuconazole, hydroxy-tebuconazole, and their conjugates, expressed as tebuconazole)",53.0,183.0,236.0
+462,RF-0390-001-PPP,Simazine,Simazine,143.0,93.0,236.0
+313,RF-0236-007-PPP,Heptachlor (sum),Heptachlor endo-epoxide,112.0,123.0,235.0
+447,RF-0375-001-PPP,Pyridaben,Pyridaben,88.0,144.0,232.0
+494,RF-0428-001-PPP,Triadimefon and triadimenol (sum),Triadimefon and triadimenol (sum of triadimefon and triadimenol),166.0,65.0,231.0
+750,RF-0903-001-PPP,Sulfotep,Sulfotep,82.0,149.0,231.0
+729,RF-0869-001-PPP,Prothiofos,Prothiofos,110.0,120.0,230.0
+473,RF-0408-001-PPP,Tefluthrin (sum),Tefluthrin,110.0,117.0,227.0
+120,RF-0019-001-PPP,Alachlor,Alachlor,92.0,133.0,225.0
+264,RF-0178-002-PPP,Fenchlorphos (sum),Fenchlorphos,92.0,133.0,225.0
+761,RF-0922-001-PPP,Tetramethrin,Tetramethrin,135.0,88.0,223.0
+327,RF-0255-001-PPP,Iprodione,Iprodione,149.0,74.0,223.0
+517,RF-0452-001-PPP,Zoxamide,Zoxamide,106.0,117.0,223.0
+145,RF-0045-001-PPP,Bifenox,Bifenox,23.0,199.0,222.0
+378,RF-0308-001-PPP,Myclobutanil (sum),Myclobutanil,96.0,125.0,221.0
+297,RF-0219-001-PPP,Flutolanil,Flutolanil,88.0,133.0,221.0
+357,RF-0291-002-PPP,Methiocarb (sum),Methiocarb,94.0,126.0,220.0
+187,RF-0101-001-PPP,Thiamethoxam (sum),Clothianidin,43.0,176.0,219.0
+358,RF-0291-003-PPP,Methiocarb (sum),Methiocarb-Sulfoxid,87.0,132.0,219.0
+471,RF-0405-001-PPP,Tebufenpyrad,Tebufenpyrad,98.0,120.0,218.0
+151,RF-0056-001-PPP,Buprofezin,Buprofezin,98.0,120.0,218.0
+147,RF-0048-001-PPP,Bitertanol (sum),Bitertanol (sum of isomers),95.0,122.0,217.0
+348,RF-0281-001-PPP,Metalaxyl and metalaxyl-M (sum),Metalaxyl and metalaxyl-M (metalaxyl including other mixtures of constituent isomers including metalaxyl-M (sum of isomers),158.0,58.0,216.0
+214,RF-0133-001-PPP,Difenoconazole,Difenoconazole,98.0,117.0,215.0
+454,RF-0382-001-PPP,Quinoxyfen,Quinoxyfen,98.0,117.0,215.0
+639,RF-0685-002-PPP,Fensulfothion (sum),Fensulfothion,90.0,125.0,215.0
+797,RF-1008-001-PPP,Nonachlor-Cis,Nonachlor-Cis,11.0,203.0,214.0
+728,RF-0868-001-PPP,Prothioconazole (sum),Prothioconazole: prothioconazole-desthio (sum of isomers),22.0,191.0,213.0
+648,RF-0698-001-PPP,Fluazifop,Fluazifop,30.0,182.0,212.0
+505,RF-0439-001-PPP,Trifloxystrobin,Trifloxystrobin,58.0,152.0,210.0
+119,RF-0018-001-PPP,Acrinathrin,Acrinathrin,106.0,104.0,210.0
+422,RF-0350-001-PPP,Procymidone,Procymidone,115.0,95.0,210.0
+316,RF-0240-004-PPP,HCH (sum),HCH-epsilon,52.0,156.0,208.0
+470,RF-0404-001-PPP,Tebufenozide,Tebufenozide,95.0,112.0,207.0
+387,RF-0319-001-PPP,Oxadixyl,Oxadixyl,103.0,103.0,206.0
+158,RF-0065-002-PPP,Carbofuran (sum),"Carbofuran, 3-hydroxy",76.0,128.0,204.0
+402,RF-0336-001-PPP,Phorate (sum),"Phorate (sum of phorate, its oxygen analogue and their sulfones expressed as phorate)",146.0,58.0,204.0
+150,RF-0055-001-PPP,Bupirimate,Bupirimate,98.0,104.0,202.0
+421,RF-0347-003-PPP,Pirimicarb (sum),Desmethyl Pirimicarb,81.0,118.0,199.0
+317,RF-0241-001-PPP,Hexaconazole,Hexaconazole,88.0,110.0,198.0
+727,RF-0867-001-PPP,Propham,Propham,100.0,97.0,197.0
+210,RF-0130-001-PPP,Dicofol (sum),"Dicofol (sum of p, p' and o,p' isomers)",110.0,87.0,197.0
+164,RF-0072-001-PPP,Chlorantraniliprole,Chlorantraniliprole,38.0,159.0,197.0
+759,RF-0920-001-PPP,Tetrachlorvinphos,Tetrachlorvinphos,79.0,117.0,196.0
+480,RF-0413-001-PPP,Terbuthylazine,Terbuthylazine,93.0,102.0,195.0
+440,RF-0370-001-PPP,Pyraclostrobin,Pyraclostrobin,85.0,109.0,194.0
+675,RF-0758-001-PPP,Isofenphos-methyl,Isofenphos-methyl,100.0,94.0,194.0
+663,RF-0737-001-PPP,Heptenophos,Heptenophos,118.0,76.0,194.0
+266,RF-0179-001-PPP,Fenhexamid,Fenhexamid,82.0,111.0,193.0
+359,RF-0291-004-PPP,Methiocarb (sum),Methiocarb-Sulfon,72.0,119.0,191.0
+260,RF-0175-001-PPP,Fenazaquin,Fenazaquin,85.0,104.0,189.0
+396,RF-0330-001-PPP,Pencycuron,Pencycuron,81.0,108.0,189.0
+134,RF-0029-001-PPP,Atrazine,Atrazine,106.0,83.0,189.0
+157,RF-0065-001-PPP,Carbofuran (sum),Carbofuran (sum of carbofuran and 3-hydroxy-carbofuran expressed as carbofuran),109.0,75.0,184.0
+518,RF-0453-001-PPP,Dichlofluanid and DMSA (sum),Dichlofluanid,98.0,86.0,184.0
+328,RF-0256-001-PPP,Iprovalicarb,Iprovalicarb,70.0,113.0,183.0
+336,RF-0264-001-PPP,Linuron,Linuron,77.0,106.0,183.0
+417,RF-0345-001-PPP,Picoxystrobin,Picoxystrobin,91.0,91.0,182.0
+232,RF-0149-001-PPP,Disulfoton (sum),"Disulfoton (sum of disulfoton, disulfoton sulfoxide and disulfoton sulfone expressed as disulfoton)",133.0,48.0,181.0
+303,RF-0224-001-PPP,Formothion,Formothion,91.0,89.0,180.0
+702,RF-0810-001-PPP,Nitenpyram,Nitenpyram,46.0,132.0,178.0
+472,RF-0407-001-PPP,Teflubenzuron,Teflubenzuron,34.0,143.0,177.0
+129,RF-0024-003-PPP,Amitraz (sum),"Dimethylphenylformamide, 2,4-",12.0,165.0,177.0
+724,RF-0862-001-PPP,Prometryn,Prometryn,70.0,106.0,176.0
+225,RF-0140-001-PPP,Dimethomorph (sum),Dimethomorph (sum of isomers),84.0,92.0,176.0
+673,RF-0756-001-PPP,Isofenphos,Isofenphos,111.0,64.0,175.0
+273,RF-0186-001-PPP,Fenpyroximate,Fenpyroximate,66.0,109.0,175.0
+545,RF-0511-001-PPP,Bromacil,Bromacil,79.0,96.0,175.0
+167,RF-0077-001-PPP,Chlorfenapyr,Chlorfenapyr,76.0,98.0,174.0
+344,RF-0274-002-PPP,Mepanipyrim,Mepanipyrim,85.0,89.0,174.0
+227,RF-0142-001-PPP,Diniconazole (sum),Diniconazole (sum of isomers),85.0,89.0,174.0
+513,RF-0447-001-PPP,Triticonazole,Triticonazole,73.0,100.0,173.0
+352,RF-0286-001-PPP,Metconazole (sum),Metconazole (sum of isomers),83.0,90.0,173.0
+486,RF-0418-002-PPP,Thiamethoxam (sum),Thiamethoxam (sum of thiamethoxam and clothianidin expressed as thiamethoxam),71.0,101.0,172.0
+495,RF-0428-002-PPP,Triadimefon and triadimenol (sum),Triadimenol,88.0,83.0,171.0
+329,RF-0257-001-PPP,Isoproturon,Isoproturon,73.0,98.0,171.0
+233,RF-0149-002-PPP,Disulfoton (sum),Disulfoton,119.0,52.0,171.0
+333,RF-0260-001-PPP,Kresoxim-methyl (sum),Kresoxim-methyl,108.0,63.0,171.0
+281,RF-0201-001-PPP,Flucythrinate (sum),Flucythrinate,114.0,55.0,169.0
+124,RF-0020-004-PPP,Aldicarb (sum),Aldicarb-Sulfone,53.0,115.0,168.0
+123,RF-0020-003-PPP,Aldicarb (sum),Aldicarb-Sulfoxide,53.0,114.0,167.0
+263,RF-0178-001-PPP,Fenchlorphos (sum),Fenchlorphos (sum of fenchlorphos and fenchlorphos oxon expressed as fenchlorphos),86.0,81.0,167.0
+113,RF-0014-001-PPP,Acetamiprid (sum),Acetamiprid,43.0,124.0,167.0
+433,RF-0364-001-PPP,Propyzamide (sum),Propyzamide,83.0,83.0,166.0
+286,RF-0204-001-PPP,Flufenoxuron,Flufenoxuron,43.0,123.0,166.0
+388,RF-0320-001-PPP,Oxamyl,Oxamyl,47.0,119.0,166.0
+717,RF-0846-001-PPP,Phenthoate,Phenthoate,82.0,84.0,166.0
+128,RF-0024-002-PPP,Amitraz (sum),Amitraz,33.0,131.0,164.0
+783,RF-0969-001-PPP,Vamidothion (sum),Vamidothion,83.0,81.0,164.0
+342,RF-0272-001-PPP,Mecarbam,Mecarbam,100.0,64.0,164.0
+394,RF-0325-001-PPP,Paclobutrazol,Paclobutrazol,87.0,76.0,163.0
+466,RF-0393-003-PPP,Spinosad (sum),Spinosyn D,28.0,134.0,162.0
+122,RF-0020-002-PPP,Aldicarb (sum),Aldicarb,61.0,100.0,161.0
+235,RF-0149-004-PPP,Disulfoton (sum),Disulfoton-Sulfon,107.0,53.0,160.0
+791,RF-1001-001-PPP,Acetamiprid (sum),Acetamiprid and IM-2-1 metabolite,59.0,100.0,159.0
+252,RF-0169-001-PPP,Etoxazole,Etoxazole,43.0,116.0,159.0
+467,RF-0394-001-PPP,Spirodiclofen,Spirodiclofen,66.0,91.0,157.0
+683,RF-0768-001-PPP,Iodofenphos,Iodofenphos,81.0,75.0,156.0
+578,RF-0576-001-PPP,Cyanazine,Cyanazine,69.0,86.0,155.0
+594,RF-0599-001-PPP,Dichlofenthion,Dichlofenthion,33.0,122.0,155.0
+393,RF-0324-001-PPP,Oxyfluorfen,Oxyfluorfen,58.0,97.0,155.0
+680,RF-0764-001-PPP,Isoprothiolane,Isoprothiolane,81.0,71.0,152.0
+712,RF-0837-001-PPP,Pentachloroanisole,Pentachloroanisole,43.0,109.0,152.0
+735,RF-0878-001-PPP,Pyrifenox,Pyrifenox,85.0,67.0,152.0
+254,RF-0172-001-PPP,Fenamidone,Fenamidone,81.0,69.0,150.0
+121,RF-0020-001-PPP,Aldicarb (sum),"Aldicarb (sum of Aldicarb, its sulfoxide and its sulfone, expressed as Aldicarb)",76.0,73.0,149.0
+318,RF-0242-001-PPP,Hexythiazox (sum),Hexythiazox,62.0,87.0,149.0
+213,RF-0132-001-PPP,Diethofencarb,Diethofencarb,72.0,77.0,149.0
+174,RF-0090-001-PPP,Chlorthal-dimethyl,Chlorthal-dimethyl,57.0,91.0,148.0
+503,RF-0437-001-PPP,Tricyclazole,Tricyclazole,66.0,82.0,148.0
+734,RF-0877-001-PPP,Pyridaphenthion,Pyridaphenthion,90.0,57.0,147.0
+482,RF-0416-001-PPP,Thiabendazole,Thiabendazole,45.0,102.0,147.0
+692,RF-0791-001-PPP,Metobromuron,Metobromuron,73.0,72.0,145.0
+366,RF-0296-001-PPP,Methoxyfenozide,Methoxyfenozide,58.0,87.0,145.0
+305,RF-0226-001-PPP,Fosthiazate,Fosthiazate,58.0,85.0,143.0
+161,RF-0069-001-PPP,Carboxin,Carboxin,66.0,77.0,143.0
+226,RF-0141-001-PPP,Dimoxystrobin (sum),Dimoxystrobin,63.0,80.0,143.0
+788,RF-0993-001-PPP,Prochloraz (sum),"Trichlorophenol, 2,4,6- (expressed as prochloraz)",98.0,43.0,141.0
+363,RF-0293-002-PPP,Methomyl and Thiodicarb (sum),Thiodicarb,28.0,113.0,141.0
+319,RF-0246-001-PPP,Imazalil (sum),Imazalil,69.0,71.0,140.0
+99,RF-00012045-PAR,Fenbuconazole (sum),Fenbuconazole (sum of constituent enantiomers),0.0,139.0,139.0
+375,RF-0305-001-PPP,Monocrotophos,Monocrotophos,59.0,80.0,139.0
+170,RF-0080-001-PPP,Chloridazon,Chloridazon,61.0,77.0,138.0
+195,RF-0114-001-PPP,Cyprodinil (sum),Cyprodinil,58.0,80.0,138.0
+337,RF-0265-001-PPP,Lufenuron (sum),Lufenuron (any ratio of constituent isomers),30.0,107.0,137.0
+298,RF-0220-001-PPP,Flutriafol,Flutriafol,62.0,74.0,136.0
+379,RF-0309-001-PPP,Napropamide (sum),Napropamide,70.0,66.0,136.0
+391,RF-0323-003-PPP,Oxydemeton-methyl (sum),Demeton-S-Methylsulfone,59.0,75.0,134.0
+450,RF-0377-001-PPP,Pyrimethanil,Pyrimethanil,56.0,76.0,132.0
+465,RF-0393-002-PPP,Spinosad (sum),Spinosyn A,13.0,119.0,132.0
+349,RF-0281-002-PPP,Metalaxyl,Metalaxyl,90.0,42.0,132.0
+258,RF-0173-004-PPP,Fenamiphos (sum),Fenamiphos,61.0,70.0,131.0
+798,RF-1012-001-PPP,Heptachlor (sum),Heptachlor and trans-heptachlor epoxide,20.0,110.0,130.0
+489,RF-0422-001-PPP,Carbendazim and benomyl (sum),Thiophanate-methyl,30.0,99.0,129.0
+523,RF-0467-001-PPP,Ametryn,Ametryn,66.0,63.0,129.0
+160,RF-0068-001-PPP,Carbosulfan,Carbosulfan,48.0,78.0,126.0
+533,RF-0484-001-PPP,Azamethiphos,Azamethiphos,45.0,80.0,125.0
+438,RF-0368-001-PPP,Prothioconazole,Prothioconazole,38.0,87.0,125.0
+813,RF-1074-001-PPP,Prothioconazole (sum),"Prothioconazole (sum of prothioconazole-desthio and its glucuronide conjugate, expressed as prothioconazoledesthio)",59.0,65.0,124.0
+307,RF-0228-001-PPP,Furathiocarb,Furathiocarb,68.0,56.0,124.0
+282,RF-0201-002-PPP,Flucythrinate (sum),Flucythrinate (flucythrinate including other mixtures of consitutent isomers (sum of isomers)),54.0,69.0,123.0
+477,RF-0412-002-PPP,Terbufos (sum),Terbufos,60.0,63.0,123.0
+413,RF-0339-001-PPP,Phosphamidon,Phosphamidon,68.0,55.0,123.0
+196,RF-0114-002-PPP,Cyprodinil (sum),"Cyprodinil (sum of cyprodinil and CGA 304075 (free), expressed as cyprodinil)",70.0,53.0,123.0
+368,RF-0299-001-PPP,Metrafenone,Metrafenone,33.0,89.0,122.0
+554,RF-0525-001-PPP,Butocarboxim (sum),Butoxycarboxim,27.0,95.0,122.0
+362,RF-0293-001-PPP,Methomyl and Thiodicarb (sum),Methomyl and Thiodicarb (sum of methomyl and thiodicarb expressed as methomyl),63.0,58.0,121.0
+412,RF-0338-003-PPP,Phosmet (sum),Phosmet oxon,25.0,96.0,121.0
+306,RF-0227-001-PPP,Fuberidazole,Fuberidazole,53.0,67.0,120.0
+689,RF-0780-001-PPP,Mepronil,Mepronil,68.0,52.0,120.0
+127,RF-0024-001-PPP,Amitraz (sum),"Amitraz (amitraz including the metabolites containing the 2,4 -dimethylaniline moiety expressed as amitraz)",27.0,93.0,120.0
+202,RF-0125-001-PPP,Dichlobenil,Dichlobenil,63.0,56.0,119.0
+310,RF-0235-003-PPP,Haloxyfop-Ethoxyethylester,Haloxyfop-Ethoxyethylester,39.0,80.0,119.0
+543,RF-0506-001-PPP,Biphenyl,Biphenyl,68.0,50.0,118.0
+188,RF-0104-001-PPP,Cyazofamid,Cyazofamid,45.0,73.0,118.0
+253,RF-0170-001-PPP,Etridiazole,Etridiazole,63.0,53.0,116.0
+586,RF-0587-001-PPP,Cyphenothrin,Cyphenothrin,66.0,50.0,116.0
+562,RF-0539-001-PPP,Chinomethionat,Chinomethionat,74.0,41.0,115.0
+234,RF-0149-003-PPP,Disulfoton (sum),Disulfoton-Sulfoxid,84.0,30.0,114.0
+535,RF-0489-001-PPP,Bendiocarb,Bendiocarb,33.0,80.0,113.0
+139,RF-0038-002-PPP,Benalaxyl,Benalaxyl,58.0,55.0,113.0
+350,RF-0284-001-PPP,Metamitron,Metamitron,43.0,70.0,113.0
+492,RF-0425-002-PPP,Tolylfluanid (sum),Tolylfluanid,68.0,44.0,112.0
+626,RF-0660-001-PPP,Ethiofencarb,Ethiofencarb,48.0,62.0,110.0
+401,RF-0335-001-PPP,Phenothrin (sum),Phenothrin (phenothrin including other mixtures of constituent isomers (sum of isomers)),67.0,41.0,108.0
+109,RF-0011-003-PPP,Abamectin (sum),Avermectin B1a,0.0,108.0,108.0
+758,RF-0919-001-PPP,Terbutryn,Terbutryn,45.0,63.0,108.0
+289,RF-0208-001-PPP,Fluopicolide,Fluopicolide,36.0,71.0,107.0
+725,RF-0864-001-PPP,Propazine,Propazine,36.0,71.0,107.0
+248,RF-0163-001-PPP,Ethofumesate (sum),"Ethofumesate (sum of ethofumesate and the metabolite 2,3-dihydro-3,3-dimethyl-2-oxo-benzofuran-5-yl methane sulphonate expressed as ethofumesate)",42.0,64.0,106.0
+709,RF-0828-001-PPP,Paraoxon,Paraoxon,61.0,45.0,106.0
+501,RF-0435-001-PPP,Trichlorfon,Trichlorfon,43.0,63.0,106.0
+678,RF-0762-001-PPP,Isoprocarb,Isoprocarb,53.0,52.0,105.0
+434,RF-0364-002-PPP,Propyzamide (sum),"Propyzamide (sum of propyzamide and all metabolites containing the 3,5-dichlorobenzoic acid fraction expressed as propyzamide)",45.0,60.0,105.0
+193,RF-0111-001-PPP,Cymoxanil,Cymoxanil,30.0,74.0,104.0
+426,RF-0355-001-PPP,Propanil,Propanil,53.0,51.0,104.0
+335,RF-0262-001-PPP,Lenacil,Lenacil,53.0,50.0,103.0
+597,RF-0605-001-PPP,"Dichlorobenzophenone, 4,4`-","Dichlorobenzophenone, 4,4`-",53.0,50.0,103.0
+688,RF-0779-001-PPP,Mephosfolan,Mephosfolan,53.0,48.0,101.0
+177,RF-0093-001-PPP,Chlozolinate,Chlozolinate,53.0,48.0,101.0
+374,RF-0304-001-PPP,Molinate,Molinate,53.0,48.0,101.0
+168,RF-0078-001-PPP,Chlorfenson,Chlorfenson,63.0,37.0,100.0
+704,RF-0819-001-PPP,Nuarimol,Nuarimol,62.0,38.0,100.0
+255,RF-0173-001-PPP,Fenamiphos (sum),Fenamiphos (sum of fenamiphos and its sulphoxide and sulphone expressed as fenamiphos),50.0,50.0,100.0
+579,RF-0577-001-PPP,Cyanofenphos,Cyanofenphos,53.0,46.0,99.0
+461,RF-0389-001-PPP,Silthiofam,Silthiofam,53.0,46.0,99.0
+676,RF-0759-001-PPP,Isofenphos-oxon,Isofenphos-oxon,53.0,46.0,99.0
+239,RF-0152-002-PPP,Diuron,Diuron,43.0,56.0,99.0
+658,RF-0727-001-PPP,Furalaxyl,Furalaxyl,53.0,46.0,99.0
+590,RF-0594-002-PPP,Demeton-S-Methyl (sum),Demeton-S-Methyl,37.0,61.0,98.0
+563,RF-0544-001-PPP,Chlorbromuron,Chlorbromuron,58.0,40.0,98.0
+85,RF-00007586-PAR,Fenpropidin (sum),Fenpropidin,0.0,97.0,97.0
+140,RF-0039-001-PPP,Benfluralin,Benfluralin,46.0,50.0,96.0
+217,RF-0135-001-PPP,Diflufenican,Diflufenican,40.0,56.0,96.0
+670,RF-0752-001-PPP,Isazofos,Isazofos,53.0,42.0,95.0
+580,RF-0578-001-PPP,Cyanophos,Cyanophos,53.0,42.0,95.0
+740,RF-0887-001-PPP,Quizalofop-Ethyl,Quizalofop-Ethyl,23.0,72.0,95.0
+166,RF-0074-001-PPP,Chlorbufam,Chlorbufam,53.0,42.0,95.0
+200,RF-0122-001-PPP,Di-allate (sum of isomers),Di-allate (sum of isomers),25.0,69.0,94.0
+483,RF-0416-002-PPP,Thiabendazole (sum),Thiabendazole (sum of thiabendazole and 5-hydroxythiabendazole),47.0,47.0,94.0
+795,RF-1006-001-PPP,Spiroxamine (sum),"Spiroxamine carboxylic acid metabolite M06, expressed as spiroxamine (sum of isomers)",42.0,52.0,94.0
+671,RF-0754-001-PPP,Isocarbophos,Isocarbophos,38.0,55.0,93.0
+79,RF-00005730-PAR,Fluazifop-P (sum),"Fluazifop-P (sum of all the constituent isomers of fluazifop, its esters and its conjugates, expressed as fluazifop)",0.0,92.0,92.0
+247,RF-0162-001-PPP,Ethirimol,Ethirimol,45.0,47.0,92.0
+644,RF-0692-002-PPP,Fipronil (sum),Fipronil-Desulfinyl,0.0,89.0,89.0
+637,RF-0682-001-PPP,Fenpiclonil,Fenpiclonil,38.0,51.0,89.0
+515,RF-0450-002-PPP,Vinclozolin (sum),"Dichloroaniline, 3,5-",42.0,47.0,89.0
+522,RF-0464-001-PPP,Allethrin,Allethrin,26.0,62.0,88.0
+664,RF-0738-001-PPP,Hexaflumuron,Hexaflumuron,30.0,58.0,88.0
+532,RF-0482-001-PPP,Azaconazole,Azaconazole,55.0,32.0,87.0
+399,RF-0334-001-PPP,Phenmedipham,Phenmedipham,45.0,41.0,86.0
+256,RF-0173-002-PPP,Fenamiphos (sum),Fenamiphos-Sulfoxid,32.0,54.0,86.0
+613,RF-0640-001-PPP,Ditalimfos,Ditalimfos,38.0,48.0,86.0
+460,RF-0387-001-PPP,Rotenone,Rotenone,30.0,56.0,86.0
+215,RF-0134-001-PPP,Diflubenzuron (sum),Diflubenzuron,15.0,70.0,85.0
+183,RF-0098-001-PPP,Clofentezine,Clofentezine,45.0,40.0,85.0
+130,RF-0024-004-PPP,Amitraz (sum),"Dimethylphenyl-N-methylformamidine, N-2,4-",0.0,85.0,85.0
+295,RF-0217-001-PPP,Flurtamone,Flurtamone,30.0,55.0,85.0
+81,RF-00007489-PAR,"Didecyldimethylammonium chloride (mixture of alkyl-quaternary ammonium salts with alkyl chain lengths of C8, C10 and C12)",DDAC-C12,0.0,85.0,85.0
+290,RF-0211-001-PPP,Fluoxastrobin (sum),Fluoxastrobin,18.0,67.0,85.0
+403,RF-0336-002-PPP,Phorate (sum),Phorate-Sulfon,75.0,9.0,84.0
+665,RF-0739-001-PPP,Hexazinone,Hexazinone,27.0,57.0,84.0
+424,RF-0353-002-PPP,Propachlor (sum),Propachlor,53.0,30.0,83.0
+475,RF-0411-001-PPP,Tepraloxydim (sum),Tepraloxydim,12.0,70.0,82.0
+386,RF-0318-001-PPP,Oxadiazon,Oxadiazon,23.0,58.0,81.0
+442,RF-0374-001-PPP,Pyrethrins,Pyrethrins,33.0,47.0,80.0
+154,RF-0061-001-PPP,Captan,Captan,25.0,55.0,80.0
+257,RF-0173-003-PPP,Fenamiphos (sum),Fenamiphos-Sulfon,29.0,51.0,80.0
+185,RF-0099-001-PPP,Clomazone (sum),Clomazone,23.0,56.0,79.0
+559,RF-0535-001-PPP,Carbophenothion (sum),Carbophenothion,43.0,36.0,79.0
+436,RF-0366-001-PPP,Prosulfocarb,Prosulfocarb,23.0,55.0,78.0
+651,RF-0705-001-PPP,Flumethrin,Flumethrin,33.0,44.0,77.0
+141,RF-0040-001-PPP,Benfuracarb,Benfuracarb,15.0,61.0,76.0
+742,RF-0889-001-PPP,S421,S421,43.0,33.0,76.0
+82,RF-00007495-PAR,"Didecyldimethylammonium chloride (mixture of alkyl-quaternary ammonium salts with alkyl chain lengths of C8, C10 and C12)",DDAC-C08,0.0,76.0,76.0
+721,RF-0858-001-PPP,Profluralin,Profluralin,23.0,53.0,76.0
+52,RF-00003371-PAR,Pyrimethanil (sum),"Sum of pyrimethanil and 2-anilino-4.6-dimethylpyrimidine-5-ol, expressed as pyrimethanil",45.0,31.0,76.0
+591,RF-0595-001-PPP,Desmetryn,Desmetryn,36.0,40.0,76.0
+672,RF-0755-001-PPP,Isodrin,Isodrin,40.0,34.0,74.0
+439,RF-0369-001-PPP,Pymetrozine,Pymetrozine,30.0,44.0,74.0
+405,RF-0336-004-PPP,Phorate (sum),Phorate-Sulfoxid,45.0,29.0,74.0
+722,RF-0860-001-PPP,Promecarb,Promecarb,23.0,51.0,74.0
+216,RF-0134-002-PPP,Diflubenzuron (sum),Diflubenzuron (sum of Diflubenzuron and 4-chlorophenylurea expressed as Diflubenzuron),6.0,67.0,73.0
+507,RF-0440-002-PPP,Triflumizole (sum),Triflumizole,30.0,43.0,73.0
+628,RF-0662-001-PPP,Ethiofencarb-Sulfon,Ethiofencarb-Sulfon,45.0,27.0,72.0
+241,RF-0154-001-PPP,Dodine,Dodine,15.0,57.0,72.0
+800,RF-1022-001-PPP,Demeton-S,Demeton-S,36.0,36.0,72.0
+392,RF-0323-004-PPP,Oxydemeton-methyl (sum),Oxydemeton-methyl,29.0,42.0,71.0
+211,RF-0130-002-PPP,Dicofol (sum),"Dicofol p, p'",71.0,0.0,71.0
+589,RF-0594-001-PPP,Demeton-S-Methyl (sum),Demeton-S-Methyl/Demeton-S-methyl sulfone/oxydemeton-methyl (individually or combined expressed as demeton-S-methyl),43.0,28.0,71.0
+361,RF-0292-002-PPP,Metolachlor and S-metolachlor (sum of isomers),Metolachlor,30.0,40.0,70.0
+506,RF-0440-001-PPP,Triflumizole (sum),"Triflumizole and metabolite FM-6-1(N-(4-chloro-2-trifluoromethylphenyl)-n-propoxyacetamidine), expressed as Triflumizole",42.0,28.0,70.0
+46,RF-00003364-PAR,Propamocarb (sum),N-oxide propamocarb,15.0,54.0,69.0
+714,RF-0839-001-PPP,Pentachlorophenol,Pentachlorophenol,23.0,46.0,69.0
+423,RF-0353-001-PPP,Propachlor (sum),"Propachlor: oxalinic derivate of propachlor, expressed as propachlor",30.0,39.0,69.0
+390,RF-0323-001-PPP,Oxydemeton-methyl (sum),Oxydemeton-methyl (sum of oxydemeton-methyl and demeton-S-methylsulfone expressed as oxydemeton-methyl),44.0,25.0,69.0
+754,RF-0912-001-PPP,Terbacil,Terbacil,33.0,35.0,68.0
+299,RF-0221-001-PPP,Folpet,Folpet,25.0,43.0,68.0
+410,RF-0338-001-PPP,Phosmet (sum),Phosmet (phosmet and phosmet oxon expressed as phosmet),38.0,30.0,68.0
+184,RF-0098-002-PPP,Clofentezine (sum),Clofentezine (sum of all compounds containing the 2-chlorobenzoyl moiety expressed as clofentezine),23.0,43.0,66.0
+553,RF-0524-001-PPP,Butocarboxim-Sulfoxid,Butocarboxim-Sulfoxid,45.0,21.0,66.0
+497,RF-0430-001-PPP,Tri-allate,Tri-allate,27.0,39.0,66.0
+115,RF-0016-001-PPP,Acibenzolar-S-methyl (sum),Acibenzolar-S-methyl (sum of acibenzolar-S-methyl and acibenzolar acid (CGA 210007) expressed as acibenzolar-S-methyl),23.0,42.0,65.0
+542,RF-0505-001-PPP,Bioresmethrin,Bioresmethrin,21.0,43.0,64.0
+238,RF-0152-001-PPP,Diuron (sum),"Diuron (Diuron including all components containing 3,4- dichloraniline moiety expressed as 3,4-dichloraniline)",30.0,34.0,64.0
+406,RF-0336-005-PPP,Phorate (sum),Phorate-O-analogue,60.0,4.0,64.0
+468,RF-0395-001-PPP,Spiromesifen,Spiromesifen,23.0,41.0,64.0
+703,RF-0815-001-PPP,Nitrothal-Isopropyl,Nitrothal-Isopropyl,38.0,23.0,61.0
+686,RF-0775-001-PPP,Leptophos,Leptophos,38.0,23.0,61.0
+629,RF-0663-001-PPP,Ethiofencarb-Sulfoxide,Ethiofencarb-Sulfoxide,30.0,31.0,61.0
+376,RF-0306-001-PPP,Monolinuron,Monolinuron,32.0,29.0,61.0
+4,RF-00000022-PAR,Fluazifop (sum),Fluazifop-P,12.0,49.0,61.0
+755,RF-0916-001-PPP,Terbumeton,Terbumeton,27.0,33.0,60.0
+652,RF-0706-001-PPP,Flumetralin,Flumetralin,23.0,37.0,60.0
+107,RF-0009-001-PPP,"2,4,5-T (sum)","2,4,5-T",0.0,60.0,60.0
+197,RF-0115-001-PPP,Cyromazine,Cyromazine,0.0,60.0,60.0
+204,RF-0126-002-PPP,Dichlorprop (sum),Dichlorprop,0.0,60.0,60.0
+212,RF-0130-003-PPP,Dicofol (sum),"Dicofol o, p'",60.0,0.0,60.0
+502,RF-0436-001-PPP,Triclopyr (sum),Triclopyr,0.0,60.0,60.0
+616,RF-0644-001-PPP,Tolylfluanid (sum),Dimethylaminosulfotoluidide (DMST),30.0,29.0,59.0
+66,RF-00004679-PAR,Sulfoxaflor (sum),Sulfoxaflor (sum of isomers),0.0,59.0,59.0
+524,RF-0469-001-PPP,Aminocarb,Aminocarb,33.0,26.0,59.0
+18,RF-00002610-PAR,Fenpyrazamine,Fenpyrazamine,0.0,59.0,59.0
+249,RF-0163-002-PPP,Ethofumesate (sum),Ethofumesate,30.0,29.0,59.0
+199,RF-0121-001-PPP,Desmedipham,Desmedipham,15.0,44.0,59.0
+508,RF-0441-001-PPP,Triflumuron,Triflumuron,0.0,59.0,59.0
+42,RF-00003351-PAR,Acibenzolar-S-methyl (sum),"Acibenzolar-S-methyl (sum of acibenzolar-S-methyl and acibenzolar acid (free and conjugated), expressed as acibenzolar-S-methyl)",0.0,58.0,58.0
+152,RF-0057-001-PPP,Butralin,Butralin,27.0,31.0,58.0
+153,RF-0060-001-PPP,Captafol,Captafol,25.0,33.0,58.0
+620,RF-0651-001-PPP,Empenthrin,Empenthrin,41.0,17.0,58.0
+512,RF-0446-001-PPP,Trinexapac (sum),"Trinexapac (sum of trinexapac (acid) and its salts, expressed as trinexapac)",23.0,35.0,58.0
+584,RF-0585-001-PPP,"Cyhalothrin, gamma-","Cyhalothrin, gamma-",41.0,17.0,58.0
+457,RF-0384-004-PPP,Quizalofop (sum),Quizalofop,30.0,27.0,57.0
+585,RF-0586-001-PPP,Cymiazole,Cymiazole,15.0,42.0,57.0
+325,RF-0253-002-PPP,Ioxynil (sum),Ioxynil,15.0,42.0,57.0
+114,RF-0015-001-PPP,Acetochlor,Acetochlor,23.0,34.0,57.0
+146,RF-0047-001-PPP,Dinoseb (sum),Binapacryl,25.0,32.0,57.0
+565,RF-0549-001-PPP,Chlorfluazuron,Chlorfluazuron,15.0,41.0,56.0
+43,RF-00003352-PAR,Fludioxonil (sum),"Fludioxonil (sum of fludioxonil and its metabolites oxidized to metabolite 2,2-difluoro-benzo[1,3]dioxole-4 carboxylic acid expressed as fludioxonil)",0.0,56.0,56.0
+182,RF-0096-005-PPP,Clethodim (sum),Clethodim,15.0,41.0,56.0
+459,RF-0386-001-PPP,Rimsulfuron,Rimsulfuron,15.0,41.0,56.0
+769,RF-0935-001-PPP,Thiofanox-Sulfoxide,Thiofanox-Sulfoxide,30.0,25.0,55.0
+54,RF-00003377-PAR,Bixafen (sum),Desmethyl-bixafen,0.0,55.0,55.0
+285,RF-0203-002-PPP,Flufenacet (sum),Flufenacet,30.0,23.0,53.0
+571,RF-0565-001-PPP,Clodinafop-Propargyl,Clodinafop-Propargyl,23.0,29.0,52.0
+669,RF-0751-001-PPP,Iprobenfos,Iprobenfos,23.0,29.0,52.0
+581,RF-0580-001-PPP,Cycloate,Cycloate,23.0,29.0,52.0
+441,RF-0371-001-PPP,Pyraflufen-ethyl (sum),Pyraflufen-ethyl,23.0,29.0,52.0
+612,RF-0638-001-PPP,Diphenamid,Diphenamid,23.0,29.0,52.0
+633,RF-0677-001-PPP,Fenobucarb,Fenobucarb,23.0,29.0,52.0
+56,RF-00003386-PAR,Benzovindiflupyr,Benzovindiflupyr,0.0,52.0,52.0
+243,RF-0158-001-PPP,EPTC,EPTC (ethyl dipropylthiocarbamate),23.0,29.0,52.0
+365,RF-0294-001-PPP,Methoprene,Methoprene,23.0,29.0,52.0
+268,RF-0181-001-PPP,Fenoxaprop-P,Fenoxaprop-P,0.0,52.0,52.0
+271,RF-0184-001-PPP,Fenpropidin (sum),"Fenpropidin (sum of fenpropidin and its salts, expressed as fenpropidin)",30.0,22.0,52.0
+751,RF-0905-001-PPP,Sulprofos,Sulprofos,23.0,29.0,52.0
+641,RF-0685-004-PPP,Fensulfothion (sum),Fensulfothion oxon,18.0,33.0,51.0
+642,RF-0685-005-PPP,Fensulfothion (sum),Fensulfothion-oxon-sulphone,18.0,33.0,51.0
+694,RF-0794-001-PPP,Metoxuron,Metoxuron,28.0,23.0,51.0
+615,RF-0643-001-PPP,Dichlofluanid and DMSA (sum),DMSA,30.0,21.0,51.0
+31,RF-00003328-PAR,Prochloraz (sum),"BTS 44595 (N-propyl-N-[2-(2,4,6-trichlorophenoxy)ethyl]-urea)",0.0,50.0,50.0
+353,RF-0287-001-PPP,Methabenzthiazuron,Methabenzthiazuron,23.0,27.0,50.0
+117,RF-0016-003-PPP,Acibenzolar-S-methyl (sum),Acibenzolar acid (CGA 210007),0.0,50.0,50.0
+144,RF-0044-001-PPP,Bifenazate (sum),Bifenazate,23.0,27.0,50.0
+32,RF-00003329-PAR,Prochloraz (sum),"BTS 44596 (N'-Formyl-N-propyl-N-[2-(2,4,6-trichlorophenoxy)ethyl]urea)",0.0,50.0,50.0
+519,RF-0458-001-PPP,"2,4,5-TP","2,4,5-TP",0.0,50.0,50.0
+710,RF-0835-001-PPP,Pebulate,Pebulate,23.0,27.0,50.0
+294,RF-0216-001-PPP,Flurprimidol,Flurprimidol,23.0,27.0,50.0
+698,RF-0803-001-PPP,2-Naphthyloxyacetic acid,2-Naphthyloxyacetic acid,0.0,50.0,50.0
+624,RF-0657-001-PPP,Etaconazole,Etaconazole,23.0,27.0,50.0
+343,RF-0274-001-PPP,Mepanipyrim (sum),Mepanipyrim (Mepanipyrim and its metabolite (2-anilino-4-(2-hydroxypropyl)-6-methylpyrimidine) expressed as mepanipyrim),15.0,34.0,49.0
+776,RF-0945-001-PPP,Transfluthrin,Transfluthrin,23.0,26.0,49.0
+775,RF-0944-001-PPP,Tralomethrin,Tralomethrin,41.0,7.0,48.0
+690,RF-0786-001-PPP,Methoprotryne,Methoprotryne,23.0,25.0,48.0
+705,RF-0821-001-PPP,Ofurace,Ofurace,23.0,25.0,48.0
+341,RF-0268-001-PPP,Mandipropamid (sum),Mandipropamid,15.0,33.0,48.0
+786,RF-0991-001-PPP,Folpet (sum),Phthalimide (expressed as folpet),23.0,24.0,47.0
+679,RF-0763-001-PPP,Isopropalin,Isopropalin,23.0,23.0,46.0
+799,RF-1017-001-PPP,Phosfolan,Phosfolan,23.0,23.0,46.0
+650,RF-0703-001-PPP,Fluchloralin,Fluchloralin,23.0,23.0,46.0
+567,RF-0556-001-PPP,Chloroneb,Chloroneb,23.0,23.0,46.0
+760,RF-0921-001-PPP,Captan (sum),Tetrahydrophthalimide,23.0,23.0,46.0
+36,RF-00003340-PAR,Demeton-O,Demeton-O,23.0,23.0,46.0
+660,RF-0732-001-PPP,Halfenprox,Halfenprox,23.0,23.0,46.0
+382,RF-0312-001-PPP,Norflurazon,Norflurazon,23.0,23.0,46.0
+627,RF-0661-001-PPP,Ethiofencarb (sum),Ethiofencarb (sum),30.0,15.0,45.0
+28,RF-00003322-PAR,Carbofuran (sum),3-OH-carbofuran (free and conjugated) expressed as carbofuran,0.0,44.0,44.0
+718,RF-0850-001-PPP,"Pirimicarb, Desmethylformamido-","Pirimicarb, Desmethylformamido-",14.0,29.0,43.0
+284,RF-0203-001-PPP,Flufenacet (sum),Flufenacet (sum of all compounds containing the N fluorophenyl-N-isopropyl moiety expressed as flufenacet),15.0,28.0,43.0
+93,RF-00011560-PAR,Ioxynil (sum),Ioxynil (sum),0.0,43.0,43.0
+796,RF-1007-001-PPP,Tolylfluanid (sum),Tolylfluanid analysed as dimethylaminosulfotoluidide and expressed as tolylfluanid,18.0,25.0,43.0
+274,RF-0193-001-PPP,Flazasulfuron,Flazasulfuron,15.0,28.0,43.0
+276,RF-0195-001-PPP,Florasulam,Florasulam,15.0,27.0,42.0
+74,RF-00005714-PAR,Fluroxypyr (sum),"Fluroxypyr (sum of fluroxypyr and its salts, expressed as fluroxypyr)",0.0,42.0,42.0
+618,RF-0647-001-PPP,Edifenphos,Edifenphos,21.0,21.0,42.0
+785,RF-0979-001-PPP,Nonachlor,Nonachlor,21.0,21.0,42.0
+220,RF-0137-002-PPP,Dimethenamid (sum),Dimethenamid including other mixtures of constituent isomers including dimethenamid-P (sum of isomers),15.0,27.0,42.0
+142,RF-0042-002-PPP,Bentazone (sum),Bentazone,15.0,27.0,42.0
+125,RF-0022-001-PPP,Amidosulfuron,Amidosulfuron,15.0,27.0,42.0
+780,RF-0961-001-PPP,Triflusulfuron-Methyl,Triflusulfuron-Methyl,15.0,27.0,42.0
+598,RF-0610-001-PPP,Diclobutrazol,Diclobutrazol,15.0,26.0,41.0
+39,RF-00003345-PAR,Metazachlor (sum),"Metazachlor (sum of metazachlor and its metabolites containing the 2,6-dimethylaniline moiety, expressed as metazachlor)",0.0,40.0,40.0
+659,RF-0729-001-PPP,Furmecyclox,Furmecyclox,15.0,25.0,40.0
+133,RF-0028-001-PPP,Asulam,Asulam,15.0,25.0,40.0
+789,RF-0997-001-PPP,Endrin (sum),Endrin aldehyde (expressed as endrin),9.0,31.0,40.0
+68,RF-00004684-PAR,Haloxyfop (sum),"Sum of haloxyfop, its salts and conjugates expressed as haloxyfop (sum of the R- and S- isomers at any ratio)",0.0,40.0,40.0
+431,RF-0362-001-PPP,Propoxycarbazone (sum),"Propoxycarbazone (propoxycarbazone, its salts and 2-hydroxy-propoxy-propoxycarbazone, calculated as propoxycarbazone)",15.0,25.0,40.0
+103,RF-00012870-PAR,Penflufen (sum),Penflufen (sum of isomers),0.0,39.0,39.0
+805,RF-1057-001-PPP,Valifenalate,Valifenalate,0.0,39.0,39.0
+240,RF-0153-001-PPP,DNOC,DNOC,0.0,39.0,39.0
+278,RF-0198-001-PPP,Fluazinam,Fluazinam,0.0,38.0,38.0
+275,RF-0194-002-PPP,Flonicamid (sum),Flonicamid,0.0,38.0,38.0
+80,RF-00006809-PAR,"2,4,6-trichlorophenoxyacetic acid","2,4,6-trichlorophenoxyacetic acid",0.0,38.0,38.0
+25,RF-00003038-PAR,Tebuconazole (sum),Hydroxy-tebuconazole,0.0,38.0,38.0
+172,RF-0085-001-PPP,Chloroxuron,Chloroxuron,13.0,25.0,38.0
+784,RF-0969-002-PPP,Vamidothion (sum),"Vamidothion (sum of Vamidothion, Vamidothion-sulfone and Vamidothion-sulfoxide expressed as Vamidothion)",22.0,16.0,38.0
+176,RF-0092-001-PPP,Chlorotoluron (sum),Chlorotoluron,13.0,25.0,38.0
+186,RF-0100-001-PPP,Clopyralid,Clopyralid,15.0,22.0,37.0
+230,RF-0145-001-PPP,Dinoterb,Dinoterb,15.0,22.0,37.0
+812,RF-1072-001-PPP,Metacriphos,Metacriphos,6.0,31.0,37.0
+488,RF-0420-001-PPP,Thiobencarb,Thiobencarb,13.0,23.0,36.0
+771,RF-0937-001-PPP,Thionazin,Thionazin,21.0,15.0,36.0
+321,RF-0248-001-PPP,Imazaquin,Imazaquin,15.0,21.0,36.0
+324,RF-0252-001-PPP,Iodosulfuron-methyl (sum),"Iodosulfuron-methyl (iodosulfuron-methyl including salts, expressed as iodosulfuron-methyl)",15.0,21.0,36.0
+772,RF-0938-001-PPP,Thiophanate-Ethyl,Thiophanate-Ethyl,15.0,21.0,36.0
+84,RF-00007585-PAR,Isofetamid,Isofetamid,0.0,35.0,35.0
+262,RF-0177-001-PPP,Fenbutatin oxide,Fenbutatin oxide,15.0,20.0,35.0
+569,RF-0561-001-PPP,Chlorthiophos,Chlorthiophos,21.0,14.0,35.0
+72,RF-00004728-PAR,"1,4-Dimethylnaphthalene","1,4-Dimethylnaphthalene",0.0,35.0,35.0
+593,RF-0597-001-PPP,Dialifos,Dialifos,26.0,8.0,34.0
+11,RF-00001230-PAR,Amidosulfuron (sum),"Amidosulfuron (sum of amidosulfuron and desmethyl amidosulfuron, expressed as amidosulfuron)",15.0,19.0,34.0
+331,RF-0259-001-PPP,Isoxaflutole (sum),"Isoxaflutole (sum of isoxaflutole and its diketonitrile-metabolite, expressed as isoxaflutole)",15.0,19.0,34.0
+448,RF-0376-001-PPP,Pyridate (sum),"Pyridate (sum of pyridate, its hydrolysis product CL 9673 (6-chloro-4-hydroxy-3-phenylpyridazin) and hydrolysable conjugates of CL 9673 expressed as pyridate)",15.0,19.0,34.0
+180,RF-0096-001-PPP,Clethodim (sum),Clethodim (sum of Sethoxydim and Clethodim including degradation products calculated as Sethoxydim),15.0,19.0,34.0
+293,RF-0215-003-PPP,Fluroxypyr (sum),Fluroxypyr,15.0,19.0,34.0
+27,RF-00003041-PAR,"2,4,5-T (sum)","2,4,5-T (sum of 2,4,5-T, its salts and esters, expressed as 2,4,5-T)",15.0,19.0,34.0
+432,RF-0362-002-PPP,Propoxycarbazone (sum),Propoxycarbazone,15.0,19.0,34.0
+244,RF-0159-001-PPP,Ethalfluralin,Ethalfluralin,17.0,17.0,34.0
+583,RF-0584-001-PPP,Cyhalothrin,Cyhalothrin,21.0,12.0,33.0
+279,RF-0199-001-PPP,Flubendiamide (sum),Flubendiamide,10.0,22.0,32.0
+478,RF-0412-003-PPP,Terbufos (sum),Terbufos Sulfone,13.0,19.0,32.0
+540,RF-0500-001-PPP,Benzoximate,Benzoximate,13.0,19.0,32.0
+131,RF-0025-001-PPP,Amitrole,Amitrole,15.0,16.0,31.0
+435,RF-0365-001-PPP,Proquinazid (sum),Proquinazid,0.0,31.0,31.0
+674,RF-0757-001-PPP,Isofenphos (sum),Isofenphos (sum),15.0,15.0,30.0
+400,RF-0334-002-PPP,Phenmedipham (sum),Phenmedipham (Methyl-N-(3-hydroxyphenyl) carbamate (MHPC) expressed as phenmedipham,15.0,15.0,30.0
+707,RF-0823-002-PPP,2-Phenylphenol (sum),4-Phenylphenol,15.0,15.0,30.0
+646,RF-0694-001-PPP,Flamprop-M-Isopropyl,Flamprop-M-Isopropyl,15.0,15.0,30.0
+504,RF-0438-001-PPP,Tridemorph,Tridemorph,15.0,15.0,30.0
+219,RF-0137-001-PPP,Dimethenamid (sum),Dimethenamid-p,15.0,15.0,30.0
+456,RF-0384-003-PPP,Quizalofop (sum),Quizalofop (including Quizalfop-P),15.0,15.0,30.0
+301,RF-0223-001-PPP,Formetanate (sum),Formetanate: Sum of formetanate and its salts expressed as formetanate(hydrochloride),0.0,30.0,30.0
+360,RF-0292-001-PPP,Metholachlor and metholachlor-S (sum),Metholachlor and metholachlor-S (Metholachlor including other mixtures of constituent isomers including S-metholachlor (sum of isomers)),15.0,15.0,30.0
+346,RF-0278-001-PPP,Mesosulfuron (sum),Mesosulfuron-methyl (expresssed as Mesosulfuron),15.0,15.0,30.0
+552,RF-0523-001-PPP,Butocarboxim (sum),Butocarboxim (sum),15.0,15.0,30.0
+757,RF-0918-001-PPP,"Terbuthylazine, Desethyl-","Terbuthylazine, Desethyl-",0.0,29.0,29.0
+236,RF-0150-001-PPP,Dithianon,Dithianon,0.0,28.0,28.0
+437,RF-0367-001-PPP,Prosulfuron,Prosulfuron,0.0,28.0,28.0
+574,RF-0572-001-PPP,Coumatetralyl,Coumatetralyl,0.0,28.0,28.0
+277,RF-0196-001-PPP,Forchlorfenuron,Forchlorfenuron,0.0,28.0,28.0
+1,RF-00000012-PAR,Chlorothalonil (sum),"SDS-3701 (4-hydroxy-2,5,6- trichloroisophthalonitrile)",15.0,13.0,28.0
+479,RF-0412-004-PPP,Terbufos (sum),Terbufos Sulfoxide,13.0,14.0,27.0
+190,RF-0106-001-PPP,Cycloxydim (sum),"Cycloxydim including degradation and reaction products which can be determined as 3-(3-thianyl)glutaric acid S-dioxide (BH 517-TGSO2) and/or 3-hydroxy-3-(3-thianyl)glutaric acid S-dioxide (BH 517-5-OH-TGSO2) or methyl esters thereof, calculated in total a",0.0,27.0,27.0
+807,RF-1059-001-PPP,Fosetyl-Al (sum),Fosetyl,0.0,26.0,26.0
+304,RF-0225-001-PPP,Fosetyl-Al (sum),"Fosetyl-Al (sum of fosetyl, phosphonic acid and their salts, expressed as fosetyl)",0.0,26.0,26.0
+380,RF-0310-001-PPP,Nicosulfuron,Nicosulfuron,0.0,26.0,26.0
+173,RF-0089-001-PPP,Chlorsulfuron,Chlorsulfuron,0.0,26.0,26.0
+245,RF-0160-001-PPP,Ethephon,Ethephon,0.0,26.0,26.0
+65,RF-00004675-PAR,Fosetyl-Al (sum),Phosphonic acid,0.0,26.0,26.0
+280,RF-0200-001-PPP,Flucycloxuron,Flucycloxuron,0.0,26.0,26.0
+162,RF-0070-001-PPP,Carfentrazone-ethyl (sum),Carfentrazone-ethyl (determined as Carfentrazone and expressed as Carfentrazone-ethyl),0.0,26.0,26.0
+487,RF-0419-001-PPP,Thifensulfuron-methyl,Thifensulfuron-methyl,0.0,26.0,26.0
+491,RF-0425-001-PPP,Tolylfluanid (sum),Tolylfluanid (Sum of tolylfluanid and dimethylaminosulfotoluidide expressed as tolylfluanid),15.0,11.0,26.0
+369,RF-0301-001-PPP,Metsulfuron-methyl,Metsulfuron-methyl,0.0,26.0,26.0
+201,RF-0124-001-PPP,Dicamba,Dicamba,0.0,26.0,26.0
+203,RF-0126-001-PPP,Dichlorprop (sum),"Dichlorprop (sum of dichlorprop (including dichlorprop-P) and its conjugates, expressed as dichlorprop)",1.0,24.0,25.0
+661,RF-0733-001-PPP,Halofenozide,Halofenozide,15.0,10.0,25.0
+19,RF-00002611-PAR,Metolachlor and S-metolachlor (sum),Metolachlor and S-metolachlor (metolachlor including other mixtures of constituent isomers including S-metolachlor (sum of isomers)),18.0,7.0,25.0
+531,RF-0481-001-PPP,"Atrazine, Desisopropyl-","Atrazine, Desisopropyl-",0.0,25.0,25.0
+601,RF-0616-001-PPP,"N, N-Diethyl-meta-toluamide (DEET)","N, N-Diethyl-meta-toluamide (DEET)",15.0,10.0,25.0
+713,RF-0838-001-PPP,Pentachlorobenzene,Pentachlorobenzene,0.0,24.0,24.0
+596,RF-0602-001-PPP,"Dichlorobenzamide, 2,6-","Dichlorobenzamide, 2,6-",0.0,24.0,24.0
+603,RF-0622-001-PPP,Dimefox,Dimefox,0.0,23.0,23.0
+218,RF-0136-001-PPP,Dimethachlor,Dimethachlor,10.0,13.0,23.0
+530,RF-0478-001-PPP,Desethyl-Atrazine,Desethyl-Atrazine,0.0,23.0,23.0
+744,RF-0891-001-PPP,Sebuthylazine,Sebuthylazine,0.0,23.0,23.0
+67,RF-00004682-PAR,Dichlorprop (sum),"Sum of dichlorprop (including dichlorprop-P) and its salts, expressed as dichlorprop",0.0,22.0,22.0
+383,RF-0313-001-PPP,Novaluron (sum),Novaluron,0.0,22.0,22.0
+334,RF-0260-002-PPP,Kresoxim-methyl (sum),"Kresoxim-methyl (BF-490-9 (2-[2-(4-hydroxy-2-methylphenoxymethyl)phenyl]-2-methoxy-iminoacetic acid), expressed as parent)",6.0,16.0,22.0
+794,RF-1005-001-PPP,Myclobutanil (sum),"Alpha-(3-hydroxybutyl) - alpha - (4-chloro-phenyl) - 1H - 1,2,4 - triazole -1-propanenitrile (RH9090) expressed as myclobutanil",6.0,16.0,22.0
+498,RF-0431-001-PPP,Triasulfuron,Triasulfuron,0.0,22.0,22.0
+228,RF-0143-001-PPP,Dinocap (sum),Dinocap (sum of dinocap isomers and their corresponding phenols expressed as dinocap),0.0,22.0,22.0
+265,RF-0178-003-PPP,Fenchlorphos (sum),Fenchlorphos-oxon,17.0,4.0,21.0
+803,RF-1047-001-PPP,Flamprop-isopropyl,Flamprop-isopropyl,15.0,6.0,21.0
+701,RF-0809-001-PPP,Nicotine,Nicotine,0.0,21.0,21.0
+231,RF-0146-001-PPP,Dioxathion (sum),Dioxathion (sum of isomers),15.0,6.0,21.0
+762,RF-0923-001-PPP,Tetrasul,Tetrasul,10.0,11.0,21.0
+708,RF-0824-001-PPP,Oxamyl-Oxime,Oxamyl-Oxime,15.0,6.0,21.0
+510,RF-0444-001-PPP,Triforine,Triforine,0.0,21.0,21.0
+693,RF-0792-001-PPP,Metolcarb,Metolcarb,0.0,20.0,20.0
+538,RF-0494-001-PPP,Bensulfuron-Methyl,Bensulfuron-Methyl,0.0,20.0,20.0
+536,RF-0491-001-PPP,Benodanil,Benodanil,0.0,20.0,20.0
+73,RF-00004818-PAR,Prochloraz (sum),"BTS 40348 (N-[2-(2,4,6-Trichlorophenoxy)ethyl]propylamine)",0.0,20.0,20.0
+723,RF-0861-001-PPP,Prometon,Prometon,0.0,20.0,20.0
+687,RF-0776-001-PPP,Mefenacet,Mefenacet,15.0,4.0,19.0
+568,RF-0557-001-PPP,Chloropropylate,Chloropropylate,10.0,9.0,19.0
+371,RF-0303-001-PPP,Milbemectin (sum),"Milbemectin (sum of MA4+8,9Z-MA4, expressed as Milbemectin)",0.0,19.0,19.0
+29,RF-00003326-PAR,Acetamiprid (sum),"Acetamiprid (sum of acetamiprid and N-desmethyl-acetamiprid (IM-2-1), expressed as acetamiprid)",4.0,15.0,19.0
+3,RF-00000020-PAR,Endosulfan (sum),Endosulfan lactone,15.0,4.0,19.0
+91,RF-0001-001-PPP,"1,1-dichloro-2,2-bis(4-ethylphenyl)ethane","1,1-dichloro-2,2-bis(4-ethylphenyl)ethane",10.0,9.0,19.0
+770,RF-0936-001-PPP,Thiometon,Thiometon,15.0,4.0,19.0
+2,RF-00000019-PAR,Endosulfan (sum),Endosulfan ether,15.0,4.0,19.0
+564,RF-0545-001-PPP,Chlordimeform,Chlordimeform,18.0,0.0,18.0
+511,RF-0445-001-PPP,"Trimethyl-sulfonium cation, resulting from the use of glyphosate","Trimethyl-sulfonium cation, resulting from the use of glyphosate",0.0,18.0,18.0
+291,RF-0214-001-PPP,Flurochloridone (sum),Flurochloridone,0.0,18.0,18.0
+389,RF-0322-001-PPP,Oxycarboxin,Oxycarboxin,15.0,2.0,17.0
+748,RF-0898-001-PPP,Simetryn,Simetryn,0.0,16.0,16.0
+808,RF-1061-001-PPP,2-Hydroxyethylphosphonic acid,2-Hydroxyethylphosphonic acid,0.0,16.0,16.0
+474,RF-0410-001-PPP,TEPP,TEPP,16.0,0.0,16.0
+45,RF-00003362-PAR,Penflufen (sum),Penflufen,0.0,16.0,16.0
+526,RF-0471-001-PPP,AMPA,AMPA,0.0,16.0,16.0
+5,RF-00000024-PAR,Fluxapyroxad,Fluxapyroxad,0.0,16.0,16.0
+100,RF-00012047-PAR,Mandipropamid (sum),Mandipropamid (any ratio of constituent isomers),0.0,16.0,16.0
+811,RF-1070-001-PPP,Flonicamid (sum),"Sum of flonicamid and TFNA-AM, expressed as flonicamid",10.0,5.0,15.0
+561,RF-0537-001-PPP,Carpropamid,Carpropamid,15.0,0.0,15.0
+617,RF-0645-001-PPP,Dodemorph,Dodemorph,15.0,0.0,15.0
+10,RF-00000132-VET,Chlorpropham (sum),Chlorpropham CIPC,15.0,0.0,15.0
+640,RF-0685-003-PPP,Fensulfothion (sum),Fensulfothion-sulfon,0.0,15.0,15.0
+806,RF-1058-001-PPP,Dimethenamid,Dimethenamid,15.0,0.0,15.0
+309,RF-0235-001-PPP,Haloxyfop (sum),"Haloxyfop including haloxyfop-R (Haloxyfop-R methyl ester, haloxyfop-R and conjugates of haloxyfop-R expressed as haloxyfop-R)",15.0,0.0,15.0
+427,RF-0356-001-PPP,Propaquizafop,Propaquizafop,0.0,14.0,14.0
+14,RF-00002596-PAR,Bromadiolone,Bromadiolone,0.0,13.0,13.0
+191,RF-0106-002-PPP,Cycloxydim (sum),Cycloxydim,0.0,12.0,12.0
+49,RF-00003368-PAR,Spirotetramat (sum),Spirotetramat,0.0,12.0,12.0
+520,RF-0460-001-PPP,4-CPA,4-CPA,0.0,12.0,12.0
+745,RF-0893-001-PPP,Secbumeton,Secbumeton,0.0,12.0,12.0
+59,RF-00004656-PAR,Benthiavalicarb isopropyl (sum),"Benthiavalicarb (Benthiavalicarb-isopropyl(KIF-230 R-L) and its enantiomer (KIF-230 S-D) and its diastereomers(KIF-230 S-L and KIF-230 R-D), expressed as benthiavalicarb-isopropyl)",0.0,12.0,12.0
+619,RF-0648-001-PPP,Emamectin (sum),"Emamectin benzoate B1a, expressed as emamectin",0.0,11.0,11.0
+425,RF-0354-001-PPP,Propamocarb (sum),"Propamocarb (Sum of propamocarb and its salts, expressed as propamocarb)",0.0,11.0,11.0
+768,RF-0934-001-PPP,Thiofanox-Sulfone,Thiofanox-Sulfone,0.0,10.0,10.0
+40,RF-00003348-PAR,Flonicamid (sum),TNFA (4-(Trifluoromethyl)nicotinic acid),0.0,10.0,10.0
+15,RF-00002605-PAR,"2,4-DB (sum)","2,4-DB (sum of 2,4-DB and its conjugates, expressed as 2,4-DB)",0.0,10.0,10.0
+17,RF-00002609-PAR,Penthiopyrad,Penthiopyrad,0.0,10.0,10.0
+367,RF-0298-001-PPP,Metosulam,Metosulam,0.0,10.0,10.0
+634,RF-0678-001-PPP,Fenothiocarb,Fenothiocarb,0.0,10.0,10.0
+116,RF-0016-002-PPP,Acibenzolar-S-methyl (sum),Acibenzolar-S-methyl,0.0,10.0,10.0
+105,RF-0006-001-PPP,1-naphthylacetamide,1-naphthylacetamide,0.0,10.0,10.0
+592,RF-0596-001-PPP,Diafenthiuron,Diafenthiuron,0.0,10.0,10.0
+41,RF-00003349-PAR,Flonicamid (sum),TNFG (4-(Trifluoromethyl)nicotinoyl glycine),0.0,10.0,10.0
+398,RF-0333-001-PPP,Pethoxamid,Pethoxamid,0.0,10.0,10.0
+738,RF-0885-001-PPP,Quinclorac,Quinclorac,0.0,10.0,10.0
+551,RF-0522-001-PPP,Butocarboxim,Butocarboxim,0.0,10.0,10.0
+611,RF-0636-001-PPP,Dioxacarb,Dioxacarb,0.0,10.0,10.0
+347,RF-0278-003-PPP,Mesosulfuron (sum),Mesosulfuron-methyl,0.0,10.0,10.0
+570,RF-0564-001-PPP,Cinosulfuron,Cinosulfuron,0.0,10.0,10.0
+733,RF-0876-001-PPP,Pyridalyl,Pyridalyl,0.0,10.0,10.0
+577,RF-0575-001-PPP,Crufomate,Crufomate,0.0,10.0,10.0
+609,RF-0630-001-PPP,Dinitramine,Dinitramine,0.0,10.0,10.0
+30,RF-00003327-PAR,Bromoxynil (sum),"Bromoxynil and its salts, expressed as bromoxynil",0.0,10.0,10.0
+6,RF-00000025-PAR,Isopyrazam (sum),Isopyrazam,0.0,9.0,9.0
+802,RF-1033-001-PPP,Hexachlorobutadiene,Hexachlorobutadiene,0.0,8.0,8.0
+787,RF-0992-001-PPP,Amitraz (sum),"2,4-Dimethylaniline",0.0,8.0,8.0
+7,RF-00000026-PAR,Mefenpyr,Mefenpyr (sum),0.0,8.0,8.0
+493,RF-0426-001-PPP,Topramezone,Topramezone,0.0,8.0,8.0
+666,RF-0745-001-PPP,Imazethapyr,Imazethapyr,0.0,8.0,8.0
+654,RF-0713-001-PPP,Fluotrimazole,Fluotrimazole,4.0,4.0,8.0
+476,RF-0412-001-PPP,Terbufos (sum),"Terbufos (sum of terbufos, its sulfoxide and sulfone, expressed as terbufos)",7.0,1.0,8.0
+330,RF-0258-001-PPP,Isoxaben,Isoxaben,0.0,7.0,7.0
+34,RF-00003336-PAR,Cyantraniliprole,Cyantraniliprole,0.0,7.0,7.0
+739,RF-0886-001-PPP,Quinoclamine,Quinoclamine,0.0,7.0,7.0
+645,RF-0693-001-PPP,Fipronil-Sulfide,Fipronil-Sulfide,0.0,7.0,7.0
+385,RF-0317-001-PPP,Oxadiargyl,Oxadiargyl,0.0,7.0,7.0
+86,RF-00007628-PAR,Metalaxyl (sum),"Sum of metalaxyl (sum of isomers) and its metabolites containing the 2,6-dimethylaniline moiety, expressed as metalaxyl",0.0,7.0,7.0
+767,RF-0933-001-PPP,Thiofanox,Thiofanox,0.0,6.0,6.0
+763,RF-0924-001-PPP,Thenylchlor,Thenylchlor,0.0,6.0,6.0
+699,RF-0804-001-PPP,Naptalam,Naptalam,0.0,6.0,6.0
+700,RF-0805-001-PPP,Neburon,Neburon,0.0,6.0,6.0
+737,RF-0883-001-PPP,Pyroxsulam,Pyroxsulam,0.0,6.0,6.0
+801,RF-1032-001-PPP,Griseofulvin,Griseofulvin,0.0,6.0,6.0
+649,RF-0701-001-PPP,Fluazuron,Fluazuron,0.0,6.0,6.0
+781,RF-0962-001-PPP,Trimethacarb,Trimethacarb,0.0,6.0,6.0
+756,RF-0917-001-PPP,"Terbuthylazine, 2-Hydroxy-","Terbuthylazine, 2-Hydroxy-",0.0,6.0,6.0
+749,RF-0901-001-PPP,Sulfentrazone,Sulfentrazone,0.0,6.0,6.0
+643,RF-0689-001-PPP,Fenuron,Fenuron,0.0,6.0,6.0
+636,RF-0681-002-PPP,Fenoxaprop-ethyl,Fenoxaprop-ethyl,0.0,6.0,6.0
+774,RF-0943-001-PPP,Tolfenpyrad,Tolfenpyrad,0.0,6.0,6.0
+814,RF-1078-001-PPP,Quaternary Ammonium Compounds (QACs),Quaternary Ammonium Compounds (QACs),5.0,1.0,6.0
+499,RF-0433-001-PPP,Triazoxide,Triazoxide,0.0,6.0,6.0
+189,RF-0105-001-PPP,Cyclanilide,Cyclanilide,0.0,6.0,6.0
+77,RF-00005724-PAR,Ethofumesate (sum),"Ethofumesate (Sum of ethofumesate, 2-keto–ethofumesate, open-ring-2-keto-ethofumesate and its conjugate, expressed as ethofumesate)",0.0,6.0,6.0
+75,RF-00005717-PAR,Triadimenol (sum),Triadimenol (any ratio of constituent isomers),0.0,6.0,6.0
+418,RF-0346-001-PPP,Pinoxaden (sum),Pinoxaden,0.0,6.0,6.0
+143,RF-0043-003-PPP,Benthiavalicarb isopropyl (sum),Benthiavalicarb isopropyl,0.0,6.0,6.0
+416,RF-0344-001-PPP,Picolinafen,Picolinafen,0.0,6.0,6.0
+415,RF-0343-001-PPP,Picloram (sum),Picloram,0.0,6.0,6.0
+163,RF-0070-003-PPP,Carfentrazone-ethyl (sum),Carfentrazone-ethyl,0.0,6.0,6.0
+178,RF-0094-001-PPP,Chromafenozide,Chromafenozide,0.0,6.0,6.0
+110,RF-0011-004-PPP,Abamectin (sum),Avermectin B1b,0.0,6.0,6.0
+61,RF-00004662-PAR,Flupyradifurone,Flupyradifurone,0.0,6.0,6.0
+463,RF-0392-001-PPP,Spinetoram (sum),Spinetoram,0.0,6.0,6.0
+108,RF-0011-002-PPP,Abamectin (sum),"Avermectin B1a, delta-8,9 isomer",0.0,6.0,6.0
+55,RF-00003378-PAR,Cyhalofop-butyl (sum),Cyhalofop-butyl,0.0,6.0,6.0
+53,RF-00003375-PAR,Iprodione (sum),"Sum of iprodione and all metabolites containing the 3,5-dichloroaniline moiety expressed as iprodione",0.0,6.0,6.0
+48,RF-00003367-PAR,Pyraflufen-ethyl (sum),"Pyraflufen-ethyl (sum of pyraflufen-ethyl and pyraflufen, expressed as pyraflufen-ethyl)",0.0,6.0,6.0
+311,RF-0235-007-PPP,Haloxyfop-P-methyl,Haloxyfop-P-methyl,3.0,3.0,6.0
+320,RF-0247-001-PPP,Imazamox (sum),"Imazamox (sum of imazamox and its salts, expressed as imazamox)",0.0,6.0,6.0
+229,RF-0144-001-PPP,Dinoseb (sum),Dinoseb,0.0,6.0,6.0
+608,RF-0628-001-PPP,Dimetilan,Dimetilan,0.0,6.0,6.0
+308,RF-0234-001-PPP,Halosulfuron methyl,Halosulfuron methyl,0.0,6.0,6.0
+12,RF-00001611-PAR,"Quaternary alkyl-ammonium salts with typical alkyl chain lengths of C8, C10 and C12","Quaternary alkyl-ammonium salts with typical alkyl chain lengths of C8, C10 and C12",0.0,6.0,6.0
+13,RF-00002593-PAR,Thiencarbazone-methyl,Thiencarbazone-methyl,0.0,6.0,6.0
+206,RF-0128-001-PPP,Diclofop (sum),Diclofop (sum Diclofop-methyl and Diclofop acid expressed as Diclofop-methyl),1.0,5.0,6.0
+33,RF-00003331-PAR,Spirotetramat (sum),"BYI08330-enol (cis-3-(2,5-dimethylphenyl)-4-hydroxy-8-methoxy-1-azaspiro[4.5]dec-3-en-2-one)",0.0,6.0,6.0
+35,RF-00003338-PAR,Cyprodinil (sum),"Cyprodinil (sum of cyprodinil and CGA 304075 (free and conjugated), expressed as cyprodinil)",1.0,5.0,6.0
+326,RF-0254-001-PPP,Ipconazole,Ipconazole,0.0,6.0,6.0
+514,RF-0448-001-PPP,Tritosulfuron,Tritosulfuron,0.0,5.0,5.0
+345,RF-0276-001-PPP,Meptyldinocap (sum),"Meptyldinocap (sum of 2,4 DNOPC and 2,4 DNOP expressed as meptyldinocap)",0.0,5.0,5.0
+638,RF-0684-001-PPP,Fenson,Fenson,0.0,5.0,5.0
+156,RF-0064-001-PPP,Carbetamide (sum),Carbetamide,0.0,5.0,5.0
+192,RF-0107-001-PPP,Cyflufenamid (sum),"Cyflufenamid (sum of cyflufenamid (Z-isomer) and its E-isomer, expressed as cyflufenamid)",0.0,5.0,5.0
+753,RF-0907-001-PPP,Tebupirimphos,Tebupirimphos,0.0,4.0,4.0
+746,RF-0894-001-PPP,Siduron,Siduron,0.0,4.0,4.0
+747,RF-0897-001-PPP,Simeconazole,Simeconazole,0.0,4.0,4.0
+752,RF-0906-001-PPP,TCMTB,TCMTB,0.0,4.0,4.0
+743,RF-0890-001-PPP,Schradan,Schradan,0.0,4.0,4.0
+135,RF-0030-001-PPP,Azadirachtin,Azadirachtin,0.0,4.0,4.0
+630,RF-0667-001-PPP,Etobenzanid,Etobenzanid,0.0,4.0,4.0
+137,RF-0037-001-PPP,Beflubutamid,Beflubutamid,0.0,4.0,4.0
+741,RF-0888-001-PPP,Rabenzazole,Rabenzazole,0.0,4.0,4.0
+736,RF-0880-001-PPP,Pyrimidifen,Pyrimidifen,0.0,4.0,4.0
+731,RF-0874-001-PPP,Piributicarb,Piributicarb,0.0,4.0,4.0
+181,RF-0096-003-PPP,Clethodim (sum),Sethoxydim,0.0,4.0,4.0
+208,RF-0128-003-PPP,Diclofop (sum),Diclofop-Methyl,0.0,4.0,4.0
+251,RF-0165-001-PPP,Ethoxyquin,Ethoxyquin,0.0,4.0,4.0
+287,RF-0206-001-PPP,Flumioxazin,Flumioxazin,0.0,4.0,4.0
+730,RF-0872-001-PPP,Pyraclofos,Pyraclofos,0.0,4.0,4.0
+766,RF-0929-001-PPP,Thidiazuron,Thidiazuron,0.0,4.0,4.0
+102,RF-00012802-PAR,Napropamide (sum),Napropamide (sum of isomers),0.0,4.0,4.0
+26,RF-00003039-PAR,Tepraloxydim (sum),"Tepraloxydim (sum of tepraloxydim and its metabolites that can be hydrolysed either to the moiety 3-(tetrahydro-pyran-4-yl)-glutaric acid or to the moiety 3-hydroxy-(tetrahydro-pyran-4-yl)-glutaric acid, expressed as tepraloxydim)",0.0,4.0,4.0
+58,RF-00004646-PAR,"2,4-DB (sum)","2,4-DB",0.0,4.0,4.0
+57,RF-00003387-PAR,4-bromophenylurea,4-bromophenylurea,0.0,4.0,4.0
+50,RF-00003369-PAR,Bentazone (sum),"Sum of bentazone, its salts and 6-hydroxy bentazone (free and conjugated), expressed as bentazone",0.0,4.0,4.0
+47,RF-00003365-PAR,Pymetrozine (sum),"Pymetrozine, 6-hydroxymethylpymetrozine and its phosphate conjugate, expressed as pymetrozine",0.0,4.0,4.0
+44,RF-00003353-PAR,Flutolanil (sum),"Flutolanil (flutolanil and metabolites containing the 2-trifluoromethylbenzoic acid moiety, expressed as flutolanil)",0.0,4.0,4.0
+37,RF-00003342-PAR,Dinoseb (sum),"Dinoseb (sum of dinoseb, its salts, dinoseb-acetate and binapacryl, expressed as dinoseb)",0.0,4.0,4.0
+23,RF-00003033-PAR,Bifenazate (sum),Bifenazate (sum of bifenazate plus bifenazate-diazene expressed as bifenazate),0.0,4.0,4.0
+97,RF-00012043-PAR,Paclobutrazol (sum),Paclobutrazol (sum of constituent isomers),0.0,4.0,4.0
+804,RF-1055-001-PPP,Ametoctradin,Ametoctradin,0.0,4.0,4.0
+21,RF-00003018-PAR,Milbemectin (sum),"Milbemectin (sum of milbemycin A4 and milbemycin A3, expressed as milbemectin)",0.0,4.0,4.0
+20,RF-00002838-PAR,Meptyldinocap (sum),Meptyldinocap,0.0,4.0,4.0
+809,RF-1066-002-PPP,Pyrethrins,Cinerin I,0.0,4.0,4.0
+810,RF-1066-003-PPP,Pyrethrins,Cinerin II,0.0,4.0,4.0
+8,RF-00000030-PAR,Spirotetramat (sum),Spirotetramat (spirotetramat and its metabolite BYI08330-enol expressed as spirotetramat),0.0,4.0,4.0
+63,RF-00004672-PAR,Mevinphos (sum),Mevinphos E-isomer,0.0,4.0,4.0
+64,RF-00004673-PAR,Mevinphos (sum),Mevinphos Z-isomer,0.0,4.0,4.0
+69,RF-00004685-PAR,Captan (sum),"Sum of THPI, 3-OH THPI and 5-OH THPI, expressed as captan",0.0,4.0,4.0
+782,RF-0962-002-PPP,"2,3,5-Trimethacarb","2,3,5-Trimethacarb",0.0,4.0,4.0
+70,RF-00004686-PAR,Captan (sum),THPI,0.0,4.0,4.0
+71,RF-00004688-PAR,Folpet (sum),"Phthalimide, expressed as folpet",0.0,4.0,4.0
+779,RF-0960-001-PPP,Trifloxysulfuron,Trifloxysulfuron,0.0,4.0,4.0
+778,RF-0957-001-PPP,Trichloronat,Trichloronat,0.0,4.0,4.0
+777,RF-0952-001-PPP,"Tribromophenol, 2,4,6-","Tribromophenol, 2,4,6-",0.0,4.0,4.0
+76,RF-00005722-PAR,Fluoxastrobin (sum),"Fluoxastrobin (sum of fluoxastrobin, its Z-isomer and its metabolite 6-(2-chlorophenoxy)-5-fluoro-4-pyrimidinol, expressed as fluoxastrobin)",0.0,4.0,4.0
+773,RF-0942-001-PPP,Tiocarbazil,Tiocarbazil,0.0,4.0,4.0
+78,RF-00005728-PAR,1-naphthylacetic acid (sum),"1-Naphthylacetamide and 1-naphthylacetic acid (sum of 1-naphthylacetamide and 1-naphthylacetic acid and its salts, expressed as 1-naphythlacetic acid)",0.0,4.0,4.0
+87,RF-00007630-PAR,Thiabendazole (sum),"Thiabendazole (sum of thiabendazole, 5-hydroxythiabendazole and its sulfate conjugate, expressed as thiabendazole)",0.0,4.0,4.0
+88,RF-00007632-PAR,Acrinathrin (sum),Acrinathrin and its enantiomer,0.0,4.0,4.0
+288,RF-0207-001-PPP,Fluometuron,Fluometuron,0.0,4.0,4.0
+765,RF-0928-001-PPP,Thiazopyr,Thiazopyr,0.0,4.0,4.0
+92,RF-00011559-PAR,Carboxin (sum),"Carboxin (carboxin plus its metabolites carboxin sulfoxide and oxycarboxin (carboxin sulfone), expressed as carboxin)",0.0,4.0,4.0
+715,RF-0840-001-PPP,Pentanochlor,Pentanochlor,0.0,4.0,4.0
+407,RF-0336-006-PPP,Phorate (sum),Phorate-oxonsulfone,0.0,4.0,4.0
+606,RF-0625-001-PPP,Dimethametryn,Dimethametryn,0.0,4.0,4.0
+605,RF-0624-001-PPP,Dimepiperate,Dimepiperate,0.0,4.0,4.0
+667,RF-0746-001-PPP,Imibenconazole,Imibenconazole,0.0,4.0,4.0
+668,RF-0750-001-PPP,Inabenfide,Inabenfide,0.0,4.0,4.0
+537,RF-0492-001-PPP,Benoxacor,Benoxacor,0.0,4.0,4.0
+534,RF-0485-001-PPP,Aziprotryne,Aziprotryne,0.0,4.0,4.0
+529,RF-0476-001-PPP,Aspon,Aspon,0.0,4.0,4.0
+527,RF-0474-001-PPP,Anilofos,Anilofos,0.0,4.0,4.0
+521,RF-0462-001-PPP,Alanycarb,Alanycarb,0.0,4.0,4.0
+449,RF-0376-002-PPP,Pyridate (sum),Pyridate,0.0,4.0,4.0
+500,RF-0434-001-PPP,Tribenuron-methyl,Tribenuron-methyl,0.0,4.0,4.0
+588,RF-0591-001-PPP,Daimuron,Daimuron,0.0,4.0,4.0
+677,RF-0761-001-PPP,Isomethiozin,Isomethiozin,0.0,4.0,4.0
+607,RF-0627-001-PPP,Dimethylvinphos,Dimethylvinphos,0.0,4.0,4.0
+452,RF-0379-001-PPP,Pyroquilon,Pyroquilon,0.0,4.0,4.0
+681,RF-0765-001-PPP,Isoxadifen-ethyl,Isoxadifen-ethyl,0.0,4.0,4.0
+539,RF-0495-001-PPP,Bensulide,Bensulide,0.0,4.0,4.0
+604,RF-0623-001-PPP,Dimefuron,Dimefuron,0.0,4.0,4.0
+549,RF-0520-001-PPP,Butafenacil,Butafenacil,0.0,4.0,4.0
+550,RF-0521-001-PPP,Butamifos,Butamifos,0.0,4.0,4.0
+556,RF-0527-001-PPP,Buturon,Buturon,0.0,4.0,4.0
+558,RF-0529-001-PPP,Cafenstrole,Cafenstrole,0.0,4.0,4.0
+560,RF-0536-001-PPP,Carbophenothion (sum),Carbophenothion-Methyl,0.0,4.0,4.0
+655,RF-0720-001-PPP,Fluthiacet-Methyl,Fluthiacet-Methyl,0.0,4.0,4.0
+602,RF-0618-001-PPP,Difenoxuron,Difenoxuron,0.0,4.0,4.0
+566,RF-0554-001-PPP,Chlormephos,Chlormephos,0.0,4.0,4.0
+653,RF-0711-001-PPP,Fluoroglycofen-Ethyl,Fluoroglycofen-Ethyl,0.0,4.0,4.0
+572,RF-0568-001-PPP,Cloquintocet-Mexyl,Cloquintocet-Mexyl,0.0,4.0,4.0
+575,RF-0573-001-PPP,Crimidine,Crimidine,0.0,4.0,4.0
+599,RF-0611-001-PPP,Diclosulam,Diclosulam,0.0,4.0,4.0
+582,RF-0583-001-PPP,Cycluron,Cycluron,0.0,4.0,4.0
+587,RF-0588-001-PPP,Cyprazin,Cyprazin,0.0,4.0,4.0
+647,RF-0696-001-PPP,Flocoumafen,Flocoumafen,0.0,4.0,4.0
+682,RF-0766-001-PPP,Isoxathion,Isoxathion,0.0,4.0,4.0
+595,RF-0601-001-PPP,Dichlormid,Dichlormid,0.0,4.0,4.0
+697,RF-0800-001-PPP,Naled,Naled,0.0,4.0,4.0
+696,RF-0798-001-PPP,Monalide,Monalide,0.0,4.0,4.0
+384,RF-0316-001-PPP,Oryzalin,Oryzalin,0.0,4.0,4.0
+377,RF-0307-001-PPP,Monuron,Monuron,0.0,4.0,4.0
+635,RF-0681-001-PPP,Fenoxaprop-P-Ethyl,Fenoxaprop-P-Ethyl,0.0,4.0,4.0
+408,RF-0336-007-PPP,Phorate (sum),Phorate-oxonsulfoxid,0.0,4.0,4.0
+691,RF-0787-001-PPP,Methothrin,Methothrin,0.0,4.0,4.0
+614,RF-0641-001-PPP,Dithiopyr,Dithiopyr,0.0,4.0,4.0
+443,RF-0374-002-PPP,Pyrethrins,Pyrethrin I,0.0,4.0,4.0
+623,RF-0656-001-PPP,Esprocarb,Esprocarb,0.0,4.0,4.0
+322,RF-0249-001-PPP,Imazosulfuron,Imazosulfuron,0.0,4.0,4.0
+706,RF-0822-001-PPP,Orbencarb,Orbencarb,0.0,4.0,4.0
+444,RF-0374-003-PPP,Pyrethrins,Pyrethrin II,0.0,4.0,4.0
+445,RF-0374-004-PPP,Pyrethrins,Jasmolin I,0.0,4.0,4.0
+446,RF-0374-005-PPP,Pyrethrins,Jasmolin II,0.0,4.0,4.0
+711,RF-0836-001-PPP,Penfluron,Penfluron,0.0,4.0,4.0
+300,RF-0222-001-PPP,Foramsulfuron,Foramsulfuron,0.0,4.0,4.0
+685,RF-0774-001-PPP,Lactofen,Lactofen,0.0,4.0,4.0
+684,RF-0770-001-PPP,Karbutilate,Karbutilate,0.0,4.0,4.0
+610,RF-0633-001-PPP,Dinotefuran,Dinotefuran,0.0,4.0,4.0
+720,RF-0853-001-PPP,Prallethrin,Prallethrin,0.0,3.0,3.0
+541,RF-0504-001-PPP,Bioallethrin,Bioallethrin,0.0,3.0,3.0
+525,RF-0470-001-PPP,Amisulbrom,Amisulbrom,0.0,3.0,3.0
+96,RF-00011998-PAR,Imazalil (sum),"Sum of imazalil and metabolite FK-772 (any ratio of constituent isomers), expressed as imazalil",0.0,3.0,3.0
+90,RF-00009154-PAR,AMPA-N-acetyl,AMPA-N-acetyl,0.0,3.0,3.0
+175,RF-0091-001-PPP,Chlorthiamid,Chlorthiamid,0.0,2.0,2.0
+83,RF-00007584-PAR,Halauxifen-methyl,Halauxifen-methyl,0.0,2.0,2.0
+106,RF-0008-001-PPP,"2,4-DB (sum)","2,4-DB (sum of 2,4-DB, its salts, its esters and its conjugates, expressed as 2,4-DB)",2.0,0.0,2.0
+132,RF-0027-001-PPP,Aramite,Aramite,0.0,2.0,2.0
+22,RF-00003031-PAR,Pyriofenone,Pyriofenone,0.0,2.0,2.0
+51,RF-00003370-PAR,Pyrimethanil (sum),"Sum of pyrimethanil and 2-(4-hydroxyanilino)-4.6-dimethylpyrimidine, expressed as pyrimethanil",1.0,1.0,2.0
+302,RF-0223-002-PPP,Formetanate (sum),Formetanate,0.0,2.0,2.0
+625,RF-0658-001-PPP,Ethametsulfuron-Methyl,Ethametsulfuron-Methyl,0.0,2.0,2.0
+207,RF-0128-002-PPP,Diclofop (sum),Diclofop,0.0,2.0,2.0
+95,RF-00011882-PAR,Quizalofop (sum),"Quizalofop (sum of quizalofop, its salts, its esters (including propaquizafop) and its conjugates, expressed as quizalofop (any ratio of constituent isomers))",0.0,2.0,2.0
+94,RF-00011881-PAR,Flurochloridone (sum),Flurochloridone (sum of cis- and trans- isomers),0.0,2.0,2.0
+62,RF-00004671-PAR,Mandestrobin,Mandestrobin,0.0,2.0,2.0
+656,RF-0723-001-PPP,Fomesafen,Fomesafen,0.0,2.0,2.0
+332,RF-0259-002-PPP,Isoxaflutole (sum),Isoxaflutole,0.0,2.0,2.0
+764,RF-0926-001-PPP,Thiabendazole (sum),"Thiabendazole, 5-Hydroxy-",0.0,2.0,2.0
+555,RF-0526-001-PPP,Butroxydim,Butroxydim,1.0,1.0,2.0
+89,RF-00008949-PAR,Oxathiapiprolin,Oxathiapiprolin,0.0,2.0,2.0
+397,RF-0332-001-PPP,Penoxsulam,Penoxsulam,0.0,2.0,2.0
+732,RF-0875-001-PPP,CL 9673 (6-chloro-4-hydroxy-3-phenylpyridazin),CL 9673 (6-chloro-4-hydroxy-3-phenylpyridazin),0.0,2.0,2.0
+544,RF-0507-001-PPP,Bispyribac (sum),"Bispyribac (sum of bispyribac, its salts and its esters, expressed as bispyribac)",0.0,2.0,2.0
+165,RF-0073-001-PPP,Chlorbenside,Chlorbenside,0.0,2.0,2.0
+179,RF-0095-001-PPP,Cinidon-ethyl (sum),Cinidon-ethyl (sum of cinidon ethyl and its E-isomer),0.0,2.0,2.0
+16,RF-00002606-PAR,Ametoctradin (sum),"Ametoctradin, metabolite 4-(7-amino-5-ethyl [1,2,4]triazolo, [1,5-a]pyrimidin-6-yl) butanoic acid (M650F01) and metabolite 6-(7-amino-5-ethyl [1,2,4]triazolo [1,5-a]pyrimidin-6-yl) hexanoic acid (M650F06), expressed as ametoctradin",0.0,2.0,2.0
+632,RF-0670-001-PPP,Famphur,Famphur,0.0,1.0,1.0
+292,RF-0215-002-PPP,Fluroxypyr (sum),Fluroxypyr-Meptyl,0.0,1.0,1.0
+38,RF-00003343-PAR,Dinoterb (sum),"Dinoterb (sum of dinoterb, its salts and esters, expressed as dinoterb)",0.0,1.0,1.0
+576,RF-0574-001-PPP,Crotoxyphos,Crotoxyphos,0.0,1.0,1.0
+60,RF-00004661-PAR,Fluopyram-benzamide (M25),Fluopyram-benzamide (M25),0.0,1.0,1.0
+546,RF-0513-001-PPP,Bromfenvinfos,Bromfenvinfos,0.0,1.0,1.0
+716,RF-0844-001-PPP,Phenkapton,Phenkapton,0.0,1.0,1.0
+98,RF-00012044-PAR,Carbetamide (sum),Carbetamide (sum of carbetamide and its S isomer),0.0,1.0,1.0
+101,RF-00012291-PAR,Cyflufenamid (sum),"Sum of cyflufenamid (Z-isomer), its E-isomer and metabolite 149-F1, expressed as cyflufenamid",0.0,1.0,1.0
+104,RF-00013463-PAR,Tefluthrin (sum),Tefluthrin (tefluthrin including other mixtures of constituent isomers (sum of isomers)),0.0,1.0,1.0
+112,RF-0013-001-PPP,Acequinocyl,Acequinocyl,0.0,1.0,1.0
+126,RF-0023-001-PPP,Aminopyralid,Aminopyralid,0.0,1.0,1.0
+373,RF-0303-003-PPP,Milbemectin (sum),Milbemectin A4,0.0,1.0,1.0
+372,RF-0303-002-PPP,Milbemectin (sum),Milbemectin A3,0.0,1.0,1.0
+198,RF-0116-001-PPP,Dalapon,Dalapon,0.0,1.0,1.0
+237,RF-0151-001-PPP,Dithiocarbamates (sum),"Dithiocarbamates (Dithiocarbamates expressed as CS2, including Maneb, Mancozeb, Metiram, Propineb, Thiram and Ziram)",0.0,1.0,1.0
+221,RF-0138-001-PPP,Dimethipin,Dimethipin,0.0,1.0,1.0

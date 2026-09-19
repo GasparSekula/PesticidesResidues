@@ -1,0 +1,69 @@
+﻿;pesticide;name_fit;mrl;2009;2010;2012;2013;2015;2016;2019;2022;2025;2028
+1;Abamectin;Abamectin (sum);0.01;2;0;0;0;0;0;0;0;0;0
+2;Azinphos-ethyl;Azinphos-ethyl;0.01;1;0;2;0;0;0;0;0;0;0
+3;Azinphos-methyl;Azinphos-methyl;0.01;0;1;0;2;0;0;0;0;0;0
+4;Benzalkonium chloride;Benzalkonium chloride (BAC);0.1;0;0;0;0;0;0;0;0;0;2
+5;Bifenthrin;Bifenthrin (sum of isomers);0.2;2;2;2;2;2;2;2;2;2;2
+6;Bixafen;Bixafen;0.2;0;0;1;1;0;0;0;0;0;0
+7;Boscalid;Boscalid;0.02;0;0;1;1;0;0;0;0;0;0
+8;Camphechlor;Camphechlor (chlorinated camphen...);0.01;1;1;0;0;0;0;0;0;0;0
+9;Carbendazim;Carbendazim;0.05;0;0;0;1;0;0;0;0;0;0
+10;Chlorate;Chlorate;0.1;0;0;0;0;0;0;0;0;0;2
+11;Chlordane;Chlordane;0.002;1;2;2;2;2;2;2;2;2;2
+12;Chlorobenzilate;Chlorobenzilate;0.1;2;1;1;1;0;0;0;0;0;0
+13;Chlormequat;Chlormequat;0.5;0;0;0;1;0;0;0;0;2;2
+14;Chlorpropham;Chlorpropham;0.05;0;0;1;1;0;0;0;0;0;0
+15;Chlorpyrifos;Chlorpyrifos;0.01;2;2;2;2;2;2;2;2;2;2
+16;Chlorpyrifos-methyl;Chlorpyrifos-methyl;0.01;2;2;2;2;2;2;2;2;2;2
+17;Copper compounds;Copper compounds (copper);2;0;0;0;0;0;0;0;0;2;2
+18;Cyfluthrin;Cyfluthrin;0.02;2;2;2;2;0;0;0;0;0;0
+19;Cypermethrin;Cypermethrin (sum of isomers);0.05;2;2;2;2;2;2;2;2;2;2
+20;DDT;DDT (sum);0.04;2;2;2;2;2;2;2;2;2;2
+21;Deltamethrin;Deltamethrin (cis-deltamethrin);0.05;2;2;2;2;2;2;2;2;2;2
+22;Diazinon;Diazinon;0.02;0;2;2;2;2;2;2;2;2;2
+23;Didecyldimethylammonium chloride;Didecyldimethylammonium chloride (DDAC mixture);0.1;0;0;0;0;0;0;0;0;0;2
+24;Dieldrin;Dieldrin;0.006;2;2;2;2;2;2;2;2;2;2
+25;Endosulfan;Endosulfan (sum);0.05;2;2;2;2;2;2;2;2;2;2
+26;Endrin;Endrin;0.0008;2;2;2;2;0;0;0;0;0;0
+27;Esfenvalerate;Esfenvalerate;0.04;0;0;2;0;0;0;0;0;0;0
+28;Etofenprox;Etofenprox;0.07;0;0;1;1;0;0;0;0;0;0
+29;Famoxadone;Famoxadone;0.03;0;0;1;1;2;2;2;2;2;2
+30;Fenpropimorph;Fenpropimorph (sum of isomers);0.01;0;0;0;1;0;0;0;0;0;0
+31;Fenthion;Fenthion;0.01;2;2;2;2;0;0;0;0;0;0
+32;Fenvalerate;Fenvalerate;0.04;2;2;2;2;2;2;2;2;2;2
+33;Fipronil;Fipronil;0.005;0;0;0;0;0;0;2;2;2;2
+34;Fluazifop-P;Fluazifop-P-butyl;0.08;0;0;0;1;0;0;0;0;0;0
+35;Fluquinconazole;Fluquinconazole;0.01;0;0;1;1;0;0;0;0;0;0
+36;Fluopyram;Fluopyram;0.07;0;0;0;1;0;0;0;0;0;0
+37;Flusilazole;Flusilazole;0.02;0;0;0;1;0;0;0;0;0;0
+38;Glyphosate;Glyphosate;0.05;0;0;0;0;0;0;2;2;2;2
+39;Glufosinate;Glufosinate;0.03;0;0;0;0;0;0;0;2;2;2
+40;Haloxyfop;Haloxyfop including haloxyfop-R;0.002;0;0;1;1;0;0;0;0;0;0
+41;Heptachlor;Heptachlor;0.004;2;2;2;2;2;2;2;2;2;2
+42;Hexachlorobenzene;Hexachlorobenzene;0.005;2;2;2;2;2;2;2;2;2;2
+43;Hexachlorocyclohexane alpha;Hexachlorocyclohexane (HCH), alpha-isomer;0.01;2;2;2;2;2;2;2;2;2;2
+44;Hexachlorocyclohexane beta;Hexachlorocyclohexane (HCH), beta-isomer;0.01;2;2;2;2;2;2;2;2;2;2
+45;Indoxacarb;Indoxacarb (sum);0.01;0;0;1;1;2;2;2;2;2;2
+46;Ioxynil;Brak w tabeli (Not in list);0.01;0;0;0;1;0;0;0;0;0;0
+47;Lindane;Lindane (Gamma-isomer of HCH);0.01;2;2;2;2;2;2;2;2;2;2
+48;Maleic Hydrazide;Maleic hydrazide;0.07;0;0;2;1;0;0;0;0;0;0
+49;Mefentrifluconazole;Brak w tabeli (Not in list);0.03;0;0;0;0;0;0;0;0;0;2
+50;Metaflumizone;Metaflumizone (sum of E- and Z- isomers);0.02;0;0;2;1;0;0;0;0;0;0
+51;Mepiquat;Mepiquat (sum);0.07;0;0;0;0;0;0;0;0;2;2
+52;Methidathion;Methidathion;0.02;2;2;2;2;0;0;0;0;0;0
+53;Methoxychlor;Methoxychlor;0.01;2;2;2;2;2;2;2;2;2;2
+54;Parathion;Parathion;0.05;2;2;2;2;2;2;2;2;2;2
+55;Parathion-methyl;Parathion-methyl;0.01;2;2;2;2;0;0;0;0;0;0
+56;Pendimethalin;Pendimethalin;0.02;0;0;0;0;0;0;0;2;2;2
+57;Permethrin;Permethrin (sum of isomers);0.05;2;2;2;2;2;2;2;2;2;2
+58;Pirimiphos-methyl;Pirimiphos-methyl;0.01;2;2;2;2;2;2;2;2;2;2
+59;Prochloraz;Prochloraz;0.03;0;0;0;1;0;0;0;0;0;0
+60;Profenofos;Profenofos;0.01;2;2;2;2;0;0;0;0;0;0
+61;Pyrazophos;Pyrazophos;0.01;2;2;2;2;0;0;0;0;0;0
+62;Quintozene;Quintozene;0.01;0;1;0;0;0;0;0;0;0;0
+63;Resmethrin;Resmethrin (sum of isomers);0.02;2;1;2;2;0;0;0;0;0;0
+64;Spiroxamine;Spiroxamine (sum of isomers);0.015;0;0;0;1;0;0;0;0;0;0
+65;tau-Fluvalinate;Fluvalinate (sum of isomers);0.03;0;0;1;1;0;0;0;0;0;0
+66;Tecnazene;Tecnazene;0.01;0;1;0;0;0;0;0;0;0;0
+67;Tetraconazole;Tetraconazole (sum of constituent isomers);0.02;0;0;1;1;0;0;0;0;0;0
+68;Triazophos;Triazophos;0.01;2;2;2;2;0;0;0;0;0;0

@@ -1,451 +1,1156 @@
-,sampCountry,year,name,Number of samples with pesticide
-0,AT,2011,Hexachlorobenzene,2
-1,AT,2012,Hexachlorobenzene,1
-2,AT,2015,Hexachlorobenzene,7
-3,AT,2022,Copper compounds,10
-4,BE,2011,HCH-beta,6
-5,BE,2011,DDT (sum),4
-6,BE,2011,"DDE, p,p-",3
-7,BE,2011,Dieldrin,3
-8,BE,2011,Dieldrin (sum),3
-9,BE,2011,Hexachlorobenzene,3
-10,BE,2011,"DDE, o,p-",2
-11,BE,2011,Chlordane (sum),1
-12,BE,2011,Heptachlor (sum),1
-13,BE,2011,Heptachlor epoxide,1
-14,BE,2012,HCH-beta,1
-15,BE,2012,Hexachlorobenzene,1
-16,BE,2013,Heptachlor (sum),4
-17,BE,2013,Endosulfan (sum),3
-18,BE,2013,"Endosulfan, alpha-",3
-19,BE,2013,HCH-beta,2
-20,BE,2013,Hexachlorobenzene,2
-21,BE,2013,Methoxychlor,1
-22,BE,2014,HCH-beta,5
-23,BE,2014,"DDE, p,p-",2
-24,BE,2014,DDT (sum),2
-25,BE,2014,Dieldrin,2
-26,BE,2014,Dieldrin (sum),2
-27,BE,2014,Hexachlorobenzene,2
-28,BE,2014,"DDT, o,p-",1
-29,BE,2014,Endosulfan (sum),1
-30,BE,2014,"Endosulfan, alpha-",1
-31,BE,2014,"Endosulfan, beta-",1
-32,BE,2015,DDT (sum),2
-33,BE,2015,"DDE, o,p-",1
-34,BE,2015,"DDE, p,p-",1
-35,BE,2015,HCH-beta,1
-36,BE,2016,DDT (sum),5
-37,BE,2016,"DDT, o,p-",3
-38,BE,2016,"DDE, o,p-",2
-39,BE,2016,"DDT, p,p-",2
-40,BE,2016,Dieldrin,1
-41,BE,2016,Dieldrin (sum),1
-42,BE,2016,HCH-beta,1
-43,BE,2016,Hexachlorobenzene,1
-44,BE,2023,Chlorate,1
-45,BE,2023,"DDE, p,p-",1
-46,BE,2023,DDT (sum),1
-47,CY,2011,"DDE, p,p-",1
-48,CY,2011,DDT (sum),1
-49,CY,2013,"DDE, p,p-",1
-50,CY,2013,DDT (sum),1
-51,CY,2014,"DDE, p,p-",3
-52,CY,2014,DDT (sum),3
-53,CY,2015,"DDE, p,p-",1
-54,CY,2015,DDT (sum),1
-55,CY,2016,"DDE, p,p-",2
-56,CY,2016,DDT (sum),2
-57,CY,2023,Copper compounds,5
-58,CZ,2017,"DDE, p,p-",2
-59,CZ,2017,"DDT, p,p-",2
-60,CZ,2017,Hexachlorobenzene,2
-61,CZ,2017,Lindane,2
-62,CZ,2018,"DDE, p,p-",1
-63,CZ,2018,DDT (sum),1
-64,CZ,2019,"DDE, p,p-",1
-65,CZ,2019,DDT (sum),1
-66,CZ,2021,"DDE, p,p-",1
-67,DE,2011,Hexachlorobenzene,170
-68,DE,2011,DDT (sum),126
-69,DE,2011,Lindane,2
-70,DE,2011,HCH-alpha,1
-71,DE,2011,HCH-beta,1
-72,DE,2012,Hexachlorobenzene,152
-73,DE,2012,DDT (sum),101
-74,DE,2012,Copper compounds,67
-75,DE,2012,Mercury compounds,12
-76,DE,2012,DDAC (mixture),5
-77,DE,2012,Endrin,3
-78,DE,2012,HCH-beta,1
-79,DE,2012,Permethrin (sum),1
-80,DE,2013,Hexachlorobenzene,191
-81,DE,2013,DDT (sum),92
-82,DE,2013,Copper compounds,88
-83,DE,2013,Mercury compounds,5
-84,DE,2013,Benzalkonium chloride,3
-85,DE,2013,Heptachlor (sum),3
-86,DE,2013,Lindane,2
-87,DE,2013,DDAC (mixture),1
-88,DE,2014,Hexachlorobenzene,186
-89,DE,2014,DDT (sum),84
-90,DE,2014,Benzalkonium chloride,24
-91,DE,2014,DDAC (mixture),11
-92,DE,2014,Copper compounds,5
-93,DE,2014,Lindane,5
-94,DE,2014,Permethrin (sum),3
-95,DE,2014,BAC 18,2
-96,DE,2014,Mercury compounds,1
-97,DE,2015,Hexachlorobenzene,78
-98,DE,2015,DDT (sum),51
-99,DE,2015,Copper compounds,23
-100,DE,2015,Benzalkonium chloride,16
-101,DE,2015,DDAC (mixture),10
-102,DE,2015,Lindane,5
-103,DE,2015,Mercury compounds,2
-104,DE,2015,HCH-beta,1
-105,DE,2015,Permethrin (sum),1
-106,DE,2016,Hexachlorobenzene,66
-107,DE,2016,DDT (sum),26
-108,DE,2016,Copper compounds,9
-109,DE,2016,Benzalkonium chloride,1
-110,DE,2016,Chlorate,1
-111,DE,2016,Cypermethrin (sum),1
-112,DE,2016,Deltamethrin,1
-113,DE,2016,Lindane,1
-114,DE,2017,Copper compounds,40
-115,DE,2017,Hexachlorobenzene,16
-116,DE,2017,"DDE, p,p-",15
-117,DE,2017,DDT (sum),12
-118,DE,2017,"DDD, p,p-",3
-119,DE,2017,"DDT, p,p-",2
-120,DE,2017,BAC 12,1
-121,DE,2017,Benzalkonium chloride,1
-122,DE,2017,"DDE, o,p-",1
-123,DE,2017,"DDT, o,p-",1
-124,DE,2017,Lindane,1
-125,DE,2017,Tetraconazole (sum),1
-126,DE,2018,Copper compounds,19
-127,DE,2018,"DDE, p,p-",8
-128,DE,2018,DDT (sum),8
-129,DE,2018,Hexachlorobenzene,2
-130,DE,2018,BAC 14,1
-131,DE,2018,Benzalkonium chloride,1
-132,DE,2019,Copper compounds,60
-133,DE,2019,Hexachlorobenzene,22
-134,DE,2019,DDT (sum),5
-135,DE,2019,"DDE, p,p-",4
-136,DE,2019,Bromide ion,3
-137,DE,2019,Azinphos-ethyl,2
-138,DE,2019,"DDT, p,p-",2
-139,DE,2019,Fenthion,1
-140,DE,2021,Copper compounds,28
-141,DE,2021,"DDE, p,p-",3
-142,DE,2021,DDT (sum),3
-143,DE,2021,Lindane,3
-144,DE,2021,DDAC (mixture),2
-145,DE,2021,DDAC-C10,2
-146,DE,2021,BAC 12,1
-147,DE,2021,BAC 14,1
-148,DE,2021,Benzalkonium chloride,1
-149,DE,2021,Chlorate,1
-150,DE,2021,Hexachlorobenzene,1
-151,DE,2022,Hexachlorobenzene,15
-152,DE,2022,Copper compounds,14
-153,DE,2022,Benzalkonium chloride,3
-154,DE,2022,BAC 12,2
-155,DE,2022,BAC 14,2
-156,DE,2022,DDAC (mixture),2
-157,DE,2022,DDAC-C10,2
-158,DE,2023,Copper compounds,11
-159,DE,2023,BAC 12,2
-160,DE,2023,Benzalkonium chloride,2
-161,DE,2023,BAC 14,1
-162,DK,2020,Copper compounds,7
-163,DK,2021,Copper compounds,7
-164,DK,2021,Mercury compounds,4
-165,DK,2022,Copper compounds,1
-166,DK,2023,Copper compounds,9
-167,DK,2023,Mercury compounds,1
-168,ES,2013,"DDE, p,p-",1
-169,ES,2013,DDT (sum),1
-170,FR,2013,Heptachlor (sum),2
-171,FR,2013,Heptachlor epoxide,2
-172,FR,2018,Deltamethrin,1
-173,FR,2019,2-phenylphenol (sum),1
-174,FR,2019,Dieldrin,1
-175,FR,2019,Dieldrin (sum),1
-176,FR,2021,Chlorpyrifos-methyl,1
-177,FR,2022,Dieldrin,1
-178,FR,2022,Dieldrin (sum),1
-179,GB,2016,BAC 12,3
-180,GB,2016,Benzalkonium chloride,3
-181,GB,2017,BAC 12,2
-182,GB,2017,Benzalkonium chloride,2
-183,GB,2018,BAC 12,6
-184,GB,2018,Benzalkonium chloride,6
-185,GB,2019,BAC 12,2
-186,GB,2019,BAC 14,1
-187,HR,2015,Hexachlorobenzene,7
-188,HR,2015,Methoxychlor,3
-189,HR,2015,Chlorobenzilate,1
-190,HR,2015,"DDD, p,p-",1
-191,HR,2015,"DDE, p,p-",1
-192,HR,2015,"DDT, o,p-",1
-193,HR,2015,"DDT, p,p-",1
-194,HR,2015,"Endosulfan, beta-",1
-195,HR,2015,HCH-alpha,1
-196,HU,2014,Famoxadone,1
-197,HU,2020,2-phenylphenol (sum),13
-198,HU,2020,Aldrin,13
-199,HU,2020,Azinphos-ethyl,13
-200,HU,2020,Azinphos-methyl,13
-201,HU,2020,Bifenthrin (sum),13
-202,HU,2020,Boscalid,13
-203,HU,2020,Chlorobenzilate,13
-204,HU,2020,Chlorpyrifos,13
-205,HU,2020,Chlorpyrifos-methyl,13
-206,HU,2020,Cyfluthrin (sum),13
-207,HU,2020,Cypermethrin (sum),13
-208,HU,2020,"DDD, p,p-",13
-209,HU,2020,"DDE, p,p-",13
-210,HU,2020,DDT (sum),13
-211,HU,2020,"DDT, o,p-",13
-212,HU,2020,"DDT, p,p-",13
-213,HU,2020,Deltamethrin,13
-214,HU,2020,Diazinon,13
-215,HU,2020,Dieldrin,13
-216,HU,2020,Dieldrin (sum),13
-217,HU,2020,Diphenylamine,13
-218,HU,2020,Endosulfan (sum),13
-219,HU,2020,"Endosulfan, alpha-",13
-220,HU,2020,"Endosulfan, beta-",13
-221,HU,2020,Endosulfansulfate,13
-222,HU,2020,Endrin,13
-223,HU,2020,Etofenprox,13
-224,HU,2020,Famoxadone,13
-225,HU,2020,Fenpropimorph ,13
-226,HU,2020,Fenthion,13
-227,HU,2020,Fenthion (sum),13
-228,HU,2020,Fenthion-Oxon,13
-229,HU,2020,Fenthion-Oxonsulfoxide,13
-230,HU,2020,Fenthion-Sulfon,13
-231,HU,2020,Fenthion-Sulfoxide,13
-232,HU,2020,Fenvalerate,13
-233,HU,2020,Fipronil,13
-234,HU,2020,Fipronil (sum),13
-235,HU,2020,Fipronil-Sulfone,13
-236,HU,2020,Fluquinconazole,13
-237,HU,2020,Fluvalinate (sum),13
-238,HU,2020,HCH-alpha,13
-239,HU,2020,HCH-beta,13
-240,HU,2020,Heptachlor,13
-241,HU,2020,Heptachlor (sum),13
-242,HU,2020,Hexachlorobenzene,13
-243,HU,2020,Indoxacarb,13
-244,HU,2020,Lambda-cyhalothrin (sum),13
-245,HU,2020,Lindane,13
-246,HU,2020,Metaflumizone (sum),13
-247,HU,2020,Methidathion,13
-248,HU,2020,Methoxychlor,13
-249,HU,2020,Parathion,13
-250,HU,2020,Parathion-methyl (sum),13
-251,HU,2020,Pendimethalin,13
-252,HU,2020,Permethrin (sum),13
-253,HU,2020,Pirimiphos-methyl,13
-254,HU,2020,Prochloraz,13
-255,HU,2020,Profenofos,13
-256,HU,2020,Pyrazophos,13
-257,HU,2020,Quintozene,13
-258,HU,2020,Quintozene (sum),13
-259,HU,2020,Tetraconazole (sum),13
-260,HU,2020,Triazophos,13
-261,HU,2021,Aldrin,7
-262,HU,2021,Azinphos-ethyl,7
-263,HU,2021,Azinphos-methyl,7
-264,HU,2021,Boscalid,7
-265,HU,2021,Chlorobenzilate,7
-266,HU,2021,Chlorpyrifos,7
-267,HU,2021,Chlorpyrifos-methyl,7
-268,HU,2021,Cypermethrin (sum),7
-269,HU,2021,"DDD, p,p-",7
-270,HU,2021,"DDE, p,p-",7
-271,HU,2021,DDT (sum),7
-272,HU,2021,"DDT, o,p-",7
-273,HU,2021,"DDT, p,p-",7
-274,HU,2021,Deltamethrin,7
-275,HU,2021,Diazinon,7
-276,HU,2021,Dieldrin,7
-277,HU,2021,Dieldrin (sum),7
-278,HU,2021,Diphenylamine,7
-279,HU,2021,Endosulfan (sum),7
-280,HU,2021,"Endosulfan, alpha-",7
-281,HU,2021,"Endosulfan, beta-",7
-282,HU,2021,Endosulfansulfate,7
-283,HU,2021,Endrin,7
-284,HU,2021,Etofenprox,7
-285,HU,2021,Famoxadone,7
-286,HU,2021,Fenpropimorph ,7
-287,HU,2021,Fenthion,7
-288,HU,2021,Fenthion (sum),7
-289,HU,2021,Fenthion-Oxon,7
-290,HU,2021,Fenthion-Oxonsulfoxide,7
-291,HU,2021,Fenthion-Sulfon,7
-292,HU,2021,Fenthion-Sulfoxide,7
-293,HU,2021,Fenvalerate,7
-294,HU,2021,Fipronil,7
-295,HU,2021,Fipronil (sum),7
-296,HU,2021,Fipronil-Sulfone,7
-297,HU,2021,Fluquinconazole,7
-298,HU,2021,HCH-alpha,7
-299,HU,2021,HCH-beta,7
-300,HU,2021,Heptachlor,7
-301,HU,2021,Heptachlor (sum),7
-302,HU,2021,Hexachlorobenzene,7
-303,HU,2021,Indoxacarb,7
-304,HU,2021,Lambda-cyhalothrin (sum),7
-305,HU,2021,Lindane,7
-306,HU,2021,Metaflumizone (sum),7
-307,HU,2021,Methidathion,7
-308,HU,2021,Methoxychlor,7
-309,HU,2021,Parathion,7
-310,HU,2021,Parathion-methyl (sum),7
-311,HU,2021,Pendimethalin,7
-312,HU,2021,Permethrin (sum),7
-313,HU,2021,Pirimiphos-methyl,7
-314,HU,2021,Profenofos,7
-315,HU,2021,Pyrazophos,7
-316,HU,2021,Quintozene,7
-317,HU,2021,Quintozene (sum),7
-318,HU,2021,Tetraconazole (sum),7
-319,HU,2021,Triazophos,7
-320,HU,2021,Cyfluthrin (sum),6
-321,HU,2021,Carbendazim,5
-322,HU,2023,Aldrin,20
-323,HU,2023,"DDD, p,p-",20
-324,HU,2023,"DDE, o,p-",20
-325,HU,2023,"DDE, p,p-",20
-326,HU,2023,DDT (sum),20
-327,HU,2023,"DDT, o,p-",20
-328,HU,2023,"DDT, p,p-",20
-329,HU,2023,Dieldrin,20
-330,HU,2023,Endosulfan (sum),20
-331,HU,2023,"Endosulfan, alpha-",20
-332,HU,2023,"Endosulfan, beta-",20
-333,HU,2023,Endosulfansulfate,20
-334,HU,2023,HCH-alpha,20
-335,HU,2023,HCH-beta,20
-336,HU,2023,Heptachlor,20
-337,HU,2023,Hexachlorobenzene,20
-338,HU,2023,Lindane,20
-339,HU,2023,Methoxychlor,20
-340,HU,2023,Oxychlordane,20
-341,HU,2023,2-phenylphenol (sum),19
-342,HU,2023,Bifenthrin (sum),19
-343,HU,2023,Boscalid,19
-344,HU,2023,Chlorobenzilate,19
-345,HU,2023,Chlorpropham,19
-346,HU,2023,Chlorpyrifos,19
-347,HU,2023,Chlorpyrifos-methyl,19
-348,HU,2023,Cyfluthrin (sum),19
-349,HU,2023,Deltamethrin,19
-350,HU,2023,Diazinon,19
-351,HU,2023,Diphenylamine,19
-352,HU,2023,Etofenprox,19
-353,HU,2023,Fipronil,19
-354,HU,2023,Fipronil-Sulfone,19
-355,HU,2023,Fluquinconazole,19
-356,HU,2023,Indoxacarb,19
-357,HU,2023,Lambda-cyhalothrin (sum),19
-358,HU,2023,Parathion,19
-359,HU,2023,Permethrin (sum),19
-360,HU,2023,Quintozene,19
-361,HU,2023,Quintozene (sum),19
-362,HU,2023,Resmethrin (sum),19
-363,HU,2023,Triazophos,19
-364,HU,2023,Azinphos-ethyl,18
-365,HU,2023,Azinphos-methyl,18
-366,HU,2023,Carbendazim,18
-367,HU,2023,Famoxadone,18
-368,HU,2023,Fenthion,18
-369,HU,2023,Fenthion (sum),18
-370,HU,2023,Fenthion-Oxon,18
-371,HU,2023,Fenthion-Oxonsulfoxide,18
-372,HU,2023,Fenthion-Sulfon,18
-373,HU,2023,Fenthion-Sulfoxide,18
-374,HU,2023,Fipronil (sum),18
-375,HU,2023,Fluopyram,18
-376,HU,2023,Methidathion,18
-377,HU,2023,Parathion-methyl (sum),18
-378,HU,2023,Pendimethalin,18
-379,HU,2023,Pirimiphos-methyl,18
-380,HU,2023,Prochloraz,18
-381,HU,2023,Profenofos,18
-382,HU,2023,Pyrazophos,18
-383,HU,2023,Bixafen,17
-384,HU,2023,Flusilazole,17
-385,HU,2023,Heptachlor (sum),5
-386,IE,2011,Bifenthrin (sum),1
-387,IE,2016,"2,4-D",1
-388,IE,2016,MCPA,1
-389,IE,2016,Mecoprop,1
-390,IE,2017,Benzalkonium chloride,2
-391,IE,2021,Chlorate,25
-392,IE,2022,Chlorate,3
-393,IE,2023,Chlorate,2
-394,IT,2016,BAC 12,4
-395,IT,2016,BAC 14,3
-396,IT,2016,Benzalkonium chloride,1
-397,IT,2017,BAC 12,4
-398,IT,2022,2-phenylphenol (sum),2
-399,IT,2022,Copper compounds,2
-400,IT,2023,Copper compounds,2
-401,IT,2023,Fenthion (sum),1
-402,NL,2021,Chlorate,1
-403,NL,2022,Bromide ion,19
-404,NL,2022,Chlorate,4
-405,NO,2023,Copper compounds,2
-406,PT,2023,Chlorate,1
-407,RO,2011,"DDE, p,p-",7
-408,RO,2011,HCH-alpha,2
-409,RO,2011,Chlordane (sum),1
-410,RO,2011,DDT (sum),1
-411,RO,2011,HCH-beta,1
-412,RO,2011,Heptachlor,1
-413,RO,2011,Hexachlorobenzene,1
-414,RO,2012,DDT (sum),10
-415,RO,2012,HCH-alpha,5
-416,RO,2012,Heptachlor (sum of isomers),4
-417,RO,2012,HCH-beta,1
-418,RO,2013,DDT (sum),5
-419,RO,2013,HCH-beta,1
-420,RO,2014,DDT (sum),3
-421,RO,2014,HCH-alpha,3
-422,RO,2014,Dieldrin (sum),1
-423,RO,2014,Heptachlor (sum of isomers),1
-424,RO,2014,Hexachlorobenzene,1
-425,RO,2015,DDT (sum),7
-426,RO,2015,Chlordane (sum),6
-427,RO,2015,HCH-alpha,4
-428,RO,2015,Hexachlorobenzene,3
-429,RO,2015,Dieldrin (sum),2
-430,RO,2015,"DDT, p,p-",1
-431,RO,2015,Diazinon,1
-432,RO,2015,Heptachlor (sum of isomers),1
-433,RO,2015,Lindane,1
-434,RO,2016,Chlordane (sum),6
-435,RO,2016,DDT (sum),5
-436,RO,2016,Hexachlorobenzene,4
-437,RO,2016,HCH-alpha,3
-438,RO,2016,Heptachlor (sum of isomers),2
-439,RO,2017,HCH-alpha,1
-440,RO,2017,Hexachlorobenzene,1
-441,RO,2019,DDT (sum),1
-442,SK,2013,"DDE, p,p-",13
-443,SK,2013,DDT (sum),13
-444,SK,2013,DDAC (mixture),3
-445,SK,2016,"DDE, p,p-",10
-446,SK,2016,DDT (sum),10
-447,SK,2016,Hexachlorobenzene,2
-448,SK,2019,"DDE, p,p-",1
-449,SK,2019,DDT (sum),1
+,sampCountry,year,tag,num_samples,above_mrl_samples,above_mrl_mean,above_mrl_std,between_loq_and_mrl_samples,between_loq_and_mrl_mean,between_loq_and_mrl_std
+28,AT,2011,Hexachlorobenzene,21,0.0,0.0,0.0,2.0,0.0004,0.0001
+87,AT,2012,Hexachlorobenzene,21,0.0,0.0,0.0,1.0,0.0003,0.0
+306,AT,2015,Hexachlorobenzene,75,7.0,0.0159,0.0078,0.0,0.0,0.0
+602,AT,2022,Copper compounds,10,0.0,0.0,0.0,10.0,0.0457,0.0148
+751,BE,2011,Chlordane (sum),21,1.0,0.0415,0.0,0.0,0.0,0.0
+755,BE,2011,DDT (sum),21,2.0,0.0533,0.0123,4.0,0.0158,0.0031
+758,BE,2011,Dieldrin (sum),21,3.0,0.0139,0.0025,0.0,0.0,0.0
+764,BE,2011,HCH-beta,21,5.0,0.0198,0.0093,1.0,0.01,0.0
+765,BE,2011,Heptachlor (sum),21,1.0,0.0296,0.0,0.0,0.0,0.0
+766,BE,2011,Hexachlorobenzene,21,3.0,0.0112,0.0009,0.0,0.0,0.0
+788,BE,2012,HCH-beta,18,1.0,0.012,0.0,0.0,0.0,0.0
+789,BE,2012,Heptachlor (sum),18,1.0,0.0153,0.0,0.0,0.0,0.0
+790,BE,2012,Hexachlorobenzene,18,1.0,0.01,0.0,0.0,0.0,0.0
+812,BE,2013,Endosulfan (sum),45,0.0,0.0,0.0,3.0,0.0198,0.0031
+821,BE,2013,HCH-beta,45,2.0,0.0201,0.0053,0.0,0.0,0.0
+822,BE,2013,Heptachlor (sum),45,4.0,0.0172,0.0079,0.0,0.0,0.0
+823,BE,2013,Hexachlorobenzene,45,2.0,0.0182,0.0112,0.0,0.0,0.0
+826,BE,2013,Methoxychlor,45,1.0,0.0348,0.0,0.0,0.0,0.0
+841,BE,2014,DDT (sum),49,0.0,0.0,0.0,3.0,0.0007,0.0004
+844,BE,2014,Dieldrin (sum),49,0.0,0.0,0.0,2.0,0.0011,0.0008
+845,BE,2014,Endosulfan (sum),49,0.0,0.0,0.0,2.0,0.0005,0.0002
+851,BE,2014,HCH-beta,49,0.0,0.0,0.0,5.0,0.0006,0.0005
+853,BE,2014,Hexachlorobenzene,49,0.0,0.0,0.0,2.0,0.0009,0.0006
+865,BE,2015,DDT (sum),12,0.0,0.0,0.0,2.0,0.0114,0.0004
+875,BE,2015,HCH-beta,12,1.0,0.0105,0.0,0.0,0.0,0.0
+895,BE,2016,DDT (sum),40,1.0,0.058,0.0,5.0,0.0234,0.0084
+899,BE,2016,Dieldrin (sum),40,1.0,0.0138,0.0,0.0,0.0,0.0
+911,BE,2016,HCH-beta,40,1.0,0.011,0.0,0.0,0.0,0.0
+913,BE,2016,Hexachlorobenzene,40,1.0,0.0307,0.0,0.0,0.0,0.0
+1056,BE,2023,DDT (sum),30,0.0,0.0,0.0,1.0,0.035,0.0
+1050,BE,2023,Chlorate,20,0.0,0.0,0.0,1.0,0.011,0.0
+1084,BE,2024,DDT (sum),30,0.0,0.0,0.0,1.0,0.014,0.0
+1078,BE,2024,Chlorate,13,0.0,0.0,0.0,1.0,0.022,0.0
+1128,CY,2011,DDT (sum),21,0.0,0.0,0.0,1.0,0.0021,0.0002
+1400,CY,2013,DDT (sum),30,0.0,0.0,0.0,1.0,0.0021,0.0002
+1572,CY,2014,DDT (sum),20,0.0,0.0,0.0,3.0,0.004,0.0008
+1632,CY,2015,DDT (sum),16,0.0,0.0,0.0,1.0,0.0036,0.0002
+1726,CY,2016,DDT (sum),25,0.0,0.0,0.0,2.0,0.005,0.0018
+2355,CY,2023,Copper compounds,5,0.0,0.0,0.0,5.0,0.0436,0.0047
+2364,CY,2024,Copper compounds,5,0.0,0.0,0.0,4.0,0.0422,0.0114
+2565,CZ,2017,DDT (sum),36,0.0,0.0,0.0,2.0,0.0,0.0
+2579,CZ,2017,Hexachlorobenzene,36,0.0,0.0,0.0,2.0,0.0,0.0
+2581,CZ,2017,Lindane,36,0.0,0.0,0.0,2.0,0.0,0.0
+2596,CZ,2018,DDT (sum),10,0.0,0.0,0.0,1.0,0.001,0.0
+2622,CZ,2019,DDT (sum),14,0.0,0.0,0.0,1.0,0.002,0.0
+2674,CZ,2021,DDT (sum),12,0.0,0.0,0.0,1.0,0.001,0.0
+2773,CZ,2024,DDT (sum),25,0.0,0.0,0.0,2.0,0.0046,0.0033
+2771,CZ,2024,Copper compounds,12,0.0,0.0,0.0,7.0,0.0757,0.0251
+2820,DE,2011,DDT (sum),211,0.0,0.0,0.0,126.0,0.001,0.0013
+2836,DE,2011,HCH-alpha,211,0.0,0.0,0.0,1.0,0.0,0.0
+2837,DE,2011,HCH-beta,211,0.0,0.0,0.0,1.0,0.0006,0.0
+2840,DE,2011,Hexachlorobenzene,211,0.0,0.0,0.0,170.0,0.0011,0.0011
+2844,DE,2011,Lindane,211,0.0,0.0,0.0,2.0,0.0006,0.0001
+2966,DE,2012,DDT (sum),373,0.0,0.0,0.0,101.0,0.0015,0.0035
+3071,DE,2012,Hexachlorobenzene,373,1.0,0.006,0.0,151.0,0.0005,0.0009
+3068,DE,2012,HCH-beta,372,0.0,0.0,0.0,1.0,0.0,0.0
+3006,DE,2012,Endrin,350,0.0,0.0,0.0,3.0,0.0001,0.0
+3144,DE,2012,Permethrin (sum),239,0.0,0.0,0.0,1.0,0.0005,0.0
+3098,DE,2012,Mercury compounds,158,0.0,0.0,0.0,12.0,0.0031,0.0016
+2951,DE,2012,Copper compounds,117,0.0,0.0,0.0,67.0,0.5248,0.2309
+3129,DE,2012,Not in list,42,12.0,0.3778,0.4904,0.0,0.0,0.0
+2965,DE,2012,DDAC (mix),18,4.0,23.1825,44.2045,1.0,0.029,0.0
+3284,DE,2013,DDT (sum),322,0.0,0.0,0.0,92.0,0.0008,0.0016
+3360,DE,2013,Lindane,322,0.0,0.0,0.0,2.0,0.0004,0.0004
+3345,DE,2013,Heptachlor (sum),319,0.0,0.0,0.0,3.0,0.0003,0.0002
+3346,DE,2013,Hexachlorobenzene,319,0.0,0.0,0.0,191.0,0.0004,0.0008
+3366,DE,2013,Mercury compounds,283,0.0,0.0,0.0,5.0,0.0054,0.0025
+3272,DE,2013,Copper compounds,278,0.0,0.0,0.0,88.0,0.0766,0.0494
+3243,DE,2013,Benzalkonium chloride,52,1.0,0.23,0.0,2.0,0.042,0.0396
+3283,DE,2013,DDAC (mix),52,1.0,1.72,0.0,0.0,0.0,0.0
+3511,DE,2014,DDT (sum),231,0.0,0.0,0.0,84.0,0.0005,0.0007
+3569,DE,2014,Lindane,230,0.0,0.0,0.0,5.0,0.0001,0.0
+3562,DE,2014,Hexachlorobenzene,212,0.0,0.0,0.0,186.0,0.0002,0.0002
+3595,DE,2014,Permethrin (sum),205,0.0,0.0,0.0,3.0,0.0011,0.0005
+3475,DE,2014,Benzalkonium chloride,67,17.0,1.9585,3.5192,7.0,0.0476,0.0209
+3510,DE,2014,DDAC (mix),64,11.0,6.6,10.0142,0.0,0.0,0.0
+3473,DE,2014,BAC 18,53,1.0,0.87,0.0,1.0,0.068,0.0
+3572,DE,2014,Mercury compounds,18,0.0,0.0,0.0,1.0,0.0017,0.0
+3504,DE,2014,Copper compounds,9,0.0,0.0,0.0,5.0,0.1794,0.0795
+3719,DE,2015,DDT (sum),322,0.0,0.0,0.0,51.0,0.0004,0.0007
+3843,DE,2015,Lindane,322,0.0,0.0,0.0,5.0,0.0,0.0
+3819,DE,2015,HCH-beta,306,0.0,0.0,0.0,1.0,0.0001,0.0
+3823,DE,2015,Hexachlorobenzene,289,0.0,0.0,0.0,78.0,0.0002,0.0002
+3897,DE,2015,Permethrin (sum),272,0.0,0.0,0.0,1.0,0.0013,0.0
+3665,DE,2015,Benzalkonium chloride,76,11.0,1.8975,1.7792,5.0,0.0484,0.0272
+3718,DE,2015,DDAC (mix),76,10.0,7.4252,7.0323,0.0,0.0,0.0
+3854,DE,2015,Mercury compounds,39,0.0,0.0,0.0,2.0,0.0066,0.0037
+3709,DE,2015,Copper compounds,28,0.0,0.0,0.0,23.0,0.063,0.0176
+4076,DE,2016,DDT (sum),307,0.0,0.0,0.0,26.0,0.0002,0.0003
+4191,DE,2016,Hexachlorobenzene,291,0.0,0.0,0.0,66.0,0.0001,0.0001
+4218,DE,2016,Lindane,286,0.0,0.0,0.0,1.0,0.0,0.0
+4071,DE,2016,Cypermethrin (sum),276,0.0,0.0,0.0,1.0,0.0016,0.0
+4078,DE,2016,Deltamethrin,276,0.0,0.0,0.0,1.0,0.0012,0.0
+4014,DE,2016,Benzalkonium chloride,114,1.0,0.15,0.0,0.0,0.0,0.0
+4043,DE,2016,Chlorate,66,0.0,0.0,0.0,1.0,0.018,0.0
+4061,DE,2016,Copper compounds,20,0.0,0.0,0.0,9.0,0.0582,0.0068
+4456,DE,2017,DDT (sum),177,0.0,0.0,0.0,16.0,0.0004,0.0007
+4565,DE,2017,Lindane,177,0.0,0.0,0.0,1.0,0.0,0.0
+4544,DE,2017,Hexachlorobenzene,172,0.0,0.0,0.0,16.0,0.0001,0.0
+4445,DE,2017,Copper compounds,55,0.0,0.0,0.0,40.0,0.3285,0.2326
+4665,DE,2017,Tetraconazole (sum),45,0.0,0.0,0.0,1.0,0.006,0.0
+4409,DE,2017,BAC 12,28,0.0,0.0,0.0,1.0,0.024,0.0
+4419,DE,2017,Benzalkonium chloride,9,0.0,0.0,0.0,1.0,0.024,0.0
+4753,DE,2018,DDT (sum),149,0.0,0.0,0.0,8.0,0.0114,0.0089
+4843,DE,2018,Hexachlorobenzene,148,0.0,0.0,0.0,2.0,0.0035,0.0021
+4700,DE,2018,BAC 14,69,0.0,0.0,0.0,1.0,0.014,0.0
+4708,DE,2018,Benzalkonium chloride,41,0.0,0.0,0.0,1.0,0.02,0.0
+4740,DE,2018,Copper compounds,40,0.0,0.0,0.0,19.0,0.0643,0.0381
+5119,DE,2019,DDT (sum),302,0.0,0.0,0.0,6.0,0.0057,0.0038
+5252,DE,2019,Hexachlorobenzene,302,0.0,0.0,0.0,22.0,0.0001,0.0
+5193,DE,2019,Fenthion (sum),225,0.0,0.0,0.0,1.0,0.0001,0.0
+5025,DE,2019,Azinphos-ethyl,217,0.0,0.0,0.0,2.0,0.0001,0.0001
+5103,DE,2019,Copper compounds,188,0.0,0.0,0.0,60.0,0.0673,0.0276
+5055,DE,2019,Bromide ion,5,3.0,0.97,0.2869,0.0,0.0,0.0
+5504,DE,2021,BAC 12,154,0.0,0.0,0.0,1.0,0.013,0.0
+5505,DE,2021,BAC 14,154,0.0,0.0,0.0,1.0,0.014,0.0
+5515,DE,2021,Benzalkonium chloride,154,0.0,0.0,0.0,1.0,0.027,0.0
+5577,DE,2021,DDAC (mix),154,0.0,0.0,0.0,2.0,0.0225,0.0133
+5578,DE,2021,DDT (sum),132,0.0,0.0,0.0,3.0,0.0072,0.0015
+5715,DE,2021,Lindane,132,0.0,0.0,0.0,3.0,0.0008,0.0001
+5689,DE,2021,Hexachlorobenzene,131,0.0,0.0,0.0,1.0,0.001,0.0
+5564,DE,2021,Copper compounds,44,0.0,0.0,0.0,28.0,0.0554,0.0105
+5546,DE,2021,Chlorate,15,0.0,0.0,0.0,1.0,0.015,0.0
+5983,DE,2022,DDAC (mix),288,0.0,0.0,0.0,2.0,0.057,0.0346
+5915,DE,2022,BAC 12,285,0.0,0.0,0.0,2.0,0.0245,0.0191
+5916,DE,2022,BAC 14,285,0.0,0.0,0.0,2.0,0.043,0.0438
+5926,DE,2022,Benzalkonium chloride,266,1.0,0.11,0.0,2.0,0.0115,0.0007
+6109,DE,2022,Hexachlorobenzene,190,0.0,0.0,0.0,15.0,0.0001,0.0
+5970,DE,2022,Copper compounds,30,0.0,0.0,0.0,14.0,0.0559,0.0056
+6324,DE,2023,BAC 12,159,0.0,0.0,0.0,2.0,0.012,0.0028
+6325,DE,2023,BAC 14,159,0.0,0.0,0.0,1.0,0.022,0.0
+6334,DE,2023,Benzalkonium chloride,119,0.0,0.0,0.0,2.0,0.023,0.0184
+6374,DE,2023,Copper compounds,34,0.0,0.0,0.0,11.0,0.0556,0.0051
+6652,DE,2024,BAC 12,168,0.0,0.0,0.0,1.0,0.01,0.0
+6660,DE,2024,Benzalkonium chloride,168,0.0,0.0,0.0,1.0,0.01,0.0
+6775,DE,2024,Hexachlorobenzene,106,0.0,0.0,0.0,5.0,0.0001,0.0
+6677,DE,2024,Chlorate,38,1.0,0.11,0.0,0.0,0.0,0.0
+6790,DE,2024,Mercury compounds,34,0.0,0.0,0.0,3.0,0.0019,0.0006
+6692,DE,2024,Copper compounds,29,0.0,0.0,0.0,10.0,0.058,0.0096
+7441,DK,2020,Copper compounds,7,0.0,0.0,0.0,7.0,0.04,0.0191
+7471,DK,2021,Copper compounds,8,0.0,0.0,0.0,7.0,0.0152,0.0099
+7485,DK,2021,Mercury compounds,8,0.0,0.0,0.0,4.0,0.0003,0.0001
+7502,DK,2022,Copper compounds,10,0.0,0.0,0.0,1.0,0.052,0.0
+7540,DK,2023,Copper compounds,9,0.0,0.0,0.0,9.0,0.0443,0.0082
+7558,DK,2023,Mercury compounds,9,0.0,0.0,0.0,1.0,0.001,0.0
+8135,ES,2013,DDT (sum),44,1.0,1.05,0.0707,0.0,0.0,0.0
+9472,ES,2024,Cypermethrin (sum),17,1.0,0.071,0.0,3.0,0.0207,0.0119
+9947,FR,2013,Heptachlor (sum),68,0.0,0.0,0.0,2.0,0.0004,0.0001
+10503,FR,2018,Deltamethrin,48,0.0,0.0,0.0,1.0,0.002,0.0
+10688,FR,2019,Dieldrin (sum),95,0.0,0.0,0.0,1.0,0.0008,0.0
+10542,FR,2019,2-phenylphenol (sum),26,1.0,0.19,0.0,0.0,0.0,0.0
+11653,FR,2021,Chlorpyrifos-methyl,54,0.0,0.0,0.0,1.0,0.0006,0.0
+12222,FR,2022,Dieldrin (sum),87,0.0,0.0,0.0,1.0,0.005,0.0
+12796,GB,2016,BAC 12,197,0.0,0.0,0.0,3.0,0.0833,0.0208
+12800,GB,2016,Benzalkonium chloride,197,0.0,0.0,0.0,3.0,0.0833,0.0208
+12896,GB,2017,BAC 12,269,0.0,0.0,0.0,2.0,0.08,0.0283
+12901,GB,2017,Benzalkonium chloride,269,0.0,0.0,0.0,2.0,0.08,0.0283
+13009,GB,2018,BAC 12,279,0.0,0.0,0.0,6.0,0.0883,0.016
+13014,GB,2018,Benzalkonium chloride,279,0.0,0.0,0.0,6.0,0.0883,0.016
+12999,GB,2018,"2,4-D (sum)",1,1.0,0.01,0.0,0.0,0.0,0.0
+13121,GB,2019,BAC 12,297,1.0,0.2,0.0,1.0,0.1,0.0
+13122,GB,2019,BAC 14,297,0.0,0.0,0.0,1.0,0.08,0.0
+14590,HR,2015,Chlordane (sum),30,1.0,0.001,0.0,0.0,0.0,0.0
+14591,HR,2015,Chlorobenzilate,30,0.0,0.0,0.0,1.0,0.002,0.0
+14596,HR,2015,DDT (sum),30,0.0,0.0,0.0,2.0,0.0042,0.0015
+14600,HR,2015,Endosulfan (sum),30,0.0,0.0,0.0,1.0,0.002,0.0
+14610,HR,2015,HCH-alpha,30,0.0,0.0,0.0,1.0,0.001,0.0
+14613,HR,2015,Hexachlorobenzene,30,0.0,0.0,0.0,7.0,0.001,0.0001
+14617,HR,2015,Methoxychlor,30,0.0,0.0,0.0,3.0,0.002,0.0
+14891,HU,2013,Benfuracarb,50,1.0,0.0249,0.0,0.0,0.0,0.0
+15176,HU,2014,Famoxadone,19,0.0,0.0,0.0,1.0,0.0087,0.0
+16531,HU,2020,2-phenylphenol (sum),13,0.0,0.0,0.0,13.0,0.01,0.0
+16532,HU,2020,"3-[(6-iodo-4-oxo-3-propyl-3,4-dihydroquinazolin-2-yl)oxy]propanoic acid",13,13.0,0.01,0.0,0.0,0.0,0.0
+16533,HU,2020,Abamectin (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16534,HU,2020,Acephate,13,13.0,0.01,0.0,0.0,0.0,0.0
+16535,HU,2020,Acetochlor,13,13.0,0.01,0.0,0.0,0.0,0.0
+16536,HU,2020,Aclonifen,13,13.0,0.01,0.0,0.0,0.0,0.0
+16537,HU,2020,Alachlor,13,13.0,0.01,0.0,0.0,0.0,0.0
+16538,HU,2020,Aldicarb (sum),13,13.0,0.0092,0.0075,0.0,0.0,0.0
+16539,HU,2020,Ametoctradin (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16540,HU,2020,Ametryn,13,13.0,0.01,0.0,0.0,0.0,0.0
+16541,HU,2020,Amitraz (sum),13,13.0,0.0042,0.0036,0.0,0.0,0.0
+16542,HU,2020,Atrazine,13,13.0,0.01,0.0,0.0,0.0,0.0
+16543,HU,2020,"Atrazine, Desisopropyl-",13,13.0,0.01,0.0,0.0,0.0,0.0
+16545,HU,2020,Azinphos-ethyl,13,0.0,0.0,0.0,13.0,0.01,0.0
+16546,HU,2020,Azinphos-methyl,13,0.0,0.0,0.0,13.0,0.01,0.0
+16547,HU,2020,Aziprotryne,13,13.0,0.01,0.0,0.0,0.0,0.0
+16548,HU,2020,Azoxystrobin,13,13.0,0.01,0.0,0.0,0.0,0.0
+16549,HU,2020,Benalaxyl (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16550,HU,2020,Benzovindiflupyr,13,13.0,0.01,0.0,0.0,0.0,0.0
+16551,HU,2020,Bifenox,13,13.0,0.01,0.0,0.0,0.0,0.0
+16552,HU,2020,Bifenthrin (sum),13,0.0,0.0,0.0,13.0,0.01,0.0
+16553,HU,2020,Bioresmethrin,13,13.0,0.01,0.0,0.0,0.0,0.0
+16554,HU,2020,Biphenyl,13,13.0,0.01,0.0,0.0,0.0,0.0
+16555,HU,2020,Bitertanol (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16556,HU,2020,Bixafen (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16557,HU,2020,Boscalid (sum),13,0.0,0.0,0.0,13.0,0.01,0.0
+16558,HU,2020,Bromfenvinfos,13,13.0,0.01,0.0,0.0,0.0,0.0
+16559,HU,2020,Bromophos,13,13.0,0.01,0.0,0.0,0.0,0.0
+16560,HU,2020,Bromophos-ethyl,13,13.0,0.01,0.0,0.0,0.0,0.0
+16561,HU,2020,Bromopropylate,13,13.0,0.01,0.0,0.0,0.0,0.0
+16562,HU,2020,Bromuconazole (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16563,HU,2020,Bupirimate,13,13.0,0.01,0.0,0.0,0.0,0.0
+16564,HU,2020,Buprofezin,13,13.0,0.01,0.0,0.0,0.0,0.0
+16565,HU,2020,Butylate,13,13.0,0.01,0.0,0.0,0.0,0.0
+16566,HU,2020,Cadusafos,13,13.0,0.01,0.0,0.0,0.0,0.0
+16567,HU,2020,Carbaryl,13,13.0,0.01,0.0,0.0,0.0,0.0
+16568,HU,2020,Carbendazim and benomyl (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16569,HU,2020,Carbendazim and thiophanate-methyl (sum),13,13.0,0.016,0.0,0.0,0.0,0.0
+16570,HU,2020,Carbofuran (sum),13,13.0,0.001,0.0,0.0,0.0,0.0
+16571,HU,2020,Carboxin,13,13.0,0.01,0.0,0.0,0.0,0.0
+16572,HU,2020,Chlorantraniliprole,13,13.0,0.01,0.0,0.0,0.0,0.0
+16573,HU,2020,Chlorbromuron,13,13.0,0.01,0.0,0.0,0.0,0.0
+16574,HU,2020,Chlorfenvinphos,13,13.0,0.01,0.0,0.0,0.0,0.0
+16575,HU,2020,Chlorfluazuron,13,13.0,0.01,0.0,0.0,0.0,0.0
+16576,HU,2020,Chlorobenzilate,13,0.0,0.0,0.0,13.0,0.01,0.0
+16577,HU,2020,Chlorothalonil (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16578,HU,2020,Chlorotoluron (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16579,HU,2020,Chlorpyrifos,13,0.0,0.0,0.0,13.0,0.005,0.0
+16580,HU,2020,Chlorpyrifos-methyl,13,0.0,0.0,0.0,13.0,0.005,0.0
+16581,HU,2020,Cinidon-ethyl (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16582,HU,2020,Clofentezine (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16583,HU,2020,Clomazone (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16584,HU,2020,Coumaphos,13,13.0,0.01,0.0,0.0,0.0,0.0
+16585,HU,2020,Cyanazine,13,13.0,0.01,0.0,0.0,0.0,0.0
+16586,HU,2020,Cyazofamid,13,13.0,0.01,0.0,0.0,0.0,0.0
+16587,HU,2020,Cycloate,13,13.0,0.01,0.0,0.0,0.0,0.0
+16588,HU,2020,Cycloxydim (sum),13,13.0,0.022,0.0122,0.0,0.0,0.0
+16589,HU,2020,Cyfluthrin (sum),13,0.0,0.0,0.0,13.0,0.01,0.0
+16590,HU,2020,Cymoxanil,13,13.0,0.01,0.0,0.0,0.0,0.0
+16591,HU,2020,Cypermethrin (sum),13,0.0,0.0,0.0,13.0,0.01,0.0
+16592,HU,2020,Cyproconazole (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16593,HU,2020,Cyprodinil (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16594,HU,2020,DDT (sum),13,0.0,0.0,0.0,13.0,0.0102,0.0082
+16595,HU,2020,Deltamethrin,13,0.0,0.0,0.0,13.0,0.02,0.0
+16596,HU,2020,Desmedipham,13,13.0,0.01,0.0,0.0,0.0,0.0
+16597,HU,2020,Diazinon,13,0.0,0.0,0.0,13.0,0.01,0.0
+16598,HU,2020,Dichlofluanid and DMSA (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16599,HU,2020,Dichlorvos,13,13.0,0.01,0.0,0.0,0.0,0.0
+16600,HU,2020,Diclobutrazol,13,13.0,0.01,0.0,0.0,0.0,0.0
+16601,HU,2020,Dicloran,13,13.0,0.01,0.0,0.0,0.0,0.0
+16602,HU,2020,Dicofol (sum),13,13.0,0.0133,0.0048,0.0,0.0,0.0
+16603,HU,2020,Dieldrin (sum),13,0.0,0.0,0.0,13.0,0.0027,0.001
+16604,HU,2020,Diethofencarb,13,13.0,0.01,0.0,0.0,0.0,0.0
+16605,HU,2020,Difenoconazole,13,13.0,0.005,0.0,0.0,0.0,0.0
+16606,HU,2020,Diflubenzuron (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16607,HU,2020,Diflufenican,13,13.0,0.01,0.0,0.0,0.0,0.0
+16608,HU,2020,Dimethachlor,13,13.0,0.01,0.0,0.0,0.0,0.0
+16609,HU,2020,Dimethenamid (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16611,HU,2020,Dimethomorph (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16612,HU,2020,Dimoxystrobin (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16613,HU,2020,Diniconazole (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16614,HU,2020,Diphenylamine,13,0.0,0.0,0.0,13.0,0.01,0.0
+16615,HU,2020,Disulfoton (sum),13,13.0,0.0045,0.0026,0.0,0.0,0.0
+16616,HU,2020,Ditalimfos,13,13.0,0.01,0.0,0.0,0.0,0.0
+16617,HU,2020,Diuron,13,13.0,0.01,0.0,0.0,0.0,0.0
+16618,HU,2020,Dodine,13,13.0,0.01,0.0,0.0,0.0,0.0
+16619,HU,2020,EPN,13,13.0,0.0094,0.0022,0.0,0.0,0.0
+16620,HU,2020,Emamectin (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16621,HU,2020,Endosulfan (sum),13,0.0,0.0,0.0,13.0,0.0075,0.0044
+16622,HU,2020,Endrin,13,4.0,0.005,0.0,9.0,0.0008,0.0
+16623,HU,2020,Endrin ketone,13,13.0,0.005,0.0,0.0,0.0,0.0
+16624,HU,2020,Epoxiconazole,13,13.0,0.002,0.0,0.0,0.0,0.0
+16625,HU,2020,Ethiofencarb,13,13.0,0.01,0.0,0.0,0.0,0.0
+16626,HU,2020,Ethiofencarb-Sulfon,13,13.0,0.01,0.0,0.0,0.0,0.0
+16627,HU,2020,Ethiofencarb-Sulfoxid,13,13.0,0.01,0.0,0.0,0.0,0.0
+16628,HU,2020,Ethion,13,13.0,0.01,0.0,0.0,0.0,0.0
+16629,HU,2020,Ethirimol,13,13.0,0.01,0.0,0.0,0.0,0.0
+16630,HU,2020,Ethoprophos,13,13.0,0.01,0.0,0.0,0.0,0.0
+16631,HU,2020,Etofenprox,13,0.0,0.0,0.0,13.0,0.01,0.0
+16632,HU,2020,Etoxazole,13,13.0,0.01,0.0,0.0,0.0,0.0
+16633,HU,2020,Etrimfos,13,13.0,0.01,0.0,0.0,0.0,0.0
+16634,HU,2020,Famoxadone,13,0.0,0.0,0.0,13.0,0.01,0.0
+16635,HU,2020,Fenamidone,13,13.0,0.01,0.0,0.0,0.0,0.0
+16636,HU,2020,Fenarimol,13,13.0,0.01,0.0,0.0,0.0,0.0
+16637,HU,2020,Fenazaquin,13,13.0,0.01,0.0,0.0,0.0,0.0
+16638,HU,2020,Fenbuconazole (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16639,HU,2020,Fenhexamid,13,13.0,0.01,0.0,0.0,0.0,0.0
+16640,HU,2020,Fenitrothion,13,13.0,0.01,0.0,0.0,0.0,0.0
+16641,HU,2020,Fenoxycarb,13,13.0,0.01,0.0,0.0,0.0,0.0
+16642,HU,2020,Fenpropathrin,13,13.0,0.01,0.0,0.0,0.0,0.0
+16643,HU,2020,Fenpropimorph (sum),13,0.0,0.0,0.0,13.0,0.01,0.0
+16644,HU,2020,Fenpyrazamine,13,13.0,0.01,0.0,0.0,0.0,0.0
+16645,HU,2020,Fenpyroximate,13,13.0,0.01,0.0,0.0,0.0,0.0
+16646,HU,2020,Fenthion (sum),13,13.0,0.002,0.0,13.0,0.0027,0.0029
+16647,HU,2020,Fenvalerate/Esfenvalerate (sum),13,0.0,0.0,0.0,13.0,0.01,0.0
+16648,HU,2020,Fipronil (sum),13,1.0,0.01,0.0,13.0,0.003,0.0012
+16649,HU,2020,Fluazinam,13,13.0,0.01,0.0,0.0,0.0,0.0
+16650,HU,2020,Flubendiamide (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16651,HU,2020,Fludioxonil (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16652,HU,2020,Flufenacet (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16653,HU,2020,Flufenoxuron,13,13.0,0.01,0.0,0.0,0.0,0.0
+16654,HU,2020,Flumethrin,13,13.0,0.01,0.0,0.0,0.0,0.0
+16655,HU,2020,Flumioxazin,13,13.0,0.01,0.0,0.0,0.0,0.0
+16656,HU,2020,Fluometuron,13,13.0,0.01,0.0,0.0,0.0,0.0
+16657,HU,2020,Fluopicolide,13,13.0,0.01,0.0,0.0,0.0,0.0
+16658,HU,2020,Fluopyram (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16659,HU,2020,Fluoxastrobin (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16660,HU,2020,Fluquinconazole,13,0.0,0.0,0.0,13.0,0.01,0.0
+16661,HU,2020,Flurochloridone (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16662,HU,2020,Flusilazole (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16663,HU,2020,Flutolanil (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16664,HU,2020,Flutriafol,13,13.0,0.01,0.0,0.0,0.0,0.0
+16665,HU,2020,Fluvalinate (sum),13,0.0,0.0,0.0,13.0,0.01,0.0
+16666,HU,2020,Fluxapyroxad,13,13.0,0.01,0.0,0.0,0.0,0.0
+16667,HU,2020,Folpet (sum),13,13.0,0.02,0.0,0.0,0.0,0.0
+16668,HU,2020,Fomesafen,13,13.0,0.01,0.0,0.0,0.0,0.0
+16669,HU,2020,Fonofos,13,13.0,0.01,0.0,0.0,0.0,0.0
+16670,HU,2020,Formothion,13,13.0,0.01,0.0,0.0,0.0,0.0
+16671,HU,2020,Fosthiazate,13,13.0,0.01,0.0,0.0,0.0,0.0
+16672,HU,2020,Fuberidazole,13,13.0,0.01,0.0,0.0,0.0,0.0
+16673,HU,2020,HCH-alpha,13,0.0,0.0,0.0,13.0,0.005,0.0
+16674,HU,2020,HCH-beta,13,0.0,0.0,0.0,13.0,0.005,0.0
+16675,HU,2020,Heptachlor (sum),13,7.0,0.01,0.0052,6.0,0.002,0.001
+16676,HU,2020,Heptenophos,13,13.0,0.01,0.0,0.0,0.0,0.0
+16677,HU,2020,Hexachlorobenzene,13,0.0,0.0,0.0,13.0,0.005,0.0
+16678,HU,2020,Hexaconazole,13,13.0,0.01,0.0,0.0,0.0,0.0
+16679,HU,2020,Hexaflumuron,13,13.0,0.01,0.0,0.0,0.0,0.0
+16680,HU,2020,Hexazinone,13,13.0,0.01,0.0,0.0,0.0,0.0
+16681,HU,2020,Hexythiazox (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16682,HU,2020,Imazalil (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16683,HU,2020,Imidacloprid,13,13.0,0.01,0.0,0.0,0.0,0.0
+16684,HU,2020,Indoxacarb (sum),13,0.0,0.0,0.0,13.0,0.01,0.0
+16685,HU,2020,Ipconazole,13,13.0,0.01,0.0,0.0,0.0,0.0
+16686,HU,2020,Iprovalicarb,13,13.0,0.01,0.0,0.0,0.0,0.0
+16687,HU,2020,Isocarbophos,13,13.0,0.01,0.0,0.0,0.0,0.0
+16688,HU,2020,Isodrin,13,13.0,0.01,0.0,0.0,0.0,0.0
+16689,HU,2020,Isofenphos,13,13.0,0.01,0.0,0.0,0.0,0.0
+16690,HU,2020,Isofenphos-methyl,13,13.0,0.01,0.0,0.0,0.0,0.0
+16691,HU,2020,Isoprocarb,13,13.0,0.01,0.0,0.0,0.0,0.0
+16692,HU,2020,Isoprothiolane,13,13.0,0.01,0.0,0.0,0.0,0.0
+16693,HU,2020,Isoproturon,13,13.0,0.01,0.0,0.0,0.0,0.0
+16694,HU,2020,Isopyrazam (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16695,HU,2020,Isoxadifen-ethyl,13,13.0,0.01,0.0,0.0,0.0,0.0
+16697,HU,2020,Kresoxim methyl (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16698,HU,2020,Lambda-cyhalothrin (sum),13,0.0,0.0,0.0,13.0,0.01,0.0
+16699,HU,2020,Lenacil,13,13.0,0.01,0.0,0.0,0.0,0.0
+16700,HU,2020,Lindane,13,0.0,0.0,0.0,13.0,0.005,0.0
+16701,HU,2020,Linuron,13,13.0,0.01,0.0,0.0,0.0,0.0
+16702,HU,2020,Lufenuron (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16703,HU,2020,Malathion (sum),13,13.0,0.0067,0.0024,0.0,0.0,0.0
+16704,HU,2020,Mandipropamid (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16705,HU,2020,Mecarbam,13,13.0,0.01,0.0,0.0,0.0,0.0
+16706,HU,2020,Mepronil,13,13.0,0.01,0.0,0.0,0.0,0.0
+16707,HU,2020,Metaflumizone (sum),13,0.0,0.0,0.0,13.0,0.01,0.0
+16708,HU,2020,Metalaxyl and metalaxyl-M (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16709,HU,2020,Metaldehyde,13,13.0,0.01,0.0,0.0,0.0,0.0
+16710,HU,2020,Metamitron,13,13.0,0.01,0.0,0.0,0.0,0.0
+16711,HU,2020,Metazachlor (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16712,HU,2020,Metconazole (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16713,HU,2020,Methacrifos,13,13.0,0.01,0.0,0.0,0.0,0.0
+16714,HU,2020,Methamidophos,13,13.0,0.01,0.0,0.0,0.0,0.0
+16715,HU,2020,Methidathion,13,0.0,0.0,0.0,13.0,0.01,0.0
+16716,HU,2020,Methiocarb (sum),13,13.0,0.0145,0.0079,0.0,0.0,0.0
+16717,HU,2020,Methomyl and Thiodicarb (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16718,HU,2020,Methoxychlor,13,0.0,0.0,0.0,13.0,0.005,0.0
+16719,HU,2020,Methoxyfenozide,13,13.0,0.01,0.0,0.0,0.0,0.0
+16720,HU,2020,Metobromuron,13,13.0,0.01,0.0,0.0,0.0,0.0
+16721,HU,2020,Metolachlor and S-metolachlor (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16722,HU,2020,Metoxuron,13,13.0,0.01,0.0,0.0,0.0,0.0
+16723,HU,2020,Metrafenone,13,13.0,0.01,0.0,0.0,0.0,0.0
+16724,HU,2020,Metribuzin,13,13.0,0.01,0.0,13.0,0.01,0.0
+16725,HU,2020,Mevinphos (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16726,HU,2020,Molinate,13,13.0,0.01,0.0,0.0,0.0,0.0
+16727,HU,2020,Monocrotophos,13,13.0,0.01,0.0,0.0,0.0,0.0
+16728,HU,2020,Monolinuron,13,13.0,0.01,0.0,0.0,0.0,0.0
+16729,HU,2020,Myclobutanil (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16730,HU,2020,"N, N-Diethyl-meta-toluamide (DEET)",13,13.0,0.01,0.0,0.0,0.0,0.0
+16731,HU,2020,Napropamide (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16732,HU,2020,Nitenpyram,13,13.0,0.01,0.0,0.0,0.0,0.0
+16733,HU,2020,Nitrofen,13,13.0,0.01,0.0,0.0,0.0,0.0
+16734,HU,2020,Novaluron (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16735,HU,2020,Nuarimol,13,13.0,0.01,0.0,0.0,0.0,0.0
+16736,HU,2020,Ofurace,13,13.0,0.01,0.0,0.0,0.0,0.0
+16737,HU,2020,Oxadiazon,13,13.0,0.01,0.0,0.0,0.0,0.0
+16738,HU,2020,Oxadixyl,13,13.0,0.01,0.0,0.0,0.0,0.0
+16739,HU,2020,Oxamyl,13,13.0,0.01,0.0,0.0,0.0,0.0
+16740,HU,2020,Oxycarboxin,13,13.0,0.01,0.0,0.0,0.0,0.0
+16741,HU,2020,Oxydemeton-methyl (sum),13,13.0,0.0096,0.0047,0.0,0.0,0.0
+16742,HU,2020,Oxyfluorfen,13,13.0,0.01,0.0,0.0,0.0,0.0
+16743,HU,2020,Paclobutrazol (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16744,HU,2020,Parathion,13,0.0,0.0,0.0,13.0,0.01,0.0
+16745,HU,2020,Parathion-methyl (sum),13,13.0,0.005,0.0,13.0,0.0075,0.0025
+16746,HU,2020,Penconazole (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16747,HU,2020,Pencycuron,13,13.0,0.01,0.0,0.0,0.0,0.0
+16748,HU,2020,Pendimethalin,13,0.0,0.0,0.0,13.0,0.01,0.0
+16749,HU,2020,Penflufen (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16750,HU,2020,Penthiopyrad,13,13.0,0.01,0.0,0.0,0.0,0.0
+16751,HU,2020,Permethrin (sum),13,0.0,0.0,0.0,13.0,0.01,0.0
+16752,HU,2020,Pethoxamid,13,13.0,0.01,0.0,0.0,0.0,0.0
+16753,HU,2020,Phenmedipham,13,13.0,0.01,0.0,0.0,0.0,0.0
+16754,HU,2020,Phenthoate,13,13.0,0.01,0.0,0.0,0.0,0.0
+16755,HU,2020,Phosalone,13,13.0,0.01,0.0,0.0,0.0,0.0
+16756,HU,2020,Phosmet (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16757,HU,2020,Phosphamidon,13,13.0,0.01,0.0,0.0,0.0,0.0
+16758,HU,2020,Phoxim,13,13.0,0.01,0.0,0.0,0.0,0.0
+16759,HU,2020,Phthalimide,13,13.0,0.01,0.0,0.0,0.0,0.0
+16760,HU,2020,Picolinafen,13,13.0,0.01,0.0,0.0,0.0,0.0
+16761,HU,2020,Picoxystrobin,13,13.0,0.01,0.0,0.0,0.0,0.0
+16762,HU,2020,Piperonyl Butoxide,13,13.0,0.01,0.0,0.0,0.0,0.0
+16763,HU,2020,Pirimicarb (sum),13,13.0,0.0137,0.0053,0.0,0.0,0.0
+16764,HU,2020,Pirimiphos-Ethyl,13,13.0,0.01,0.0,0.0,0.0,0.0
+16765,HU,2020,Pirimiphos-methyl (sum),13,0.0,0.0,0.0,13.0,0.01,0.0
+16766,HU,2020,Prochloraz (sum),13,0.0,0.0,0.0,13.0,0.01,0.0
+16767,HU,2020,Profenofos,13,0.0,0.0,0.0,13.0,0.01,0.0
+16768,HU,2020,Prometryn,13,13.0,0.01,0.0,0.0,0.0,0.0
+16769,HU,2020,Propachlor (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16770,HU,2020,Propamocarb (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16771,HU,2020,Propaquizafop,13,13.0,0.01,0.0,0.0,0.0,0.0
+16772,HU,2020,Propargite,13,13.0,0.01,0.0,0.0,0.0,0.0
+16773,HU,2020,Propazine,13,13.0,0.01,0.0,0.0,0.0,0.0
+16774,HU,2020,Propetamphos,13,13.0,0.01,0.0,0.0,0.0,0.0
+16775,HU,2020,Propham,13,13.0,0.01,0.0,0.0,0.0,0.0
+16776,HU,2020,Propiconazole (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16777,HU,2020,Propisochlor,13,13.0,0.01,0.0,0.0,0.0,0.0
+16778,HU,2020,Propoxur,13,13.0,0.01,0.0,0.0,0.0,0.0
+16779,HU,2020,Propyzamide (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16780,HU,2020,Prosulfocarb,13,13.0,0.01,0.0,0.0,0.0,0.0
+16781,HU,2020,Prosulfuron,13,13.0,0.01,0.0,0.0,0.0,0.0
+16782,HU,2020,Prothioconazole (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16783,HU,2020,Prothiofos,13,13.0,0.01,0.0,0.0,0.0,0.0
+16784,HU,2020,Pymetrozine (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16785,HU,2020,Pyraclostrobin,13,13.0,0.01,0.0,0.0,0.0,0.0
+16786,HU,2020,Pyrazophos,13,0.0,0.0,0.0,13.0,0.01,0.0
+16787,HU,2020,Pyrethrins,13,13.0,0.01,0.0,0.0,0.0,0.0
+16788,HU,2020,Pyridaben,13,13.0,0.01,0.0,0.0,0.0,0.0
+16789,HU,2020,Pyridalyl,13,13.0,0.01,0.0,0.0,0.0,0.0
+16790,HU,2020,Pyridaphenthion,13,13.0,0.01,0.0,0.0,0.0,0.0
+16791,HU,2020,Pyrifenox,13,13.0,0.01,0.0,0.0,0.0,0.0
+16792,HU,2020,Pyrimethanil (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16793,HU,2020,Pyriofenone,13,13.0,0.01,0.0,0.0,0.0,0.0
+16794,HU,2020,Pyriproxyfen,13,13.0,0.01,0.0,0.0,0.0,0.0
+16795,HU,2020,Quinalphos,13,13.0,0.01,0.0,0.0,0.0,0.0
+16796,HU,2020,Quinoclamine,13,13.0,0.01,0.0,0.0,0.0,0.0
+16797,HU,2020,Quinoxyfen,13,13.0,0.01,0.0,0.0,0.0,0.0
+16798,HU,2020,Quintozene (sum),13,13.0,0.0116,0.0069,13.0,0.0082,0.0024
+16799,HU,2020,Rotenone,13,13.0,0.01,0.0,0.0,0.0,0.0
+16800,HU,2020,Secbumeton,13,13.0,0.01,0.0,0.0,0.0,0.0
+16801,HU,2020,Silthiofam,13,13.0,0.01,0.0,0.0,0.0,0.0
+16802,HU,2020,Simazine,13,13.0,0.01,0.0,0.0,0.0,0.0
+16803,HU,2020,Simetryn,13,13.0,0.01,0.0,0.0,0.0,0.0
+16804,HU,2020,Spinetoram (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16805,HU,2020,Spinosad (sum),13,13.0,0.0133,0.0048,0.0,0.0,0.0
+16806,HU,2020,Spirodiclofen,13,13.0,0.004,0.0,0.0,0.0,0.0
+16807,HU,2020,Spiromesifen,13,13.0,0.01,0.0,0.0,0.0,0.0
+16808,HU,2020,Spiroxamine (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16809,HU,2020,Sulfotep,13,13.0,0.01,0.0,0.0,0.0,0.0
+16810,HU,2020,Sulfoxaflor (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16811,HU,2020,Tebuconazole (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16812,HU,2020,Tebufenozide,13,13.0,0.01,0.0,0.0,0.0,0.0
+16813,HU,2020,Tebufenpyrad,13,13.0,0.01,0.0,0.0,0.0,0.0
+16814,HU,2020,Teflubenzuron,13,13.0,0.01,0.0,0.0,0.0,0.0
+16815,HU,2020,Tefluthrin (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16816,HU,2020,Terbacil,13,13.0,0.01,0.0,0.0,0.0,0.0
+16817,HU,2020,Terbufos (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16818,HU,2020,Terbumeton,13,13.0,0.01,0.0,0.0,0.0,0.0
+16819,HU,2020,Terbuthylazine,13,13.0,0.01,0.0,0.0,0.0,0.0
+16820,HU,2020,Terbutryn,13,13.0,0.01,0.0,0.0,0.0,0.0
+16821,HU,2020,Tetrachlorvinphos,13,13.0,0.01,0.0,0.0,0.0,0.0
+16822,HU,2020,Tetraconazole (sum),13,0.0,0.0,0.0,13.0,0.01,0.0
+16823,HU,2020,Tetradifon,13,13.0,0.01,0.0,0.0,0.0,0.0
+16824,HU,2020,Tetramethrin,13,13.0,0.01,0.0,0.0,0.0,0.0
+16825,HU,2020,Thiacloprid,13,13.0,0.01,0.0,0.0,0.0,0.0
+16826,HU,2020,Thiamethoxam (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16827,HU,2020,Thiencarbazone-methyl,13,13.0,0.01,0.0,0.0,0.0,0.0
+16829,HU,2020,Tolclofos-methyl,13,13.0,0.01,0.0,0.0,0.0,0.0
+16830,HU,2020,Tolylfluanid (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16831,HU,2020,Tri-allate,13,13.0,0.01,0.0,0.0,0.0,0.0
+16832,HU,2020,Triadimenol (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16833,HU,2020,Triazophos,13,0.0,0.0,0.0,13.0,0.01,0.0
+16834,HU,2020,Trichlorfon,13,13.0,0.01,0.0,0.0,0.0,0.0
+16835,HU,2020,"Trichlorophenol, 2,4,6-",13,13.0,0.01,0.0,0.0,0.0,0.0
+16836,HU,2020,Tricyclazole,13,13.0,0.01,0.0,0.0,0.0,0.0
+16837,HU,2020,Trifloxystrobin (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16838,HU,2020,Triflumuron,13,13.0,0.01,0.0,0.0,0.0,0.0
+16839,HU,2020,Trifluralin,13,13.0,0.01,0.0,0.0,0.0,0.0
+16840,HU,2020,Triforine,13,13.0,0.01,0.0,0.0,0.0,0.0
+16841,HU,2020,Triticonazole,13,13.0,0.01,0.0,0.0,0.0,0.0
+16842,HU,2020,Valifenalate,13,13.0,0.01,0.0,0.0,0.0,0.0
+16843,HU,2020,Vamidothion (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16844,HU,2020,Vinclozolin,13,13.0,0.01,0.0,0.0,0.0,0.0
+16845,HU,2020,Vinclozolin (sum),13,13.0,0.01,0.0,0.0,0.0,0.0
+16846,HU,2020,Zoxamide,13,13.0,0.01,0.0,0.0,0.0,0.0
+16828,HU,2020,Thiometon,12,12.0,0.01,0.0,0.0,0.0,0.0
+16544,HU,2020,Azamethiphos,1,1.0,0.01,0.0,0.0,0.0,0.0
+16610,HU,2020,Dimethoate (sum),1,1.0,0.01,0.0,0.0,0.0,0.0
+16696,HU,2020,Isoxaflutole (sum),1,1.0,0.01,0.0,0.0,0.0,0.0
+16847,HU,2021,Abamectin (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+16848,HU,2021,Acephate,7,7.0,0.01,0.0,0.0,0.0,0.0
+16849,HU,2021,Acetochlor,7,7.0,0.01,0.0,0.0,0.0,0.0
+16850,HU,2021,Aclonifen,7,7.0,0.01,0.0,0.0,0.0,0.0
+16851,HU,2021,Alachlor,7,7.0,0.01,0.0,0.0,0.0,0.0
+16852,HU,2021,Aldicarb (sum),7,7.0,0.0052,0.0051,0.0,0.0,0.0
+16853,HU,2021,Ametoctradin (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+16854,HU,2021,Ametryn,7,7.0,0.01,0.0,0.0,0.0,0.0
+16855,HU,2021,Amitraz (sum),7,7.0,0.0047,0.0036,0.0,0.0,0.0
+16856,HU,2021,Atrazine,7,7.0,0.01,0.0,0.0,0.0,0.0
+16858,HU,2021,Azinphos-ethyl,7,0.0,0.0,0.0,7.0,0.01,0.0
+16859,HU,2021,Azinphos-methyl,7,0.0,0.0,0.0,7.0,0.01,0.0
+16860,HU,2021,Aziprotryne,7,7.0,0.01,0.0,0.0,0.0,0.0
+16861,HU,2021,Azoxystrobin,7,7.0,0.01,0.0,0.0,0.0,0.0
+16862,HU,2021,Benalaxyl (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+16863,HU,2021,Bifenox,7,7.0,0.01,0.0,0.0,0.0,0.0
+16864,HU,2021,Bioresmethrin,7,7.0,0.01,0.0,0.0,0.0,0.0
+16865,HU,2021,Biphenyl,7,7.0,0.01,0.0,0.0,0.0,0.0
+16866,HU,2021,Bitertanol (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+16867,HU,2021,Bixafen (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+16868,HU,2021,Boscalid (sum),7,0.0,0.0,0.0,7.0,0.01,0.0
+16869,HU,2021,Bromfenvinfos,7,7.0,0.01,0.0,0.0,0.0,0.0
+16870,HU,2021,Bromophos,7,7.0,0.01,0.0,0.0,0.0,0.0
+16871,HU,2021,Bromophos-ethyl,7,7.0,0.01,0.0,0.0,0.0,0.0
+16872,HU,2021,Bromopropylate,7,7.0,0.01,0.0,0.0,0.0,0.0
+16873,HU,2021,Bromuconazole (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+16874,HU,2021,Buprofezin,7,7.0,0.01,0.0,0.0,0.0,0.0
+16875,HU,2021,Butylate,7,7.0,0.01,0.0,0.0,0.0,0.0
+16876,HU,2021,Cadusafos,7,7.0,0.01,0.0,0.0,0.0,0.0
+16877,HU,2021,Carbaryl,7,7.0,0.01,0.0,0.0,0.0,0.0
+16878,HU,2021,Carbendazim and benomyl (sum),7,7.0,0.01,0.0,5.0,0.01,0.0
+16879,HU,2021,Carbendazim and thiophanate-methyl (sum),7,7.0,0.016,0.0,0.0,0.0,0.0
+16880,HU,2021,Carbofuran (sum),7,7.0,0.001,0.0,0.0,0.0,0.0
+16881,HU,2021,Carboxin,7,7.0,0.01,0.0,0.0,0.0,0.0
+16882,HU,2021,Chlorantraniliprole,7,7.0,0.01,0.0,0.0,0.0,0.0
+16883,HU,2021,Chlorbromuron,7,7.0,0.01,0.0,0.0,0.0,0.0
+16884,HU,2021,Chlorfenvinphos,7,7.0,0.01,0.0,0.0,0.0,0.0
+16885,HU,2021,Chlorobenzilate,7,0.0,0.0,0.0,7.0,0.01,0.0
+16886,HU,2021,Chlorothalonil (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+16887,HU,2021,Chlorotoluron (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+16888,HU,2021,Chlorpyrifos,7,0.0,0.0,0.0,7.0,0.005,0.0
+16889,HU,2021,Chlorpyrifos-methyl,7,0.0,0.0,0.0,7.0,0.005,0.0
+16890,HU,2021,Cinidon-ethyl (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+16891,HU,2021,Clofentezine (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+16892,HU,2021,Clomazone (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+16893,HU,2021,Coumaphos,7,7.0,0.01,0.0,0.0,0.0,0.0
+16894,HU,2021,Cyanazine,7,7.0,0.01,0.0,0.0,0.0,0.0
+16895,HU,2021,Cyazofamid,7,7.0,0.01,0.0,0.0,0.0,0.0
+16896,HU,2021,Cycloate,7,7.0,0.01,0.0,0.0,0.0,0.0
+16897,HU,2021,Cycloxydim (sum),7,7.0,0.022,0.0125,0.0,0.0,0.0
+16899,HU,2021,Cymoxanil,7,7.0,0.01,0.0,0.0,0.0,0.0
+16900,HU,2021,Cypermethrin (sum),7,0.0,0.0,0.0,7.0,0.01,0.0
+16901,HU,2021,Cyproconazole (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+16903,HU,2021,DDT (sum),7,0.0,0.0,0.0,7.0,0.0102,0.0083
+16904,HU,2021,Deltamethrin,7,0.0,0.0,0.0,7.0,0.02,0.0
+16905,HU,2021,Desmedipham,7,7.0,0.01,0.0,0.0,0.0,0.0
+16906,HU,2021,Diazinon,7,0.0,0.0,0.0,7.0,0.01,0.0
+16907,HU,2021,Dichlofluanid and DMSA (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+16908,HU,2021,Dichlorvos,7,7.0,0.01,0.0,0.0,0.0,0.0
+16909,HU,2021,Diclobutrazol,7,7.0,0.01,0.0,0.0,0.0,0.0
+16910,HU,2021,Dicloran,7,7.0,0.01,0.0,0.0,0.0,0.0
+16912,HU,2021,Dieldrin (sum),7,0.0,0.0,0.0,7.0,0.0027,0.001
+16913,HU,2021,Diethofencarb,7,7.0,0.01,0.0,0.0,0.0,0.0
+16914,HU,2021,Difenoconazole,7,7.0,0.005,0.0,0.0,0.0,0.0
+16915,HU,2021,Diflubenzuron (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+16916,HU,2021,Diflufenican,7,7.0,0.01,0.0,0.0,0.0,0.0
+16917,HU,2021,Dimethachlor,7,7.0,0.01,0.0,0.0,0.0,0.0
+16918,HU,2021,Dimethenamid (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+16919,HU,2021,Dimethomorph (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+16920,HU,2021,Dimoxystrobin (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+16921,HU,2021,Diniconazole (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+16922,HU,2021,Diphenylamine,7,0.0,0.0,0.0,7.0,0.01,0.0
+16923,HU,2021,Disulfoton (sum),7,7.0,0.0045,0.0026,0.0,0.0,0.0
+16924,HU,2021,Ditalimfos,7,7.0,0.01,0.0,0.0,0.0,0.0
+16925,HU,2021,Diuron,7,7.0,0.01,0.0,0.0,0.0,0.0
+16926,HU,2021,Dodine,7,7.0,0.01,0.0,0.0,0.0,0.0
+16927,HU,2021,EPN,7,7.0,0.01,0.0,0.0,0.0,0.0
+16928,HU,2021,Endosulfan (sum),7,0.0,0.0,0.0,7.0,0.0075,0.0044
+16929,HU,2021,Endrin,7,0.0,0.0,0.0,7.0,0.0008,0.0
+16930,HU,2021,Epoxiconazole,7,7.0,0.002,0.0,0.0,0.0,0.0
+16931,HU,2021,Ethion,7,7.0,0.01,0.0,0.0,0.0,0.0
+16932,HU,2021,Ethirimol,7,7.0,0.01,0.0,0.0,0.0,0.0
+16933,HU,2021,Ethoprophos,7,7.0,0.01,0.0,0.0,0.0,0.0
+16934,HU,2021,Etofenprox,7,0.0,0.0,0.0,7.0,0.01,0.0
+16935,HU,2021,Etoxazole,7,7.0,0.01,0.0,0.0,0.0,0.0
+16936,HU,2021,Etrimfos,7,7.0,0.01,0.0,0.0,0.0,0.0
+16937,HU,2021,Famoxadone,7,0.0,0.0,0.0,7.0,0.01,0.0
+16938,HU,2021,Fenamidone,7,7.0,0.01,0.0,0.0,0.0,0.0
+16939,HU,2021,Fenarimol,7,7.0,0.01,0.0,0.0,0.0,0.0
+16940,HU,2021,Fenazaquin,7,7.0,0.01,0.0,0.0,0.0,0.0
+16941,HU,2021,Fenhexamid,7,7.0,0.01,0.0,0.0,0.0,0.0
+16942,HU,2021,Fenitrothion,7,7.0,0.01,0.0,0.0,0.0,0.0
+16943,HU,2021,Fenoxycarb,7,7.0,0.01,0.0,0.0,0.0,0.0
+16944,HU,2021,Fenpropathrin,7,7.0,0.01,0.0,0.0,0.0,0.0
+16945,HU,2021,Fenpropimorph (sum),7,0.0,0.0,0.0,7.0,0.01,0.0
+16946,HU,2021,Fenthion (sum),7,7.0,0.002,0.0,7.0,0.0027,0.0029
+16947,HU,2021,Fenvalerate/Esfenvalerate (sum),7,0.0,0.0,0.0,7.0,0.01,0.0
+16948,HU,2021,Fipronil (sum),7,0.0,0.0,0.0,7.0,0.0027,0.001
+16949,HU,2021,Fluazinam,7,7.0,0.01,0.0,0.0,0.0,0.0
+16950,HU,2021,Flubendiamide (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+16951,HU,2021,Fludioxonil (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+16952,HU,2021,Flufenacet (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+16953,HU,2021,Flufenoxuron,7,7.0,0.01,0.0,0.0,0.0,0.0
+16954,HU,2021,Flumioxazin,7,7.0,0.01,0.0,0.0,0.0,0.0
+16955,HU,2021,Fluopicolide,7,7.0,0.01,0.0,0.0,0.0,0.0
+16956,HU,2021,Fluopyram (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+16957,HU,2021,Fluquinconazole,7,0.0,0.0,0.0,7.0,0.01,0.0
+16958,HU,2021,Flusilazole (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+16959,HU,2021,Flutolanil (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+16960,HU,2021,Flutriafol,7,7.0,0.01,0.0,0.0,0.0,0.0
+16961,HU,2021,Fluxapyroxad,7,7.0,0.01,0.0,0.0,0.0,0.0
+16962,HU,2021,Fomesafen,7,7.0,0.01,0.0,0.0,0.0,0.0
+16963,HU,2021,Fonofos,7,7.0,0.01,0.0,0.0,0.0,0.0
+16964,HU,2021,Formothion,7,7.0,0.01,0.0,0.0,0.0,0.0
+16965,HU,2021,Fosthiazate,7,7.0,0.01,0.0,0.0,0.0,0.0
+16966,HU,2021,Fuberidazole,7,7.0,0.01,0.0,0.0,0.0,0.0
+16967,HU,2021,HCH-alpha,7,0.0,0.0,0.0,7.0,0.005,0.0
+16968,HU,2021,HCH-beta,7,0.0,0.0,0.0,7.0,0.005,0.0
+16969,HU,2021,Heptachlor (sum),7,1.0,0.015,0.0,7.0,0.0019,0.001
+16970,HU,2021,Heptenophos,7,7.0,0.01,0.0,0.0,0.0,0.0
+16971,HU,2021,Hexachlorobenzene,7,0.0,0.0,0.0,7.0,0.005,0.0
+16972,HU,2021,Hexaconazole,7,7.0,0.01,0.0,0.0,0.0,0.0
+16973,HU,2021,Hexaflumuron,7,7.0,0.01,0.0,0.0,0.0,0.0
+16974,HU,2021,Hexazinone,7,7.0,0.01,0.0,0.0,0.0,0.0
+16975,HU,2021,Hexythiazox (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+16976,HU,2021,Imazalil (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+16977,HU,2021,Imidacloprid,7,7.0,0.01,0.0,0.0,0.0,0.0
+16978,HU,2021,Indoxacarb (sum),7,0.0,0.0,0.0,7.0,0.01,0.0
+16979,HU,2021,Ipconazole,7,7.0,0.01,0.0,0.0,0.0,0.0
+16980,HU,2021,Iprovalicarb,7,7.0,0.01,0.0,0.0,0.0,0.0
+16981,HU,2021,Isocarbophos,7,7.0,0.01,0.0,0.0,0.0,0.0
+16982,HU,2021,Isodrin,7,7.0,0.01,0.0,0.0,0.0,0.0
+16983,HU,2021,Isofenphos,7,7.0,0.01,0.0,0.0,0.0,0.0
+16984,HU,2021,Isofenphos-methyl,7,7.0,0.01,0.0,0.0,0.0,0.0
+16985,HU,2021,Isoprocarb,7,7.0,0.01,0.0,0.0,0.0,0.0
+16986,HU,2021,Isoprothiolane,7,7.0,0.01,0.0,0.0,0.0,0.0
+16987,HU,2021,Isoproturon,7,7.0,0.01,0.0,0.0,0.0,0.0
+16988,HU,2021,Isopyrazam (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+16989,HU,2021,Kresoxim methyl (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+16990,HU,2021,Lambda-cyhalothrin (sum),7,0.0,0.0,0.0,7.0,0.01,0.0
+16991,HU,2021,Lenacil,7,7.0,0.01,0.0,0.0,0.0,0.0
+16992,HU,2021,Lindane,7,0.0,0.0,0.0,7.0,0.005,0.0
+16993,HU,2021,Linuron,7,7.0,0.01,0.0,0.0,0.0,0.0
+16994,HU,2021,Lufenuron (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+16995,HU,2021,Malathion (sum),7,7.0,0.0067,0.0024,0.0,0.0,0.0
+16996,HU,2021,Mecarbam,7,7.0,0.01,0.0,0.0,0.0,0.0
+16997,HU,2021,Mepronil,7,7.0,0.01,0.0,0.0,0.0,0.0
+16998,HU,2021,Metaflumizone (sum),7,0.0,0.0,0.0,7.0,0.01,0.0
+16999,HU,2021,Metalaxyl and metalaxyl-M (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+17000,HU,2021,Metaldehyde,7,7.0,0.01,0.0,0.0,0.0,0.0
+17001,HU,2021,Metamitron,7,7.0,0.01,0.0,0.0,0.0,0.0
+17002,HU,2021,Metazachlor (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+17004,HU,2021,Methacrifos,7,7.0,0.01,0.0,0.0,0.0,0.0
+17005,HU,2021,Methamidophos,7,7.0,0.01,0.0,0.0,0.0,0.0
+17006,HU,2021,Methidathion,7,0.0,0.0,0.0,7.0,0.01,0.0
+17007,HU,2021,Methiocarb (sum),7,7.0,0.0145,0.0079,0.0,0.0,0.0
+17008,HU,2021,Methoxychlor,7,0.0,0.0,0.0,7.0,0.005,0.0
+17009,HU,2021,Methoxyfenozide,7,7.0,0.01,0.0,0.0,0.0,0.0
+17010,HU,2021,Metobromuron,7,7.0,0.01,0.0,0.0,0.0,0.0
+17012,HU,2021,Metoxuron,7,7.0,0.01,0.0,0.0,0.0,0.0
+17013,HU,2021,Metrafenone,7,7.0,0.01,0.0,0.0,0.0,0.0
+17014,HU,2021,Metribuzin,7,7.0,0.01,0.0,7.0,0.01,0.0
+17015,HU,2021,Mevinphos (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+17016,HU,2021,Molinate,7,7.0,0.01,0.0,0.0,0.0,0.0
+17017,HU,2021,Monocrotophos,7,7.0,0.01,0.0,0.0,0.0,0.0
+17018,HU,2021,Monolinuron,7,7.0,0.01,0.0,0.0,0.0,0.0
+17019,HU,2021,Napropamide (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+17020,HU,2021,Nitenpyram,7,7.0,0.01,0.0,0.0,0.0,0.0
+17021,HU,2021,Nitrofen,7,7.0,0.01,0.0,0.0,0.0,0.0
+17022,HU,2021,Novaluron (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+17023,HU,2021,Nuarimol,7,7.0,0.01,0.0,0.0,0.0,0.0
+17024,HU,2021,Ofurace,7,7.0,0.01,0.0,0.0,0.0,0.0
+17025,HU,2021,Oxadiazon,7,7.0,0.01,0.0,0.0,0.0,0.0
+17026,HU,2021,Oxadixyl,7,7.0,0.01,0.0,0.0,0.0,0.0
+17027,HU,2021,Oxamyl,7,7.0,0.01,0.0,0.0,0.0,0.0
+17028,HU,2021,Oxycarboxin,7,7.0,0.01,0.0,0.0,0.0,0.0
+17029,HU,2021,Oxydemeton-methyl (sum),7,7.0,0.0065,0.0042,0.0,0.0,0.0
+17030,HU,2021,Oxyfluorfen,7,7.0,0.01,0.0,0.0,0.0,0.0
+17031,HU,2021,Paclobutrazol (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+17032,HU,2021,Parathion,7,0.0,0.0,0.0,7.0,0.01,0.0
+17033,HU,2021,Parathion-methyl (sum),7,7.0,0.005,0.0,7.0,0.0075,0.0026
+17034,HU,2021,Penconazole (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+17035,HU,2021,Pencycuron,7,7.0,0.01,0.0,0.0,0.0,0.0
+17036,HU,2021,Pendimethalin,7,0.0,0.0,0.0,7.0,0.01,0.0
+17037,HU,2021,Penflufen (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+17038,HU,2021,Permethrin (sum),7,0.0,0.0,0.0,7.0,0.01,0.0
+17039,HU,2021,Pethoxamid,7,7.0,0.01,0.0,0.0,0.0,0.0
+17040,HU,2021,Phenthoate,7,7.0,0.01,0.0,0.0,0.0,0.0
+17041,HU,2021,Phosalone,7,7.0,0.01,0.0,0.0,0.0,0.0
+17042,HU,2021,Phosmet (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+17043,HU,2021,Phosphamidon,7,7.0,0.01,0.0,0.0,0.0,0.0
+17044,HU,2021,Phoxim,7,7.0,0.01,0.0,0.0,0.0,0.0
+17046,HU,2021,Picolinafen,7,7.0,0.01,0.0,0.0,0.0,0.0
+17047,HU,2021,Picoxystrobin,7,7.0,0.01,0.0,0.0,0.0,0.0
+17048,HU,2021,Pirimicarb (sum),7,7.0,0.0137,0.0053,0.0,0.0,0.0
+17049,HU,2021,Pirimiphos-Ethyl,7,7.0,0.01,0.0,0.0,0.0,0.0
+17050,HU,2021,Pirimiphos-methyl (sum),7,0.0,0.0,0.0,7.0,0.01,0.0
+17051,HU,2021,Profenofos,7,0.0,0.0,0.0,7.0,0.01,0.0
+17052,HU,2021,Prometryn,7,7.0,0.01,0.0,0.0,0.0,0.0
+17053,HU,2021,Propachlor (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+17055,HU,2021,Propaquizafop,7,7.0,0.01,0.0,0.0,0.0,0.0
+17056,HU,2021,Propargite,7,7.0,0.01,0.0,0.0,0.0,0.0
+17057,HU,2021,Propazine,7,7.0,0.01,0.0,0.0,0.0,0.0
+17058,HU,2021,Propetamphos,7,7.0,0.01,0.0,0.0,0.0,0.0
+17059,HU,2021,Propham,7,7.0,0.01,0.0,0.0,0.0,0.0
+17060,HU,2021,Propiconazole (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+17061,HU,2021,Propisochlor,7,7.0,0.01,0.0,0.0,0.0,0.0
+17062,HU,2021,Propoxur,7,7.0,0.01,0.0,0.0,0.0,0.0
+17063,HU,2021,Propyzamide (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+17064,HU,2021,Proquinazid (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+17065,HU,2021,Prosulfocarb,7,7.0,0.01,0.0,0.0,0.0,0.0
+17066,HU,2021,Prosulfuron,7,7.0,0.01,0.0,0.0,0.0,0.0
+17067,HU,2021,Prothioconazole (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+17068,HU,2021,Prothiofos,7,7.0,0.01,0.0,0.0,0.0,0.0
+17069,HU,2021,Pymetrozine (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+17070,HU,2021,Pyraclostrobin,7,7.0,0.01,0.0,0.0,0.0,0.0
+17071,HU,2021,Pyrazophos,7,0.0,0.0,0.0,7.0,0.01,0.0
+17072,HU,2021,Pyrethrins,7,7.0,0.01,0.0,0.0,0.0,0.0
+17073,HU,2021,Pyridaben,7,7.0,0.01,0.0,0.0,0.0,0.0
+17074,HU,2021,Pyridaphenthion,7,7.0,0.01,0.0,0.0,0.0,0.0
+17075,HU,2021,Pyrifenox,7,7.0,0.01,0.0,0.0,0.0,0.0
+17076,HU,2021,Pyrimethanil (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+17077,HU,2021,Pyriproxyfen,7,7.0,0.01,0.0,0.0,0.0,0.0
+17078,HU,2021,Quinalphos,7,7.0,0.01,0.0,0.0,0.0,0.0
+17079,HU,2021,Quinoclamine,7,7.0,0.01,0.0,0.0,0.0,0.0
+17080,HU,2021,Quinoxyfen,7,7.0,0.01,0.0,0.0,0.0,0.0
+17081,HU,2021,Quintozene (sum),7,7.0,0.007,0.0057,7.0,0.0073,0.0026
+17082,HU,2021,Rotenone,7,7.0,0.01,0.0,0.0,0.0,0.0
+17083,HU,2021,Secbumeton,7,7.0,0.01,0.0,0.0,0.0,0.0
+17084,HU,2021,Silthiofam,7,7.0,0.01,0.0,0.0,0.0,0.0
+17085,HU,2021,Simazine,7,7.0,0.01,0.0,0.0,0.0,0.0
+17086,HU,2021,Simetryn,7,7.0,0.01,0.0,0.0,0.0,0.0
+17087,HU,2021,Spinosad (sum),7,7.0,0.0133,0.0048,0.0,0.0,0.0
+17088,HU,2021,Spirodiclofen,7,7.0,0.004,0.0,0.0,0.0,0.0
+17089,HU,2021,Spiromesifen,7,7.0,0.01,0.0,0.0,0.0,0.0
+17090,HU,2021,Spiroxamine (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+17091,HU,2021,Sulfotep,7,7.0,0.01,0.0,0.0,0.0,0.0
+17092,HU,2021,Tebufenozide,7,7.0,0.01,0.0,0.0,0.0,0.0
+17093,HU,2021,Tebufenpyrad,7,7.0,0.01,0.0,0.0,0.0,0.0
+17094,HU,2021,Teflubenzuron,7,7.0,0.01,0.0,0.0,0.0,0.0
+17095,HU,2021,Tefluthrin (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+17096,HU,2021,Terbacil,7,7.0,0.01,0.0,0.0,0.0,0.0
+17097,HU,2021,Terbufos (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+17098,HU,2021,Terbumeton,7,7.0,0.01,0.0,0.0,0.0,0.0
+17100,HU,2021,Terbutryn,7,7.0,0.01,0.0,0.0,0.0,0.0
+17101,HU,2021,Tetrachlorvinphos,7,7.0,0.01,0.0,0.0,0.0,0.0
+17102,HU,2021,Tetraconazole (sum),7,0.0,0.0,0.0,7.0,0.01,0.0
+17103,HU,2021,Tetradifon,7,7.0,0.01,0.0,0.0,0.0,0.0
+17104,HU,2021,Tetramethrin,7,7.0,0.01,0.0,0.0,0.0,0.0
+17105,HU,2021,Thiacloprid,7,7.0,0.01,0.0,0.0,0.0,0.0
+17106,HU,2021,Thiamethoxam (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+17107,HU,2021,Thiencarbazone-methyl,7,7.0,0.01,0.0,0.0,0.0,0.0
+17108,HU,2021,Thiometon,7,7.0,0.01,0.0,0.0,0.0,0.0
+17109,HU,2021,Tolclofos-methyl,7,7.0,0.01,0.0,0.0,0.0,0.0
+17110,HU,2021,Tolylfluanid (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+17111,HU,2021,Tri-allate,7,7.0,0.01,0.0,0.0,0.0,0.0
+17112,HU,2021,Triadimenol (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+17113,HU,2021,Triazophos,7,0.0,0.0,0.0,7.0,0.01,0.0
+17114,HU,2021,Trichlorfon,7,7.0,0.01,0.0,0.0,0.0,0.0
+17115,HU,2021,Tricyclazole,7,7.0,0.01,0.0,0.0,0.0,0.0
+17116,HU,2021,Trifloxystrobin (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+17117,HU,2021,Triflumuron,7,7.0,0.01,0.0,0.0,0.0,0.0
+17118,HU,2021,Trifluralin,7,7.0,0.01,0.0,0.0,0.0,0.0
+17119,HU,2021,Triforine,7,7.0,0.01,0.0,0.0,0.0,0.0
+17120,HU,2021,Triticonazole,7,7.0,0.01,0.0,0.0,0.0,0.0
+17121,HU,2021,Vamidothion (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+17122,HU,2021,Vinclozolin (sum),7,7.0,0.01,0.0,0.0,0.0,0.0
+17123,HU,2021,Zoxamide,7,7.0,0.01,0.0,0.0,0.0,0.0
+16898,HU,2021,Cyfluthrin (sum),6,0.0,0.0,0.0,6.0,0.01,0.0
+16902,HU,2021,Cyprodinil (sum),6,6.0,0.01,0.0,0.0,0.0,0.0
+17011,HU,2021,Metolachlor and S-metolachlor (sum),6,6.0,0.01,0.0,0.0,0.0,0.0
+17099,HU,2021,Terbuthylazine,6,6.0,0.01,0.0,0.0,0.0,0.0
+16857,HU,2021,Azamethiphos,2,2.0,0.01,0.0,0.0,0.0,0.0
+17045,HU,2021,Phthalimide,2,2.0,0.01,0.0,0.0,0.0,0.0
+16911,HU,2021,Dicofol (sum),1,1.0,0.0133,0.0058,0.0,0.0,0.0
+17003,HU,2021,Metconazole (sum),1,1.0,0.01,0.0,0.0,0.0,0.0
+17054,HU,2021,Propamocarb (sum),1,1.0,0.01,0.0,0.0,0.0,0.0
+17166,HU,2023,Chlordane (sum),20,20.0,0.005,0.0,0.0,0.0,0.0
+17187,HU,2023,DDT (sum),20,20.0,0.01,0.0,20.0,0.0102,0.0075
+17199,HU,2023,Dieldrin (sum),20,0.0,0.0,0.0,20.0,0.005,0.0
+17214,HU,2023,Endosulfan (sum),20,0.0,0.0,0.0,20.0,0.0075,0.0044
+17263,HU,2023,HCH (sum),20,20.0,0.005,0.0,0.0,0.0,0.0
+17264,HU,2023,HCH-alpha,20,0.0,0.0,0.0,20.0,0.005,0.0
+17265,HU,2023,HCH-beta,20,0.0,0.0,0.0,20.0,0.005,0.0
+17266,HU,2023,Heptachlor (sum),20,20.0,0.007,0.0041,0.0,0.0,0.0
+17268,HU,2023,Hexachlorobenzene,20,0.0,0.0,0.0,20.0,0.005,0.0
+17291,HU,2023,Lindane,20,0.0,0.0,0.0,20.0,0.005,0.0
+17309,HU,2023,Methoxychlor,20,0.0,0.0,0.0,20.0,0.005,0.0
+17330,HU,2023,Oxychlordane,20,20.0,0.005,0.0,0.0,0.0,0.0
+17124,HU,2023,2-phenylphenol (sum),19,0.0,0.0,0.0,19.0,0.01,0.0
+17127,HU,2023,Acetochlor,19,19.0,0.01,0.0,0.0,0.0,0.0
+17129,HU,2023,Acrinathrin,19,19.0,0.01,0.0,0.0,0.0,0.0
+17135,HU,2023,Atrazine,19,19.0,0.01,0.0,0.0,0.0,0.0
+17141,HU,2023,Azoxystrobin,19,19.0,0.01,0.0,0.0,0.0,0.0
+17146,HU,2023,Bifenox,19,19.0,0.01,0.0,0.0,0.0,0.0
+17147,HU,2023,Bifenthrin (sum),19,0.0,0.0,0.0,19.0,0.01,0.0
+17148,HU,2023,Biphenyl,19,19.0,0.01,0.0,0.0,0.0,0.0
+17151,HU,2023,Boscalid (sum),19,0.0,0.0,0.0,19.0,0.01,0.0
+17152,HU,2023,Bromfenvinfos,19,19.0,0.01,0.0,0.0,0.0,0.0
+17155,HU,2023,Bromopropylate,19,19.0,0.01,0.0,0.0,0.0,0.0
+17169,HU,2023,Chlorobenzilate,19,0.0,0.0,0.0,19.0,0.01,0.0
+17171,HU,2023,Chlorpropham (sum),19,0.0,0.0,0.0,19.0,0.01,0.0
+17172,HU,2023,Chlorpyrifos,19,0.0,0.0,0.0,19.0,0.005,0.0
+17173,HU,2023,Chlorpyrifos-methyl,19,0.0,0.0,0.0,19.0,0.005,0.0
+17176,HU,2023,Coumaphos,19,19.0,0.01,0.0,0.0,0.0,0.0
+17182,HU,2023,Cyfluthrin (sum),19,0.0,0.0,0.0,19.0,0.01,0.0
+17184,HU,2023,Cypermethrin (sum),19,19.0,0.01,0.0,0.0,0.0,0.0
+17188,HU,2023,Deltamethrin,19,0.0,0.0,0.0,19.0,0.02,0.0
+17192,HU,2023,Diazinon,19,0.0,0.0,0.0,19.0,0.01,0.0
+17193,HU,2023,Dichlofluanid and DMSA (sum),19,19.0,0.01,0.0,0.0,0.0,0.0
+17194,HU,2023,Dichlorvos,19,19.0,0.01,0.0,0.0,0.0,0.0
+17196,HU,2023,Dicloran,19,19.0,0.01,0.0,0.0,0.0,0.0
+17197,HU,2023,Dicofol (sum),19,19.0,0.01,0.0,0.0,0.0,0.0
+17206,HU,2023,Dimethomorph (sum),19,19.0,0.01,0.0,0.0,0.0,0.0
+17208,HU,2023,Diphenylamine,19,0.0,0.0,0.0,19.0,0.01,0.0
+17221,HU,2023,Etofenprox,19,0.0,0.0,0.0,19.0,0.01,0.0
+17225,HU,2023,Fenamidone,19,19.0,0.01,0.0,0.0,0.0,0.0
+17227,HU,2023,Fenarimol,19,19.0,0.01,0.0,0.0,0.0,0.0
+17233,HU,2023,Fenpropathrin,19,19.0,0.01,0.0,0.0,0.0,0.0
+17238,HU,2023,Fipronil (sum),19,0.0,0.0,0.0,19.0,0.0034,0.001
+17239,HU,2023,Fluazifop-methyl,19,19.0,0.01,0.0,0.0,0.0,0.0
+17251,HU,2023,Fluquinconazole,19,0.0,0.0,0.0,19.0,0.01,0.0
+17252,HU,2023,Flurochloridone (sum),19,19.0,0.01,0.0,0.0,0.0,0.0
+17256,HU,2023,Fluvalinate (sum),19,19.0,0.01,0.0,0.0,0.0,0.0
+17260,HU,2023,Formothion,19,19.0,0.01,0.0,0.0,0.0,0.0
+17275,HU,2023,Indoxacarb (sum),19,0.0,0.0,0.0,19.0,0.01,0.0
+17279,HU,2023,Isocarbophos,19,19.0,0.01,0.0,0.0,0.0,0.0
+17280,HU,2023,Isodrin,19,19.0,0.01,0.0,0.0,0.0,0.0
+17289,HU,2023,Lambda-cyhalothrin (sum),19,0.0,0.0,0.0,19.0,0.01,0.0
+17314,HU,2023,Metrafenone,19,19.0,0.01,0.0,0.0,0.0,0.0
+17320,HU,2023,"N, N-Diethyl-meta-toluamide (DEET)",19,19.0,0.01,0.0,0.0,0.0,0.0
+17323,HU,2023,Nitrofen,19,19.0,0.01,0.0,0.0,0.0,0.0
+17335,HU,2023,Parathion,19,0.0,0.0,0.0,19.0,0.01,0.0
+17336,HU,2023,Parathion-methyl (sum),19,19.0,0.005,0.0,19.0,0.0074,0.0025
+17342,HU,2023,Permethrin (sum),19,0.0,0.0,0.0,19.0,0.01,0.0
+17358,HU,2023,Procymidone,19,19.0,0.01,0.0,0.0,0.0,0.0
+17375,HU,2023,Prothiofos,19,19.0,0.01,0.0,0.0,0.0,0.0
+17380,HU,2023,Pyridaben,19,19.0,0.01,0.0,0.0,0.0,0.0
+17390,HU,2023,Quintozene (sum),19,19.0,0.0053,0.0011,19.0,0.007,0.003
+17391,HU,2023,Resmethrin (sum),19,0.0,0.0,0.0,19.0,0.01,0.0
+17405,HU,2023,Tebufenpyrad,19,19.0,0.01,0.0,0.0,0.0,0.0
+17407,HU,2023,Tefluthrin (sum),19,19.0,0.01,0.0,0.0,0.0,0.0
+17414,HU,2023,Tetradifon,19,19.0,0.01,0.0,0.0,0.0,0.0
+17415,HU,2023,Tetramethrin,19,19.0,0.01,0.0,0.0,0.0,0.0
+17426,HU,2023,Triazophos,19,0.0,0.0,0.0,19.0,0.01,0.0
+17433,HU,2023,Trifluralin,19,19.0,0.01,0.0,0.0,0.0,0.0
+17437,HU,2023,Vinclozolin,19,19.0,0.01,0.0,0.0,0.0,0.0
+17125,HU,2023,Abamectin (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17126,HU,2023,Acephate,18,18.0,0.01,0.0,0.0,0.0,0.0
+17128,HU,2023,Aclonifen,18,18.0,0.01,0.0,0.0,0.0,0.0
+17130,HU,2023,Alachlor,18,18.0,0.01,0.0,0.0,0.0,0.0
+17131,HU,2023,Aldicarb (sum),18,18.0,0.0115,0.0051,0.0,0.0,0.0
+17132,HU,2023,Ametoctradin,18,18.0,0.01,0.0,0.0,0.0,0.0
+17133,HU,2023,Ametryn,18,18.0,0.01,0.0,0.0,0.0,0.0
+17134,HU,2023,Amitraz (sum),18,18.0,0.0053,0.0033,0.0,0.0,0.0
+17136,HU,2023,"Atrazine, Desisopropyl-",18,18.0,0.01,0.0,0.0,0.0,0.0
+17137,HU,2023,Azamethiphos,18,18.0,0.01,0.0,0.0,0.0,0.0
+17138,HU,2023,Azinphos-ethyl,18,0.0,0.0,0.0,18.0,0.01,0.0
+17139,HU,2023,Azinphos-methyl,18,0.0,0.0,0.0,18.0,0.01,0.0
+17140,HU,2023,Aziprotryne,18,18.0,0.01,0.0,0.0,0.0,0.0
+17142,HU,2023,Benalaxyl (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17143,HU,2023,Benthiavalicarb isopropyl (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17144,HU,2023,Benzovindiflupyr,18,18.0,0.01,0.0,0.0,0.0,0.0
+17145,HU,2023,Bifenazate (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17149,HU,2023,Bitertanol (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17153,HU,2023,Bromophos,18,18.0,0.01,0.0,0.0,0.0,0.0
+17154,HU,2023,Bromophos-ethyl,18,18.0,0.01,0.0,0.0,0.0,0.0
+17156,HU,2023,Buprofezin,18,18.0,0.01,0.0,0.0,0.0,0.0
+17157,HU,2023,Butylate,18,18.0,0.01,0.0,0.0,0.0,0.0
+17158,HU,2023,Cadusafos,18,18.0,0.01,0.0,0.0,0.0,0.0
+17159,HU,2023,Carbaryl,18,18.0,0.01,0.0,0.0,0.0,0.0
+17160,HU,2023,Carbendazim and benomyl (sum),18,18.0,0.01,0.0,18.0,0.01,0.0
+17161,HU,2023,Carbendazim and thiophanate-methyl (sum),18,18.0,0.016,0.0,0.0,0.0,0.0
+17162,HU,2023,Carbofuran (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17163,HU,2023,Carboxin,18,18.0,0.01,0.0,0.0,0.0,0.0
+17164,HU,2023,Chlorantraniliprole,18,18.0,0.01,0.0,0.0,0.0,0.0
+17165,HU,2023,Chlorbromuron,18,18.0,0.01,0.0,0.0,0.0,0.0
+17167,HU,2023,Chlorfenvinphos,18,18.0,0.01,0.0,0.0,0.0,0.0
+17168,HU,2023,Chlorfluazuron,18,18.0,0.01,0.0,0.0,0.0,0.0
+17170,HU,2023,Chlorotoluron (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17174,HU,2023,Cinidon-ethyl (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17175,HU,2023,Clomazone (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17177,HU,2023,Cyanazine,18,18.0,0.01,0.0,0.0,0.0,0.0
+17178,HU,2023,Cyazofamid,18,18.0,0.01,0.0,0.0,0.0,0.0
+17179,HU,2023,Cycloate,18,18.0,0.01,0.0,0.0,0.0,0.0
+17180,HU,2023,Cycloxydim (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17181,HU,2023,Cyflufenamid (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17183,HU,2023,Cymoxanil,18,18.0,0.01,0.0,0.0,0.0,0.0
+17185,HU,2023,Cyproconazole (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17189,HU,2023,Demeton-S-Methyl (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17190,HU,2023,Desethyl-Atrazine,18,18.0,0.01,0.0,0.0,0.0,0.0
+17191,HU,2023,Desmedipham,18,18.0,0.01,0.0,0.0,0.0,0.0
+17195,HU,2023,Diclobutrazol,18,18.0,0.01,0.0,0.0,0.0,0.0
+17198,HU,2023,Dicrotophos,18,18.0,0.01,0.0,0.0,0.0,0.0
+17200,HU,2023,Diethofencarb,18,18.0,0.01,0.0,0.0,0.0,0.0
+17201,HU,2023,Diflubenzuron (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17202,HU,2023,Diflufenican,18,18.0,0.01,0.0,0.0,0.0,0.0
+17203,HU,2023,Dimethachlor,18,18.0,0.01,0.0,0.0,0.0,0.0
+17204,HU,2023,Dimethenamid (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17205,HU,2023,Dimethoate (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17207,HU,2023,Diniconazole (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17209,HU,2023,Disulfoton (sum),18,18.0,0.0045,0.0026,0.0,0.0,0.0
+17210,HU,2023,Ditalimfos,18,18.0,0.01,0.0,0.0,0.0,0.0
+17211,HU,2023,Diuron,18,18.0,0.01,0.0,0.0,0.0,0.0
+17212,HU,2023,Dodine,18,18.0,0.01,0.0,0.0,0.0,0.0
+17213,HU,2023,EPN,18,18.0,0.01,0.0,0.0,0.0,0.0
+17216,HU,2023,Ethiofencarb,18,18.0,0.01,0.0,0.0,0.0,0.0
+17217,HU,2023,Ethion,18,18.0,0.01,0.0,0.0,0.0,0.0
+17218,HU,2023,Ethirimol,18,18.0,0.01,0.0,0.0,0.0,0.0
+17219,HU,2023,Ethofumesate (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17220,HU,2023,Ethoprophos,18,18.0,0.01,0.0,0.0,0.0,0.0
+17222,HU,2023,Etoxazole,18,18.0,0.01,0.0,0.0,0.0,0.0
+17223,HU,2023,Etrimfos,18,18.0,0.01,0.0,0.0,0.0,0.0
+17224,HU,2023,Famoxadone,18,0.0,0.0,0.0,18.0,0.01,0.0
+17226,HU,2023,Fenamiphos (sum),18,18.0,0.003,0.0,0.0,0.0,0.0
+17228,HU,2023,Fenazaquin,18,18.0,0.01,0.0,0.0,0.0,0.0
+17229,HU,2023,Fenbuconazole (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17230,HU,2023,Fenhexamid,18,18.0,0.01,0.0,0.0,0.0,0.0
+17231,HU,2023,Fenitrothion,18,18.0,0.01,0.0,0.0,0.0,0.0
+17232,HU,2023,Fenoxycarb,18,18.0,0.01,0.0,0.0,0.0,0.0
+17234,HU,2023,Fenpropidin (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17235,HU,2023,Fenpyrazamine,18,18.0,0.01,0.0,0.0,0.0,0.0
+17236,HU,2023,Fensulfothion (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17237,HU,2023,Fenthion (sum),18,18.0,0.002,0.0,18.0,0.0027,0.0029
+17240,HU,2023,Fluazinam,18,18.0,0.01,0.0,0.0,0.0,0.0
+17241,HU,2023,Flubendiamide (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17242,HU,2023,Fludioxonil,18,18.0,0.01,0.0,0.0,0.0,0.0
+17243,HU,2023,Flufenacet (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17244,HU,2023,Flufenoxuron,18,18.0,0.01,0.0,0.0,0.0,0.0
+17245,HU,2023,Flumethrin,18,18.0,0.01,0.0,0.0,0.0,0.0
+17246,HU,2023,Flumioxazin,18,18.0,0.01,0.0,0.0,0.0,0.0
+17247,HU,2023,Fluometuron,18,18.0,0.005,0.0,0.0,0.0,0.0
+17248,HU,2023,Fluopicolide,18,18.0,0.01,0.0,0.0,0.0,0.0
+17249,HU,2023,Fluopyram,18,0.0,0.0,0.0,18.0,0.01,0.0
+17250,HU,2023,Fluoxastrobin (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17254,HU,2023,Flutolanil,18,18.0,0.01,0.0,0.0,0.0,0.0
+17255,HU,2023,Flutriafol,18,18.0,0.01,0.0,0.0,0.0,0.0
+17257,HU,2023,Fluxapyroxad,18,18.0,0.01,0.0,0.0,0.0,0.0
+17258,HU,2023,Fomesafen,18,18.0,0.01,0.0,0.0,0.0,0.0
+17259,HU,2023,Fonofos,18,18.0,0.01,0.0,0.0,0.0,0.0
+17261,HU,2023,Fosthiazate,18,18.0,0.01,0.0,0.0,0.0,0.0
+17262,HU,2023,Fuberidazole,18,18.0,0.01,0.0,0.0,0.0,0.0
+17267,HU,2023,Heptenophos,18,18.0,0.01,0.0,0.0,0.0,0.0
+17269,HU,2023,Hexaconazole,18,18.0,0.01,0.0,0.0,0.0,0.0
+17270,HU,2023,Hexaflumuron,18,18.0,0.01,0.0,0.0,0.0,0.0
+17271,HU,2023,Hexazinone,18,18.0,0.01,0.0,0.0,0.0,0.0
+17272,HU,2023,Hexythiazox (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17273,HU,2023,Imazalil (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17274,HU,2023,Imidacloprid,18,18.0,0.01,0.0,0.0,0.0,0.0
+17276,HU,2023,Ipconazole,18,18.0,0.01,0.0,0.0,0.0,0.0
+17277,HU,2023,Iprodione,18,18.0,0.01,0.0,0.0,0.0,0.0
+17278,HU,2023,Iprovalicarb,18,18.0,0.01,0.0,0.0,0.0,0.0
+17281,HU,2023,Isofenphos,18,18.0,0.01,0.0,0.0,0.0,0.0
+17282,HU,2023,Isofenphos-methyl,18,18.0,0.01,0.0,0.0,0.0,0.0
+17283,HU,2023,Isoprocarb,18,18.0,0.01,0.0,0.0,0.0,0.0
+17284,HU,2023,Isoprothiolane,18,18.0,0.01,0.0,0.0,0.0,0.0
+17285,HU,2023,Isoproturon,18,18.0,0.01,0.0,0.0,0.0,0.0
+17286,HU,2023,Isopyrazam (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17287,HU,2023,Isoxadifen-ethyl,18,18.0,0.01,0.0,0.0,0.0,0.0
+17290,HU,2023,Lenacil,18,18.0,0.01,0.0,0.0,0.0,0.0
+17292,HU,2023,Linuron,18,18.0,0.01,0.0,0.0,0.0,0.0
+17293,HU,2023,Lufenuron (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17294,HU,2023,Malathion (sum),18,18.0,0.0067,0.0024,0.0,0.0,0.0
+17295,HU,2023,Mandipropamid (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17296,HU,2023,Mecarbam,18,18.0,0.01,0.0,0.0,0.0,0.0
+17297,HU,2023,Mepanipyrim,18,18.0,0.01,0.0,0.0,0.0,0.0
+17298,HU,2023,Mepronil,18,18.0,0.01,0.0,0.0,0.0,0.0
+17299,HU,2023,Metaflumizone (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17300,HU,2023,Metalaxyl and metalaxyl-M (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17301,HU,2023,Metaldehyde,18,18.0,0.01,0.0,0.0,0.0,0.0
+17302,HU,2023,Metamitron,18,18.0,0.01,0.0,0.0,0.0,0.0
+17303,HU,2023,Metazachlor,18,18.0,0.01,0.0,0.0,0.0,0.0
+17304,HU,2023,Metconazole (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17305,HU,2023,Methamidophos,18,18.0,0.01,0.0,0.0,0.0,0.0
+17306,HU,2023,Methidathion,18,0.0,0.0,0.0,18.0,0.01,0.0
+17307,HU,2023,Methiocarb (sum),18,18.0,0.0145,0.0078,0.0,0.0,0.0
+17308,HU,2023,Methomyl and Thiodicarb (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17310,HU,2023,Methoxyfenozide,18,18.0,0.01,0.0,0.0,0.0,0.0
+17311,HU,2023,Metobromuron,18,18.0,0.01,0.0,0.0,0.0,0.0
+17312,HU,2023,Metolachlor and S-metolachlor (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17313,HU,2023,Metoxuron,18,18.0,0.01,0.0,0.0,0.0,0.0
+17315,HU,2023,Metribuzin,18,18.0,0.01,0.0,18.0,0.01,0.0
+17316,HU,2023,Mevinphos (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17317,HU,2023,Molinate,18,18.0,0.01,0.0,0.0,0.0,0.0
+17318,HU,2023,Monocrotophos,18,18.0,0.01,0.0,0.0,0.0,0.0
+17319,HU,2023,Monolinuron,18,18.0,0.01,0.0,0.0,0.0,0.0
+17321,HU,2023,Napropamide (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17322,HU,2023,Nitenpyram,18,18.0,0.01,0.0,0.0,0.0,0.0
+17324,HU,2023,Nuarimol,18,18.0,0.01,0.0,0.0,0.0,0.0
+17325,HU,2023,Ofurace,18,18.0,0.01,0.0,0.0,0.0,0.0
+17326,HU,2023,Oxadiazon,18,18.0,0.01,0.0,0.0,0.0,0.0
+17327,HU,2023,Oxadixyl,18,18.0,0.01,0.0,0.0,0.0,0.0
+17328,HU,2023,Oxamyl,18,18.0,0.01,0.0,0.0,0.0,0.0
+17329,HU,2023,Oxycarboxin,18,18.0,0.01,0.0,0.0,0.0,0.0
+17331,HU,2023,Oxydemeton-methyl (sum),18,18.0,0.0111,0.003,0.0,0.0,0.0
+17332,HU,2023,Oxyfluorfen,18,18.0,0.01,0.0,0.0,0.0,0.0
+17333,HU,2023,Paclobutrazol (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17334,HU,2023,Paraoxon,18,18.0,0.01,0.0,0.0,0.0,0.0
+17337,HU,2023,Penconazole (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17338,HU,2023,Pencycuron,18,18.0,0.01,0.0,0.0,0.0,0.0
+17339,HU,2023,Pendimethalin,18,0.0,0.0,0.0,18.0,0.01,0.0
+17340,HU,2023,Penflufen (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17341,HU,2023,Penthiopyrad,18,18.0,0.01,0.0,0.0,0.0,0.0
+17343,HU,2023,Pethoxamid,18,18.0,0.01,0.0,0.0,0.0,0.0
+17344,HU,2023,Phenmedipham,18,18.0,0.01,0.0,0.0,0.0,0.0
+17345,HU,2023,Phenthoate,18,18.0,0.01,0.0,0.0,0.0,0.0
+17346,HU,2023,Phorate (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17347,HU,2023,Phosalone,18,18.0,0.01,0.0,0.0,0.0,0.0
+17349,HU,2023,Phosphamidon,18,18.0,0.01,0.0,0.0,0.0,0.0
+17350,HU,2023,Phoxim,18,18.0,0.01,0.0,0.0,0.0,0.0
+17351,HU,2023,Picolinafen,18,18.0,0.01,0.0,0.0,0.0,0.0
+17352,HU,2023,Picoxystrobin,18,18.0,0.01,0.0,0.0,0.0,0.0
+17353,HU,2023,Piperonyl Butoxide,18,18.0,0.01,0.0,0.0,0.0,0.0
+17354,HU,2023,Pirimicarb (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17355,HU,2023,Pirimiphos-Ethyl,18,18.0,0.01,0.0,0.0,0.0,0.0
+17356,HU,2023,Pirimiphos-methyl (sum),18,0.0,0.0,0.0,18.0,0.01,0.0
+17357,HU,2023,Prochloraz (sum),18,0.0,0.0,0.0,18.0,0.01,0.0
+17359,HU,2023,Profenofos,18,0.0,0.0,0.0,18.0,0.01,0.0
+17360,HU,2023,Prometryn,18,18.0,0.01,0.0,0.0,0.0,0.0
+17361,HU,2023,Propachlor (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17362,HU,2023,Propaquizafop,18,18.0,0.01,0.0,0.0,0.0,0.0
+17363,HU,2023,Propargite,18,18.0,0.01,0.0,0.0,0.0,0.0
+17364,HU,2023,Propazine,18,18.0,0.01,0.0,0.0,0.0,0.0
+17365,HU,2023,Propetamphos,18,18.0,0.01,0.0,0.0,0.0,0.0
+17366,HU,2023,Propham,18,18.0,0.01,0.0,0.0,0.0,0.0
+17367,HU,2023,Propiconazole (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17368,HU,2023,Propisochlor,18,18.0,0.01,0.0,0.0,0.0,0.0
+17369,HU,2023,Propoxur,18,18.0,0.01,0.0,0.0,0.0,0.0
+17370,HU,2023,Propyzamide (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17371,HU,2023,Proquinazid (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17372,HU,2023,Prosulfocarb,18,18.0,0.01,0.0,0.0,0.0,0.0
+17373,HU,2023,Prosulfuron,18,18.0,0.01,0.0,0.0,0.0,0.0
+17374,HU,2023,Prothioconazole (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17376,HU,2023,Pymetrozine,18,18.0,0.01,0.0,0.0,0.0,0.0
+17377,HU,2023,Pyraclostrobin,18,18.0,0.01,0.0,0.0,0.0,0.0
+17378,HU,2023,Pyrazophos,18,0.0,0.0,0.0,18.0,0.01,0.0
+17379,HU,2023,Pyrethrins,18,18.0,0.01,0.0,0.0,0.0,0.0
+17381,HU,2023,Pyridalyl,18,18.0,0.01,0.0,0.0,0.0,0.0
+17382,HU,2023,Pyridaphenthion,18,18.0,0.01,0.0,0.0,0.0,0.0
+17383,HU,2023,Pyrifenox,18,18.0,0.01,0.0,0.0,0.0,0.0
+17384,HU,2023,Pyrimethanil,18,18.0,0.01,0.0,0.0,0.0,0.0
+17385,HU,2023,Pyriofenone,18,18.0,0.01,0.0,0.0,0.0,0.0
+17386,HU,2023,Pyriproxyfen,18,18.0,0.01,0.0,0.0,0.0,0.0
+17387,HU,2023,Quinalphos,18,18.0,0.01,0.0,0.0,0.0,0.0
+17388,HU,2023,Quinoclamine,18,18.0,0.01,0.0,0.0,0.0,0.0
+17389,HU,2023,Quinoxyfen,18,18.0,0.01,0.0,0.0,0.0,0.0
+17392,HU,2023,Rotenone,18,18.0,0.01,0.0,0.0,0.0,0.0
+17393,HU,2023,Secbumeton,18,18.0,0.01,0.0,0.0,0.0,0.0
+17394,HU,2023,Silthiofam,18,18.0,0.01,0.0,0.0,0.0,0.0
+17395,HU,2023,Simazine,18,18.0,0.01,0.0,0.0,0.0,0.0
+17396,HU,2023,Simetryn,18,18.0,0.01,0.0,0.0,0.0,0.0
+17397,HU,2023,Spinetoram (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17398,HU,2023,Spinosad (sum),18,18.0,0.0133,0.0048,0.0,0.0,0.0
+17399,HU,2023,Spiromesifen,18,18.0,0.01,0.0,0.0,0.0,0.0
+17400,HU,2023,Spirotetramat (sum),18,18.0,0.0051,0.0014,0.0,0.0,0.0
+17401,HU,2023,Sulfotep,18,18.0,0.01,0.0,0.0,0.0,0.0
+17402,HU,2023,Sulfoxaflor (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17403,HU,2023,Tebuconazole (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17404,HU,2023,Tebufenozide,18,18.0,0.01,0.0,0.0,0.0,0.0
+17406,HU,2023,Teflubenzuron,18,18.0,0.01,0.0,0.0,0.0,0.0
+17408,HU,2023,Terbacil,18,18.0,0.01,0.0,0.0,0.0,0.0
+17409,HU,2023,Terbufos (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17410,HU,2023,Terbumeton,18,18.0,0.01,0.0,0.0,0.0,0.0
+17411,HU,2023,Terbuthylazine,18,18.0,0.01,0.0,0.0,0.0,0.0
+17412,HU,2023,Terbutryn,18,18.0,0.01,0.0,0.0,0.0,0.0
+17413,HU,2023,Tetrachlorvinphos,18,18.0,0.01,0.0,0.0,0.0,0.0
+17416,HU,2023,Thiabendazole,18,18.0,0.01,0.0,0.0,0.0,0.0
+17417,HU,2023,Thiacloprid,18,18.0,0.01,0.0,0.0,0.0,0.0
+17418,HU,2023,Thiamethoxam (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17419,HU,2023,Thiencarbazone-methyl,18,18.0,0.01,0.0,0.0,0.0,0.0
+17420,HU,2023,Thiometon,18,18.0,0.01,0.0,0.0,0.0,0.0
+17421,HU,2023,Tolclofos-methyl,18,18.0,0.01,0.0,0.0,0.0,0.0
+17422,HU,2023,Tolylfluanid (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17423,HU,2023,Tri-allate,18,18.0,0.01,0.0,0.0,0.0,0.0
+17424,HU,2023,Triadimefon and triadimenol (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17425,HU,2023,Triadimenol (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17427,HU,2023,Trichlorfon,18,18.0,0.01,0.0,0.0,0.0,0.0
+17429,HU,2023,Tricyclazole,18,18.0,0.01,0.0,0.0,0.0,0.0
+17430,HU,2023,Trifloxystrobin,18,18.0,0.01,0.0,0.0,0.0,0.0
+17431,HU,2023,Triflumizole (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17432,HU,2023,Triflumuron,18,18.0,0.01,0.0,0.0,0.0,0.0
+17434,HU,2023,Triforine,18,18.0,0.01,0.0,0.0,0.0,0.0
+17435,HU,2023,Triticonazole,18,18.0,0.01,0.0,0.0,0.0,0.0
+17436,HU,2023,Vamidothion (sum),18,18.0,0.01,0.0,0.0,0.0,0.0
+17438,HU,2023,Zoxamide,18,18.0,0.01,0.0,0.0,0.0,0.0
+17150,HU,2023,Bixafen (sum),17,0.0,0.0,0.0,17.0,0.01,0.0
+17186,HU,2023,Cyprodinil (sum),17,17.0,0.01,0.0,0.0,0.0,0.0
+17253,HU,2023,Flusilazole (sum),17,0.0,0.0,0.0,17.0,0.01,0.0
+17348,HU,2023,Phosmet (sum),14,14.0,0.01,0.0,0.0,0.0,0.0
+17288,HU,2023,Isoxaflutole (sum),6,6.0,0.01,0.0,0.0,0.0,0.0
+17215,HU,2023,Endrin aldehyde,1,1.0,0.005,0.0,0.0,0.0,0.0
+17428,HU,2023,"Trichlorophenol, 2,4,6-",1,1.0,0.01,0.0,0.0,0.0,0.0
+17458,IE,2011,Bifenthrin (sum),59,0.0,0.0,0.0,1.0,0.005,0.0
+17611,IE,2011,Iprovalicarb,59,1.0,0.024,0.0,0.0,0.0,0.0
+17622,IE,2011,Lambda-Cyhalothrin (sum),59,1.0,0.018,0.0,0.0,0.0,0.0
+19318,IE,2016,"2,4-D",84,1.0,0.29,0.0,0.0,0.0,0.0
+19559,IE,2016,MCPA and MCPB (sum),84,1.0,0.39,0.0,0.0,0.0,0.0
+19563,IE,2016,Mecoprop (sum),84,1.0,0.35,0.0,0.0,0.0,0.0
+19758,IE,2017,Benzalkonium chloride,64,2.0,0.191,0.0721,0.0,0.0,0.0
+21001,IE,2021,Chlorate,45,0.0,0.0,0.0,25.0,0.0342,0.0154
+21407,IE,2022,Chlorate,71,0.0,0.0,0.0,3.0,0.0221,0.0117
+21546,IE,2022,Fosetyl-Al (sum),71,2.0,0.029,0.0198,0.0,0.0,0.0
+21814,IE,2023,Chlorate,81,2.0,0.22,0.0,0.0,0.0,0.0
+21954,IE,2023,Fosetyl-Al (sum),80,1.0,0.047,0.0,0.0,0.0,0.0
+22363,IE,2024,Fosetyl-Al (sum),77,1.0,0.08,0.0,0.0,0.0,0.0
+23589,IT,2016,BAC 12,10,0.0,0.0,0.0,4.0,0.0365,0.0359
+23590,IT,2016,BAC 14,10,0.0,0.0,0.0,3.0,0.0337,0.0176
+23593,IT,2016,Benzalkonium chloride,4,0.0,0.0,0.0,1.0,0.012,0.0
+23851,IT,2017,BAC 12,15,0.0,0.0,0.0,4.0,0.0128,0.0019
+24652,IT,2022,2-phenylphenol (sum),38,0.0,0.0,0.0,2.0,0.0055,0.0021
+24859,IT,2022,Piperonyl Butoxide,13,1.0,0.002,0.0,0.0,0.0,0.0
+24703,IT,2022,Copper compounds,2,0.0,0.0,0.0,2.0,0.066,0.0042
+25022,IT,2023,Fenthion (sum),154,0.0,0.0,0.0,1.0,0.009,0.0
+24937,IT,2023,Bixafen (sum),83,1.0,0.027,0.0,0.0,0.0,0.0
+24993,IT,2023,Diniconazole (sum),58,1.0,0.006,0.0,0.0,0.0,0.0
+24965,IT,2023,Copper compounds,4,0.0,0.0,0.0,2.0,0.046,0.0
+25208,IT,2024,Chlorate,18,0.0,0.0,0.0,1.0,0.03,0.0
+26389,MK,2024,Copper compounds,4,4.0,9.9625,4.0312,0.0,0.0,0.0
+28038,NL,2021,Chlorate,20,0.0,0.0,0.0,1.0,0.033,0.0
+28472,NL,2022,Bromide ion,20,19.0,2.5989,1.8585,0.0,0.0,0.0
+28492,NL,2022,Chlorate,20,0.0,0.0,0.0,4.0,0.0162,0.0053
+28862,NL,2024,BAC 12,77,2.0,0.775,0.8839,1.0,0.025,0.0
+28863,NL,2024,BAC 14,77,1.0,0.24,0.0,2.0,0.0515,0.0233
+28864,NL,2024,BAC 16,77,0.0,0.0,0.0,1.0,0.02,0.0
+28867,NL,2024,Benzalkonium chloride,77,1.0,1.6,0.0,2.0,0.064,0.0057
+28890,NL,2024,DDAC (mix),77,2.0,0.775,0.8839,1.0,0.03,0.0
+29167,NO,2023,Copper compounds,2,0.0,0.0,0.0,2.0,0.0415,0.0177
+29647,PL,2024,DDT (sum),139,1.0,2.0,0.0,0.0,0.0,0.0
+30353,PT,2023,Chlorate,2,0.0,0.0,0.0,1.0,0.1,0.0
+30652,RO,2011,Chlordane (sum),13,0.0,0.0,0.0,1.0,0.0018,0.0
+30659,RO,2011,DDT (sum),13,0.0,0.0,0.0,8.0,0.001,0.0004
+30670,RO,2011,HCH-alpha,13,0.0,0.0,0.0,2.0,0.0006,0.0
+30671,RO,2011,HCH-beta,13,0.0,0.0,0.0,1.0,0.0013,0.0
+30674,RO,2011,Hexachlorobenzene,13,0.0,0.0,0.0,1.0,0.0006,0.0
+30673,RO,2011,Heptachlor (sum),11,0.0,0.0,0.0,1.0,0.0017,0.0
+30699,RO,2012,DDT (sum),15,0.0,0.0,0.0,10.0,0.0011,0.0006
+30708,RO,2012,HCH-alpha,15,0.0,0.0,0.0,5.0,0.0009,0.0007
+30709,RO,2012,HCH-beta,15,0.0,0.0,0.0,1.0,0.0005,0.0
+30710,RO,2012,Heptachlor (sum of isomers),10,0.0,0.0,0.0,4.0,0.0015,0.0004
+30739,RO,2013,DDT (sum),27,0.0,0.0,0.0,5.0,0.0009,0.0002
+30749,RO,2013,HCH-beta,27,0.0,0.0,0.0,1.0,0.0005,0.0
+30779,RO,2014,DDT (sum),12,0.0,0.0,0.0,3.0,0.0012,0.0009
+30782,RO,2014,Dieldrin (sum),12,0.0,0.0,0.0,1.0,0.0027,0.0
+30789,RO,2014,HCH-alpha,12,0.0,0.0,0.0,3.0,0.0009,0.0006
+30793,RO,2014,Hexachlorobenzene,12,0.0,0.0,0.0,1.0,0.0004,0.0
+30791,RO,2014,Heptachlor (sum of isomers),10,0.0,0.0,0.0,1.0,0.001,0.0
+30815,RO,2015,Chlordane (sum),18,0.0,0.0,0.0,6.0,0.0014,0.0004
+30822,RO,2015,DDT (sum),18,0.0,0.0,0.0,8.0,0.0043,0.0039
+30825,RO,2015,Dieldrin (sum),18,0.0,0.0,0.0,2.0,0.0026,0.0023
+30832,RO,2015,HCH-alpha,18,0.0,0.0,0.0,4.0,0.0028,0.0005
+30836,RO,2015,Hexachlorobenzene,18,0.0,0.0,0.0,3.0,0.0015,0.0009
+30838,RO,2015,Lindane,18,0.0,0.0,0.0,1.0,0.0005,0.0
+30834,RO,2015,Heptachlor (sum of isomers),16,0.0,0.0,0.0,1.0,0.001,0.0
+30824,RO,2015,Diazinon,14,0.0,0.0,0.0,1.0,0.0004,0.0
+30839,RO,2015,Malathion (sum),14,1.0,0.0006,0.0,0.0,0.0,0.0
+30855,RO,2016,Chlordane (sum),25,0.0,0.0,0.0,6.0,0.001,0.0004
+30862,RO,2016,DDT (sum),25,0.0,0.0,0.0,5.0,0.0011,0.0005
+30873,RO,2016,HCH-alpha,25,0.0,0.0,0.0,3.0,0.0027,0.0005
+30877,RO,2016,Hexachlorobenzene,25,0.0,0.0,0.0,4.0,0.0017,0.0007
+30875,RO,2016,Heptachlor (sum of isomers),24,0.0,0.0,0.0,2.0,0.0017,0.0016
+30904,RO,2017,HCH-alpha,1,0.0,0.0,0.0,1.0,0.002,0.0
+30907,RO,2017,Hexachlorobenzene,1,0.0,0.0,0.0,1.0,0.002,0.0
+30924,RO,2019,DDT (sum),7,0.0,0.0,0.0,1.0,0.002,0.0
+32215,SK,2013,DDT (sum),15,0.0,0.0,0.0,13.0,0.0006,0.0004
+32214,SK,2013,DDAC (mix),5,1.0,0.15,0.0,2.0,0.0375,0.0021
+32284,SK,2016,DDT (sum),15,0.0,0.0,0.0,10.0,0.0005,0.0003
+32298,SK,2016,Hexachlorobenzene,15,0.0,0.0,0.0,2.0,0.0002,0.0001
+32328,SK,2019,DDT (sum),15,0.0,0.0,0.0,1.0,0.0005,0.0

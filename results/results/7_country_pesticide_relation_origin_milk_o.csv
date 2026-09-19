@@ -1,39 +1,37 @@
-,origCountry,pesticideCode,sample_count,name,full_name,code,limit,percentage
-0,AT,RF-0102-001-PPP,9,Copper compounds,Copper compounds (copper),RF-0102-001-PPP,2.0,8.82
-1,AT,RF-0237-001-PPP,5,Hexachlorobenzene,Hexachlorobenzene,RF-0237-001-PPP,0.005,4.9
-2,AT,RF-0032-001-PPP,1,Azinphos-ethyl,Azinphos-ethyl,RF-0032-001-PPP,0.01,0.98
-3,BE,RF-0050-001-PPP,4,Bromide ion,Bromide ion,RF-0050-001-PPP,0.05,8.7
-4,BE,RF-00000015-CHE,1,Chlorate,Chlorate,RF-00000015-CHE,0.1,2.17
-5,CY,RF-0119-001-PPP,2,DDT (sum),"DDT (sum of p,p'-DDT, o,p'-DDT, p-p'-DDE and p,p'-TDE (DDD) expressed as DDT)",RF-0119-001-PPP,0.04,3.7
-6,CY,RF-0119-002-PPP,2,"DDE, p,p-","DDE, p,p-",RF-0119-002-PPP,0.04,3.7
-7,CZ,RF-0119-001-PPP,1,DDT (sum),"DDT (sum of p,p'-DDT, o,p'-DDT, p-p'-DDE and p,p'-TDE (DDD) expressed as DDT)",RF-0119-001-PPP,0.04,1.39
-8,CZ,RF-0119-002-PPP,1,"DDE, p,p-","DDE, p,p-",RF-0119-002-PPP,0.04,1.39
-9,DE,RF-0237-001-PPP,106,Hexachlorobenzene,Hexachlorobenzene,RF-0237-001-PPP,0.005,15.27
-10,DE,RF-0102-001-PPP,81,Copper compounds,Copper compounds (copper),RF-0102-001-PPP,2.0,11.67
-11,DE,RF-0119-001-PPP,41,DDT (sum),"DDT (sum of p,p'-DDT, o,p'-DDT, p-p'-DDE and p,p'-TDE (DDD) expressed as DDT)",RF-0119-001-PPP,0.04,5.91
-12,DE,RF-0050-001-PPP,5,Bromide ion,Bromide ion,RF-0050-001-PPP,0.05,0.72
-13,DE,RF-0277-001-PPP,4,Mercury compounds,Mercury compounds (sum of mercury compounds expressed as mercury),RF-0277-001-PPP,0.01,0.58
-14,DE,RF-00002582-PAR,2,Benzalkonium chloride,Benzalkonium chloride (BAC),RF-00002582-PAR,0.1,0.29
-15,DE,RF-0263-001-PPP,2,Lindane,Lindane (Gamma-isomer of hexachlorocyclohexane (HCH)),RF-0263-001-PPP,0.01,0.29
-16,DE,RF-00007627-PAR,1,DDAC-C10,Didecyldimethylammonium chloride (DDAC) n=10,RF-00007627-PAR,0.1,0.14
-17,DE,RF-0032-001-PPP,1,Azinphos-ethyl,Azinphos-ethyl,RF-0032-001-PPP,0.01,0.14
-18,DE,RF-0119-002-PPP,1,"DDE, p,p-","DDE, p,p-",RF-0119-002-PPP,0.04,0.14
-19,DK,RF-0102-001-PPP,1,Copper compounds,Copper compounds (copper),RF-0102-001-PPP,2.0,0.99
-20,ES,RF-0119-001-PPP,1,DDT (sum),"DDT (sum of p,p'-DDT, o,p'-DDT, p-p'-DDE and p,p'-TDE (DDD) expressed as DDT)",RF-0119-001-PPP,0.04,0.45
-21,ES,RF-0119-002-PPP,1,"DDE, p,p-","DDE, p,p-",RF-0119-002-PPP,0.04,0.45
-22,FR,RF-0021-001-PPP,1,Dieldrin (sum),Aldrin and Dieldrin (Aldrin and dieldrin combined expressed as dieldrin),RF-0021-001-PPP,0.006,0.28
-23,FR,RF-0021-003-PPP,1,Dieldrin,Dieldrin,RF-0021-003-PPP,0.006,0.28
-24,FR,RF-0823-001-PPP,1,2-phenylphenol (sum),"2-phenylphenol (sum of 2-phenylphenol and its conjugates, expressed as 2-phenylphenol)",RF-0823-001-PPP,0.01,0.28
-25,GB,RF-1078-004-PPP,2,BAC 12,Benzalkonium chloride (BAC) n=12,RF-1078-004-PPP,0.1,0.35
-26,GB,RF-1078-005-PPP,1,BAC 14,Benzalkonium chloride (BAC) n=14,RF-1078-005-PPP,0.1,0.17
-27,NL,RF-0050-001-PPP,13,Bromide ion,Bromide ion,RF-0050-001-PPP,0.05,16.05
-28,NL,RF-00000015-CHE,3,Chlorate,Chlorate,RF-00000015-CHE,0.1,3.7
-29,RO,RF-0119-001-PPP,11,DDT (sum),"DDT (sum of p,p'-DDT, o,p'-DDT, p-p'-DDE and p,p'-TDE (DDD) expressed as DDT)",RF-0119-001-PPP,0.04,14.47
-30,RO,RF-0075-005-PPP,6,Chlordane (sum),Chlordane (sum of cis- and trans-isomers and oxychlordane expressed as chlordane),RF-0075-005-PPP,0.002,7.89
-31,RO,RF-0237-001-PPP,4,Hexachlorobenzene,Hexachlorobenzene,RF-0237-001-PPP,0.005,5.26
-32,RO,RF-0238-001-PPP,3,HCH-alpha,"Hexachlorocyclohexane (HCH), alpha-isomer",RF-0238-001-PPP,0.01,3.95
-33,RO,RF-0236-006-PPP,2,Heptachlor (sum of isomers),Heptachlor (sum of heptachlor and the cis and trans isomers of heptachlor epoxide),RF-0236-006-PPP,0.004,2.63
-34,RO,RF-0239-002-PPP,1,HCH-beta,"Hexachlorocyclohexane (HCH), beta-isomer",RF-0239-002-PPP,0.01,1.32
-35,SK,RF-0119-001-PPP,24,DDT (sum),"DDT (sum of p,p'-DDT, o,p'-DDT, p-p'-DDE and p,p'-TDE (DDD) expressed as DDT)",RF-0119-001-PPP,0.04,45.28
-36,SK,RF-0119-002-PPP,24,"DDE, p,p-","DDE, p,p-",RF-0119-002-PPP,0.04,45.28
-37,SK,RF-0237-001-PPP,2,Hexachlorobenzene,Hexachlorobenzene,RF-0237-001-PPP,0.005,3.77
+,origCountry,tag,sample_count,percentage
+0,AT,Copper compounds,9,8.82
+1,AT,Hexachlorobenzene,5,4.9
+2,AT,Azinphos-ethyl,1,0.98
+3,BE,Bromide ion,4,8.7
+4,BE,Chlorate,1,2.17
+5,CY,DDT (sum),2,3.7
+6,CZ,DDT (sum),1,1.39
+7,DE,Hexachlorobenzene,106,15.27
+8,DE,Copper compounds,81,11.67
+9,DE,DDT (sum),41,5.91
+10,DE,Bromide ion,5,0.72
+11,DE,Mercury compounds,4,0.58
+12,DE,Benzalkonium chloride,2,0.29
+13,DE,Lindane,2,0.29
+14,DE,Azinphos-ethyl,1,0.14
+15,DE,BAC 12,1,0.14
+16,DE,BAC 14,1,0.14
+17,DK,Copper compounds,1,0.99
+18,ES,DDT (sum),1,0.45
+19,FR,2-phenylphenol (sum),1,0.28
+20,FR,Dieldrin (sum),1,0.28
+21,GB,BAC 12,2,0.35
+22,GB,BAC 14,1,0.17
+23,HU,Benfuracarb,1,1.64
+24,IE,Fosetyl-Al (sum),1,0.96
+25,IT,Piperonyl Butoxide,1,0.31
+26,NL,Bromide ion,13,16.05
+27,NL,Chlorate,3,3.7
+28,RO,DDT (sum),11,14.47
+29,RO,Chlordane (sum),6,7.89
+30,RO,Hexachlorobenzene,4,5.26
+31,RO,HCH-alpha,3,3.95
+32,RO,Heptachlor (sum of isomers),2,2.63
+33,RO,HCH-beta,1,1.32
+34,SK,DDT (sum),24,45.28
+35,SK,Hexachlorobenzene,2,3.77
